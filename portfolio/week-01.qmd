@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Siap dinilai"
-self_score: "3.0"
+status: "Belum dimulai"
+self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -22,54 +22,8 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-## Konteks performance
-
-**Tanggal dan setting:** [ISI TANGGAL], diskusi kelompok tugas kuliah membahas pembagian kerja menjelang tenggat pengumpulan.
-
-**Persons dan relationship:** Rekan A, satu anggota tim dalam kelompok tugas yang sama, relasi setara sebagai rekan kerja dalam proyek bersama.
-
-**Objective dan initial state:** Awalnya saya melihat Rekan A hanya sebagai anggota yang menunda pekerjaan. Itu adalah story, bukan fakta, karena fakta yang saya punya baru satu, bagian tugasnya belum selesai sesuai waktu yang disepakati. Tujuan saya beralih dari menuduh menjadi mencari kendala sebenarnya dan menyepakati langkah konkret bersama.
-
-## Evidence
-
-[ISI BUKTI NYATA, misalnya potongan chat kelompok, riwayat revisi dokumen, atau catatan singkat soal percakapannya. Jelaskan juga bagian mana yang merupakan kontribusi kamu.]
-
-## Analisis komunikasi
-
-| Elemen | Evidence dan analisis |
-|---|---|
-| Person & character | Rekan A bukan sekadar anggota yang malas, tapi partner kerja dengan kemungkinan kendala atau prioritas lain yang belum saya pahami saat itu. |
-| Objective & state | Dari asumsi sepihak (dianggap tidak bertanggung jawab) menuju kesepakatan bersama soal pembagian kerja dan tenggat baru. |
-| Repertoire & language | Awalnya saya cenderung menegur langsung dengan nada menuntut, lalu beralih bertanya terbuka, "Apa yang menghambat bagian kamu?", sebelum menetapkan langkah berikutnya. |
-| Response & adaptation | Nada menuntut memicu respons defensif dari rekan, sementara pertanyaan terbuka membuatnya lebih kooperatif dan mau menjelaskan kendalanya. |
-| Agreement/action | [ISI KESEPAKATAN KONKRET YANG BENAR-BENAR TERJADI] |
-| Relationship outcome | [ISI BAGAIMANA HUBUNGAN KERJA KALIAN SETELAHNYA] |
-
-## Penggunaan AI
-
-Menggunakan Claude untuk membantu menyusun draf refleksi dan merapikan struktur analisis komunikasi dari pengalaman yang saya ceritakan. Prompt yang dipakai berupa permintaan menyusun analisis kontras peran komunikasi dan merumuskan sasaran pertumbuhan perilaku yang spesifik dan terukur. Kerangka analisis dan susunan kalimat dipakai sebagai draf awal, sementara detail konkret seperti tanggal, bukti percakapan, dan hasil kesepakatan tetap saya isi dan verifikasi sendiri. Saya memastikan tidak ada nama asli rekan yang dicantumkan. Proses mengenali pola komunikasi otomatis saya dan merumuskan langkah konkret untuk berubah tetap saya lakukan sendiri.
-
-## Feedback dan tindak lanjut
-
-**Feedback yang diterima:** Teman-teman terdekat sering bilang awalnya saya terlihat kaku dan sulit didekati, tapi setelah lebih kenal mereka melihat saya sebagai orang yang baik dan menyenangkan diajak berteman.
-
-**Adaptation/replay:** Setelah menyadari pola ini, saya mulai menahan nada menuntut dan lebih dulu bertanya sebelum menegur atau menyimpulkan.
-
-**Next practice:** Bertanya kendala terlebih dahulu sebelum menegur, setiap kali rekan tim menunda pekerjaan.
-
-## Self-assessment
-
-| Dimensi | Skor 1-4 | Evidence singkat |
-|---|---|---|
-| Person & Character | 3 | Membedakan rekan sebagai pribadi dengan kendala nyata, bukan sekadar label |
-| Objective & State | 3 | State awal (asumsi) dan tujuan (kesepakatan) dinyatakan eksplisit |
-| Repertoire, Language & AI | 3 | Bahasa berubah dari menuntut ke bertanya terbuka, penggunaan AI dijelaskan dan batasnya jelas |
-| Response & Adaptation | 3 | Menyadari respons defensif rekan memicu perubahan pendekatan saya |
-| Agreement, Action & Relationship | 3 | Kesepakatan dan dampak ke hubungan kerja tercatat |
-
-**Total:** 15 / 20
-
-## Lembar Kerja Mahasiswa (Peta Karakter Lengkap)
+{{< include ../includes/evidence-template.md >}}
+## Lembar Kerja Mahasiswa
 
 **Nama Mahasiswa:** Kezia Josephine Manik  
 **Tanggal Pengerjaan:** 18 September 2026
@@ -107,4 +61,4 @@ Menggunakan Claude untuk membantu menyusun draf refleksi dan merapikan struktur 
 
 **Sasaran Pertumbuhan Perilaku Terukur:** Selama empat minggu ke depan, dalam berinteraksi dengan keluarga atau sahabat, saya akan berinisiatif memulai percakapan setidaknya satu kali dalam seminggu tanpa menunggu diajak terlebih dahulu. Selain itu, ketika rekan tim menunda pekerjaan, saya akan menanyakan terlebih dahulu apa kendala yang mereka hadapi sebelum memberikan teguran.
 
-**Umpan Balik Jujur:** [ISI NAMA/INISIAL ORANG YANG BISA DIMINTAI FEEDBACK]
+**Umpan Balik Jujur:** Teman-teman terdekat saya sering mengatakan bahwa pada awalnya saya terlihat cukup kaku dan sulit didekati. Namun, setelah mengenal saya lebih dekat, mereka justru melihat saya sebagai orang yang baik dan menyenangkan untuk diajak berteman. Feedback ini membuat saya menyadari bahwa cara saya berkomunikasi di awal terkadang belum sepenuhnya menunjukkan kepribadian saya yang sebenarnya dan saya akan berusaha untuk membangun first impression yang lebih baik lagi. 
