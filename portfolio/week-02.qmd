@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,131 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+# Tiga Narasi atas Satu Peristiwa
+
+**Nama Mahasiswa:** Kezia Josephine Manik
+**Tanggal Pengerjaan:** 23 September 2026
+
+---
+
+# Bagian 1 — Identifikasi Kasus
+
+**Peristiwa yang Dapat Diamati (Fakta Objektif):** Dalam proyek kelompok Algoritma dan Pemrograman 1, kami telah menyepakati penggunaan branch dan aturan commit di GitHub. Salah satu anggota melakukan commit langsung ke branch `main` tanpa menunggu pengecekan. Setelah commit tersebut, beberapa kode yang sebelumnya dikerjakan anggota lain tertimpa. Commit tersebut juga tidak disertai dokumentasi. Setelah kejadian, tidak ada permintaan maaf dari anggota tersebut.
+
+**Interpretasi Pertama (Asumsi Otomatis):** Saya langsung menyimpulkan bahwa anggota tersebut tidak bertanggung jawab dan tidak menghargai pekerjaan anggota lain. Saya juga menganggap bahwa dia seharusnya sudah memahami alur kerja yang telah disepakati dan bertanya jika masih belum memahaminya.
+
+**Emosi yang Dirasakan (skala 0-10):** Saya merasa sangat marah dan kesal, sekitar 9/10. Emosi tersebut semakin kuat karena pada saat yang sama saya sedang menghadapi beberapa tugas besar dari mata kuliah lain.
+
+**Sensasi Tubuh yang Muncul:** Saya mengalami migrain dan sakit perut akibat stres.
+
+---
+
+# Bagian 2 — Membedah Tiga Narasi
+
+### Versi A: Narasi Korban
+
+**Isi Narasi Korban:** Saya merasa sudah berusaha mengatur alur kerja dengan baik, tetapi kesalahan tersebut membuat pekerjaan saya bertambah. Tidak adanya permintaan maaf juga membuat saya merasa tidak dihargai.
+
+**Pilihan Tindakan Otomatis:** Saya cenderung menyimpan kekesalan saya dan menjadi skeptis untuk menaruh tanggung jawab kepada anggota tersebut pada pekerjaan berikutnya.
+
+### Versi B: Narasi Analitis
+
+**Fakta yang Benar-benar Terbukti:**
+
+- Tim telah menyepakati penggunaan branch dan aturan commit di GitHub.
+- Anggota tersebut melakukan commit langsung ke `main`.
+- Commit tersebut menyebabkan beberapa kode yang dikerjakan anggota lain tertimpa sehingga terjadi conflict.
+- Commit tidak disertai dokumentasi sehingga membingungkan ketika di-review oleh asisten dosen.
+- Tidak ada permintaan maaf yang disampaikan setelah kejadian.
+
+**Hal yang Masih Berupa Asumsi:**
+
+- Saya tidak memiliki bukti bahwa dia sengaja mengabaikan aturan yang telah disepakati.
+- Saya tidak mengetahui apakah dia memang tidak memahami alur kerja tersebut.
+- Saya tidak mengetahui apakah dia sedang terburu-buru atau memiliki alasan lain ketika melakukan commit.
+- Saya tidak dapat memastikan bahwa tindakannya menunjukkan bahwa dia tidak menghargai pekerjaan anggota lain.
+
+**Faktor yang Berada di Bawah Kendaliku Langsung:** Saya masih dapat menentukan cara menyelesaikan masalah, menyampaikan keluh kesah dengan bahasa yang sopan, serta menentukan langkah yang perlu dilakukan agar kesalahan yang sama tidak terjadi lagi.
+
+### Versi C: Narasi Pertumbuhan
+
+**Isi Narasi Pertumbuhan:** Kesalahan tersebut tetap perlu dibicarakan karena sudah berdampak pada pekerjaan tim. Namun, saya tidak perlu langsung menyimpulkan karakter atau alasan di balik tindakan tersebut. Saya dapat memisahkan dampak yang memang terjadi dari hal-hal yang masih menjadi dugaan, lalu fokus pada penyelesaian masalah dan komunikasi dengan anggota yang bersangkutan.
+
+**Pelajaran yang Dapat Diambil:** Saya perlu memastikan setiap anggota benar-benar memahami alur kerja yang telah disepakati, bukan hanya menganggap bahwa semua orang sudah memahaminya. Saya juga perlu lebih memperhatikan kondisi diri ketika beberapa tugas besar datang bersamaan karena tekanan tersebut dapat memengaruhi cara saya merespons masalah.
+
+---
+
+# Bagian 3 — Merancang Respons
+
+**Langkah Nyata yang Saya Pilih:** Saya akan mengajak anggota tersebut berbicara secara personal. Saya akan menjelaskan dampak dari commit langsung ke `main` tanpa menuduh alasan di balik tindakannya. Setelah itu, saya akan mengajak dia menyepakati kembali alur kerja yang akan digunakan untuk sisa proyek. Saya memilih membicarakannya secara pribadi agar masalah dapat diselesaikan tanpa berkembang menjadi konflik di depan anggota kelompok lain.
+
+**Nama Rekan/Pendamping:** Orang tua saya karena saya sempat menceritakan kejadian tersebut kepada mereka dan meminta pendapat mengenai cara menghadapinya.
+
+---
+
+## Konteks performance
+
+**Tanggal dan setting:** Sekitar akhir bulan Mei 2026, saat mengetahui commit ke branch `main` proyek kelompok Algoritma dan Pemrograman 1 telah menimpa pekerjaan anggota lain.
+
+**Persons dan relationship:** Satu anggota kelompok dalam tim proyek Algoritma dan Pemrograman 1, relasi setara sebagai rekan kerja dalam proyek bersama.
+
+**Objective dan initial state:** State awal saya adalah asumsi sepihak bahwa anggota tersebut tidak bertanggung jawab dan tidak menghargai pekerjaan tim. Objective saya adalah beralih dari asumsi itu menuju penyelesaian masalah yang konkret dan komunikasi yang jelas dengan anggota bersangkutan.
+
+## Evidence
+
+Setelah commit yang menimpa pekerjaan anggota lain terjadi, saya yang akhirnya mengatur ulang branch-branch yang bermasalah dan menulis dokumentasi untuk tugas besar tersebut. Kontribusi saya di sini adalah proses pemulihan branch supaya kode yang sempat tertimpa bisa kembali tertata serta penyusunan dokumentasi dari awal untuk pengumpulan tugas besar tersebut.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Awalnya saya langsung mengaitkan tindakan tersebut dengan karakter yang tidak bertanggung jawab. Setelah dipikirkan kembali, saya menyadari bahwa saya belum memiliki cukup informasi untuk menyimpulkan karakter anggota tersebut. |
+| Objective & state | Saya beralih dari asumsi bahwa dia tidak menghargai pekerjaan tim menuju tujuan untuk menyelesaikan masalah dan membuat kesepakatan kerja yang jelas untuk sisa proyek. |
+| Repertoire & language | Reaksi awal saya berupa menyalahkan anggota tersebut dalam pikiran. Saya kemudian memilih untuk berbicara secara personal. |
+| Response & adaptation | Saya perlu tahu apakah anggota tersebut memang belum memahami alur kerja atau punya kendala lain dan menyesuaikan cara saya menjelaskan supaya tidak terasa seperti tuduhan. |
+| Agreement/action | Mengajak menyepakati kembali alur kerja branch dan commit untuk sisa proyek. |
+| Relationship outcome | Menjaga kerja sama dan kepercayaan dalam tim tetap berjalan untuk sisa proyek, meskipun kejadian ini sempat menimbulkan konflik antaranggota kelompok. |
+
+## Penggunaan AI
+
+Saya menggunakan AI sebagai alat bantu untuk menyusun dan merapikan jawaban berdasarkan isi Lembar Kerja Bab 2.
+
+AI membantu saya memisahkan struktur fakta, interpretasi, dan tiga narasi sesuai format tugas. Namun, kejadian, emosi, sensasi tubuh, dan pelajaran yang ditulis tetap berasal dari pengalaman dan refleksi saya sendiri, dan saya sesuaikan kembali dengan kondisi pribadi.
+
+Saya tidak menggunakan AI untuk menggantikan proses refleksi. Saya tetap memeriksa kembali setiap bagian agar sesuai dengan yang benar-benar saya alami dan rasakan.
+
+Nama anggota tim yang terlibat tidak saya tuliskan secara spesifik untuk menjaga privasi.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Saat saya menceritakan kejadian ini kepada orang tua, mereka mengingatkan bahwa merasa marah adalah hal yang wajar, tetapi menyelesaikan masalah lebih penting daripada mencari siapa yang salah. Mereka menyarankan saya untuk membicarakannya secara langsung dengan anggota tersebut, bukan menegurnya di grup atau membiarkan kekesalan berlarut-larut.
+
+**Adaptation/replay:** Setelah mendengar masukan tersebut, saya menahan diri untuk tidak langsung menegur anggota tersebut di grup seperti dorongan awal saya. Saya memilih mengajaknya berbicara secara personal, menjelaskan dampak dari commit tersebut tanpa menuduh alasannya, kemudian mengarahkan pembicaraan pada kesepakatan alur kerja untuk sisa proyek.
+
+**Next practice:** Pada kejadian serupa berikutnya, saya akan lebih dulu memisahkan fakta dari asumsi sebelum bereaksi.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---|---|
+| Person & Character | 4 | Langkah yang akan dilakukan, pihak yang diajak bicara, dan tujuan menjaga kerja sama tim sudah dijelaskan. |
+| Objective & State | 4 | Perubahan dari asumsi awal menuju tujuan penyelesaian masalah dan kesepakatan bersama dijelaskan secara jelas. |
+| Repertoire, Language & AI | 4 | Saya menunjukkan perubahan dari reaksi menyalahkan menjadi komunikasi personal dan menjelaskan penggunaan AI secara transparan. |
+| Response & Adaptation | 4 |Saya mempertimbangkan beberapa kemungkinan yang belum terbukti dan menyesuaikan cara merespons berdasarkan hal tersebut. |
+| Agreement, Action & Relationship | 4 | Langkah yang akan dilakukan, pihak yang diajak bicara, dan tujuan menjaga kerja sama tim sudah dijelaskan. |
+
+**Total:** 20 / 20
+
+::: {.assessor-only}
+
+### Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+
+:::
