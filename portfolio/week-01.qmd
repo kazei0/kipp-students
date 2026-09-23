@@ -24,6 +24,16 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 :::
 
+## Konteks performance
+
+**Tanggal dan setting:** 18 September 2026, saat mengerjakan refleksi Peta Karakter Komunikasi Pribadi untuk Lembar Kerja Bab 1.
+
+**Persons dan relationship:** Diri saya sendiri sebagai subjek utama refleksi. Rekan satu kelompok, keluarga, dan sahabat menjadi pihak yang muncul dalam peran komunikasi yang saya petakan, terutama dalam melihat perbedaan antara peran sebagai Rekan dalam Kelompok dan sebagai Pendengar bagi Keluarga dan Sahabat.
+
+**Objective dan initial state:** Awalnya, saya belum menyadari secara jelas bagaimana cara saya berkomunikasi dapat berubah di setiap domain kehidupan. Melalui refleksi ini, saya ingin memetakan lima peran komunikasi tersebut, melihat perbedaan antara dua peran yang paling menantang bagi saya, serta menetapkan satu target perubahan perilaku yang dapat diukur.
+
+## Evidence
+
 # Peta Karakter Komunikasi Pribadi
 
 **Nama Mahasiswa:** Kezia Josephine Manik
@@ -31,7 +41,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ---
 
-# Bagian A — Peta 5 Domain Kehidupan
+### Bagian A — Peta 5 Domain Kehidupan
 
 Saya membagi peran komunikasi saya ke dalam lima domain, yaitu diri sendiri, keluarga dan sahabat, profesional/akademik, komunitas/kelompok, dan dunia/publik.
 
@@ -43,33 +53,33 @@ Saya membagi peran komunikasi saya ke dalam lima domain, yaitu diri sendiri, kel
 | **4. Komunitas / Kelompok** | Di BPA STEI-K 25, saya berada di divisi akademik dan cukup banyak terlibat dalam kegiatan tutor sebaya. Saya menikmati kegiatan yang berkaitan dengan akademik, terutama ketika bisa membantu teman. Namun, hubungan saya dengan anggota bidang akademik di luar urusan tugas masih belum terlalu dekat. | Rekan pengurus BPA STEI-K 25. | Menjalankan tanggung jawab di divisi sekaligus membangun hubungan yang lebih dekat dengan anggota lain, bukan hanya berkomunikasi ketika ada pekerjaan. |
 | **5. Dunia / Publik** | Sebagai mahasiswa yang mendapat kesempatan untuk belajar dan berkembang, saya merasa kemampuan yang saya punya sebaiknya bisa memberi manfaat bagi orang lain. Saya ingin ilmu dan pengalaman yang saya dapat tidak berhenti untuk diri sendiri, tetapi juga bisa digunakan untuk memberi kontribusi kepada masyarakat. | Masyarakat dan orang-orang di luar lingkungan perkuliahan. | Mampu berkomunikasi dengan orang dari berbagai latar belakang dan menggunakan kemampuan yang saya miliki untuk memberikan kontribusi yang nyata. |
 
-### Penjelasan Setiap Peran
+#### Penjelasan Setiap Peran
 
-#### 1. Diri Sendiri
+##### 1. Diri Sendiri
 
 Saya terus mendorong diri untuk berkembang, tetapi kebiasaan overthinking sering membuat saya sulit merasa cukup. Bahkan ketika sudah melakukan banyak hal, saya masih sering berpikir bahwa ada yang kurang.
 
 Karena itu, saya perlu belajar membedakan antara keinginan untuk berkembang dengan tuntutan yang justru membuat saya terlalu keras pada diri sendiri.
 
-#### 2. Keluarga / Sahabat
+##### 2. Keluarga / Sahabat
 
 Saya sebenarnya sangat peduli terhadap keluarga dan sahabat saya. Hanya saja, saya lebih terbiasa mendengarkan daripada memulai percakapan. Akibatnya, saya terkadang terlihat kurang ramah dan orang lain sungkan untuk menghampiri saya.
 
 Saya ingin mulai lebih berani membuka percakapan dan tidak selalu menunggu orang lain untuk mengajak saya berbincang.
 
-#### 3. Profesional / Akademik
+##### 3. Profesional / Akademik
 
 Saya sangat serius ketika mengerjakan tanggung jawab akademik dan terbiasa menyelesaikan pekerjaan tepat waktu. Masalahnya, standar yang saya terapkan pada diri sendiri seringkali ikut saya terapkan kepada anggota kelompok.
 
 Ketika pekerjaan berjalan tidak sesuai dengan rencana, saya bisa menjadi terlalu menekan. Ke depannya, saya ingin lebih memahami perspektif orang lain yang sedang bekerja sama dengan saya dan berusaha untuk lebih sabar.
 
-#### 4. Komunitas / Kelompok
+##### 4. Komunitas / Kelompok
 
 Di BPA STEI-K 25, saya aktif di divisi akademik dan terlibat dalam kegiatan tutor sebaya. Saya merasa cukup nyaman dengan tugas-tugas tersebut karena saya memang senang membantu teman dalam hal akademik.
 
 Namun, interaksi saya dengan anggota lain masih banyak terbatas pada urusan pekerjaan. Saya ingin mulai membangun komunikasi yang lebih personal dan tidak hanya berbincang dalam konteks divisi akademik saja.
 
-#### 5. Dunia / Publik
+##### 5. Dunia / Publik
 
 Saya merasa kesempatan untuk belajar dan berkembang juga membawa tanggung jawab untuk bisa memberi manfaat kepada orang lain. Karena itu, saya ingin kemampuan yang saya miliki nantinya dapat digunakan untuk memberikan kontribusi yang lebih luas.
 
@@ -77,7 +87,7 @@ Komunikasi dalam konteks ini juga membuat saya perlu belajar menyesuaikan cara b
 
 ---
 
-# Bagian B — Analisis Kontras Dua Peran Utama
+### Bagian B — Analisis Kontras Dua Peran Utama
 
 Dari lima peran tersebut, saya memilih dua peran yang paling berbeda dan cukup menantang bagi saya:
 
@@ -95,7 +105,7 @@ Ketika bekerja dalam kelompok, saya cenderung fokus pada koordinasi dan penyeles
 | **5. Tindakan yang Diharapkan** | Berani mengingatkan atau mendorong anggota ketika pekerjaan belum berjalan. | Berinisiatif membuka percakapan dan tidak selalu menunggu orang lain memulai. |
 | **6. Relasi yang Harus Dirawat** | Menjaga kepercayaan dan kerja sama meskipun terdapat perbedaan cara kerja dan standar. | Menjaga hubungan yang hangat agar keluarga dan sahabat merasa dekat serta nyaman untuk bercerita. |
 
-## Perubahan Language Ketika Character Berubah
+#### Perubahan Language Ketika Character Berubah
 
 Nilai yang saya bawa tetap sama, yaitu tanggung jawab dan kepedulian. Namun, cara saya menyampaikannya berubah sesuai dengan peran yang sedang saya jalankan.
 
@@ -113,23 +123,23 @@ Jadi, bukan berarti nilai yang saya bawa berubah. Yang berubah adalah cara saya 
 
 ---
 
-# Bagian C — Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+### Bagian C — Eksplorasi Kepribadian dan Sasaran Pertumbuhan
 
-## Nilai Utama
+#### Nilai Utama
 
 Tanggung jawab dan kualitas kerja adalah dua hal yang penting bagi saya. Saya berusaha menyelesaikan sesuatu dengan baik dan memenuhi standar yang saya tetapkan untuk diri sendiri maupun pekerjaan bersama.
 
-## Kekuatan Komunikasi
+#### Kekuatan Komunikasi
 
 Saya cukup tegas dalam menyampaikan ekspektasi dan pembagian tugas. Dalam kerja kelompok, hal ini membantu anggota memahami apa yang harus dilakukan dan kapan pekerjaan tersebut perlu selesai.
 
-## Pola Hambatan Otomatis
+#### Pola Hambatan Otomatis
 
 Saya cenderung menjadi terlalu demanding ketika berada di bawah tekanan, baik terhadap diri sendiri maupun orang lain. Saya juga sering overthinking dan merasa masih kurang meskipun sudah berusaha.
 
 Dalam hubungan dengan orang terdekat, hal ini kadang membuat saya terlihat kaku atau kurang ramah. Padahal, sebenarnya saya peduli dan memperhatikan mereka.
 
-## Ketegangan Peran & Kepribadian
+#### Ketegangan Peran & Kepribadian
 
 Ketegangan yang saya lihat adalah:
 
@@ -139,7 +149,7 @@ Saya tidak harus selalu berkomunikasi dengan cara yang sama. Sifat tegas dan ber
 
 ---
 
-# Sasaran Pertumbuhan Perilaku Terukur
+### Sasaran Pertumbuhan Perilaku Terukur
 
 Selama 4 minggu ke depan, saya ingin lebih aktif menjaga hubungan dengan teman-teman yang sekarang sudah berada di luar negeri atau tinggal jauh dari saya. Karena kami sudah tidak bisa bertemu dan berbicara sesering dulu, saya ingin membiasakan diri untuk tidak selalu menunggu mereka menghubungi saya terlebih dahulu.
 
@@ -149,15 +159,13 @@ Saya akan mencatat siapa yang saya hubungi dan bagaimana percakapan tersebut ber
 
 ---
 
-# Umpan Balik Jujur
+### Umpan Balik Jujur
 
 Orang yang akan saya mintai tolong untuk memantau progres ini adalah R, teman satu angkatan STEI-K yang cukup sering berinteraksi dengan saya di kampus dan K, teman SMP saya yang sekarang sedang berkuliah di China.
 
 Saya akan meminta R dan K untuk memberikan feedback selama 4 minggu mengenai apakah saya sudah lebih aktif menghubungi teman-teman lebih dulu, termasuk yang sekarang tinggal jauh atau di luar negeri, dan apakah usaha saya untuk lebih terbuka itu terasa nyata atau masih terkesan pasif seperti sebelumnya.
 
----
-
-# Analisis Komunikasi
+## Analisis Komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
@@ -168,7 +176,7 @@ Saya akan meminta R dan K untuk memberikan feedback selama 4 minggu mengenai apa
 | **Agreement/Action** | Dalam konteks akademik, keberhasilan komunikasi dapat dilihat dari kesepakatan dan pekerjaan yang selesai. Dalam hubungan pribadi, keberhasilannya lebih terlihat dari apakah orang tersebut merasa nyaman untuk bercerita kepada saya. |
 | **Relationship Outcome** | Saya ingin tetap membangun hubungan yang saling percaya dalam kerja kelompok, sekaligus hubungan yang lebih hangat dan terbuka dengan keluarga serta sahabat. |
 
-# Penggunaan AI
+## Penggunaan AI
 
 Saya menggunakan AI sebagai alat bantu untuk menyusun dan merapikan jawaban berdasarkan isi Lembar Kerja Bab 1.
 
@@ -178,7 +186,7 @@ Saya tidak menggunakan AI untuk menggantikan proses refleksi. Saya tetap memerik
 
 Informasi pribadi mengenai orang lain juga tidak saya tuliskan secara spesifik untuk menjaga privasi.
 
-# Feedback dan Tindak Lanjut
+## Feedback dan Tindak Lanjut
 
 **Feedback yang diterima:** Teman-teman terdekat sering mengatakan bahwa saya awalnya terlihat kaku dan agak sulit didekati. Namun, setelah lebih mengenal saya, mereka melihat saya sebagai orang yang baik dan menyenangkan untuk diajak berteman.
 
@@ -186,7 +194,7 @@ Informasi pribadi mengenai orang lain juga tidak saya tuliskan secara spesifik u
 
 **Next practice:** Pada interaksi berikutnya, saya akan mencoba memulai percakapan lebih dulu dan menanyakan setidaknya satu hal dari cerita mereka agar percakapan bisa berlangsung dengan interaktif.
 
-# Refleksi
+## Refleksi
 
 Melalui Peta Karakter Komunikasi ini, saya menyadari bahwa saya tidak harus berkomunikasi dengan cara yang sama dalam setiap situasi.
 
