@@ -48,7 +48,7 @@ Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, t
 
 *Silakan salin bagian ini ke dalam lembar pengerjaan tugas atau dokumen portofolio Anda.*
 
-**Nama Mahasiswa:** \[Nama Anda / Gunakan Samaran untuk Privasi\] \[350\] **Tanggal Pengerjaan:** \[Tanggal\]
+**Nama Mahasiswa:** Kezia Josephine Manik **Tanggal Pengerjaan:** 18 September 2026
 
 ### Bagian A: Peta 5 Domain Kehidupan \[135\]
 
@@ -56,42 +56,46 @@ Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** |  |  |  |
-| **2. Keluarga / Sahabat** |  |  |  |
-| **3. Profesional / Akademik** |  |  |  |
-| **4. Komunitas / Kelompok** |  |  |  |
-| **5. Dunia / Publik** |  |  |  |
+| **1. Diri Sendiri** | Saya punya standar yang cukup tinggi terhadap diri sendiri dan selalu ingin berkembang. Saya sering merasa masih ada yang harus diperbaiki dan mendorong diri untuk melakukan lebih baik. Di sisi lain, rasa insecure dan kebiasaan overthinking membuat saya mudah merasa kurang, bahkan ketika sebenarnya sudah mencapai banyak hal. | Diri sendiri. | Mengenali kemampuan dan batas diri, mengatur ekspektasi, serta tetap berkembang tanpa terus-menerus merasa bahwa diri saya belum cukup baik. |
+| **2. Keluarga / Sahabat** | Saya sangat peduli dengan keluarga dan sahabat. Namun, saya lebih nyaman mendengarkan daripada memulai percakapan. Karena itu, saya kadang terlihat kaku atau kurang ramah meskipun sebenarnya saya peduli. | Keluarga besar dan sahabat dekat. | Belajar lebih terbuka dan lebih aktif memulai komunikasi agar orang-orang terdekat saya merasa nyaman untuk berbicara dengan saya. |
+| **3. Profesional / Akademik** | Dalam kegiatan akademik maupun profesional, saya sangat serius dalam melakukan tanggung jawab saya. Saya terbiasa menyelesaikan pekerjaan tepat waktu dan tidak suka menunda. Hal ini membuat saya juga punya standar yang cukup tinggi terhadap anggota kelompok. Ketika ada yang lambat atau menunda pekerjaan, saya terkadang menjadi terlalu demanding dan menekan. | Rekan satu kelompok. | Menyampaikan ekspektasi dengan jelas, menjaga kerja sama, dan belajar memahami cara kerja orang lain tanpa memaksakan standar saya sendiri. |
+| **4. Komunitas / Kelompok** | Di BPA STEI-K 25, saya berada di divisi akademik dan cukup banyak terlibat dalam kegiatan tutor sebaya. Saya menikmati kegiatan yang berkaitan dengan akademik, terutama ketika bisa membantu teman. Namun, hubungan saya dengan anggota bidang akademik di luar urusan tugas masih belum terlalu dekat. | Rekan pengurus BPA STEI-K 25. | Menjalankan tanggung jawab di divisi sekaligus membangun hubungan yang lebih dekat dengan anggota lain, bukan hanya berkomunikasi ketika ada pekerjaan. |
+| **5. Dunia / Publik** | Sebagai mahasiswa yang mendapat kesempatan untuk belajar dan berkembang, saya merasa kemampuan yang saya punya sebaiknya bisa memberi manfaat bagi orang lain. Saya ingin ilmu dan pengalaman yang saya dapat tidak berhenti untuk diri sendiri, tetapi juga bisa digunakan untuk memberi kontribusi kepada masyarakat. | Masyarakat dan orang-orang di luar lingkungan perkuliahan. | Mampu berkomunikasi dengan orang dari berbagai latar belakang dan menggunakan kemampuan yang saya miliki untuk memberikan kontribusi yang nyata. |
 
 ### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
 
 Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya: Peran A = Anggota Tim Proyek, Peran B = Sahabat Pendengar), lalu uraikan perbedaannya:
 
-| Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
+Dari lima peran tersebut, saya memilih dua peran yang paling berbeda dan cukup menantang bagi saya: **Peran A: Rekan dalam Kelompok** dan **Peran B: Pendengar bagi Keluarga dan Sahabat**. Ketika bekerja dalam kelompok, saya cenderung fokus pada koordinasi dan penyelesaian pekerjaan. Sebaliknya, ketika bersama keluarga dan sahabat, saya seharusnya lebih mengutamakan rasa nyaman dan kedekatan. Perbedaan ini cukup terasa karena cara komunikasi yang efektif untuk satu situasi belum tentu cocok untuk situasi lainnya.
+
+| Unsur Komunikasi | Peran A: Rekan dalam Kelompok | Peran B: Pendengar bagi Keluarga dan Sahabat |
 |:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
-| **2. Repertoar Utama** \[129\] |  |  |
-| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
-| **4. Respons yang Harus Dibaca** \[131\] |  |  |
-| **5. Tindakan yang Diharapkan** \[131\] |  |  |
-| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+| **1. Tujuan Tugas & Relasi** \[128\] | Memastikan pembagian tugas jelas, diskusi berjalan, dan pekerjaan selesai sesuai waktu. | Menjaga kedekatan dan membuat keluarga atau sahabat merasa didukung ketika bercerita. |
+| **2. Repertoar Utama** \[129\] | Mengarahkan diskusi, menanyakan hal yang belum jelas, merangkum hasil pembicaraan, dan menentukan langkah berikutnya. | Lebih banyak mendengarkan, memberi respons terhadap cerita mereka, dan menanyakan hal yang membuat mereka ingin bercerita lebih lanjut. |
+| **3. Pilihan Bahasa & Nada** \[130\] | Tegas. Namun, jika tidak dikontrol, cara saya menyampaikan sesuatu bisa terdengar terlalu menekan. | Lebih santai dan terbuka. Saya masih cenderung kaku dan kurang ekspresif sehingga bagian ini masih perlu saya latih. |
+| **4. Respons yang Harus Dibaca** \[131\] | Melihat apakah anggota kelompok memahami tugas, mengalami kesulitan, atau belum mulai mengerjakan. | Melihat apakah mereka sedang membutuhkan seseorang untuk mendengarkan dan apakah respons saya membuat mereka merasa nyaman. |
+| **5. Tindakan yang Diharapkan** \[131\] | Berani mengingatkan atau mendorong anggota ketika pekerjaan belum berjalan. | Berinisiatif membuka percakapan dan tidak selalu menunggu orang lain memulai. |
+| **6. Relasi yang Harus Dirawat** \[131\] | Menjaga kepercayaan dan kerja sama meskipun terdapat perbedaan cara kerja dan standar. | Menjaga hubungan yang hangat agar keluarga dan sahabat merasa dekat serta nyaman untuk bercerita. |
+
+Nilai yang saya bawa tetap sama, yaitu tanggung jawab dan kepedulian. Namun, cara saya menyampaikannya berubah sesuai dengan peran yang sedang saya jalankan. Sebagai **rekan dalam kelompok**, ketika ada pekerjaan yang belum selesai, saya cenderung menggunakan bahasa yang lugas: *"Bagian ini masih ditunggu buat lanjut ke bagian berikutnya. Kira-kira kapan bisa selesai supaya timeline kita nggak mundur?"* Cara bicara tersebut memang jelas dan berorientasi pada pekerjaan, tetapi dalam kondisi tertentu bisa terasa cukup menekan. Sementara itu, ketika menjadi **pendengar bagi keluarga atau sahabat**, saya perlu memberikan ruang agar mereka nyaman untuk bercerita: *"Kelihatannya lagi ada yang dipikirin. Kalau mau cerita, aku dengerin kok."* Jadi, bukan berarti nilai yang saya bawa berubah. Yang berubah adalah cara saya menggunakan repertoire dan language agar sesuai dengan kebutuhan orang yang sedang saya ajak berkomunikasi.
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
 Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
 
 1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Tanggung jawab dan kualitas kerja adalah dua hal yang penting bagi saya. Saya berusaha menyelesaikan sesuatu dengan baik dan memenuhi standar yang saya tetapkan untuk diri sendiri maupun pekerjaan bersama.
 2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Saya cukup tegas dalam menyampaikan ekspektasi dan pembagian tugas. Dalam kerja kelompok, hal ini membantu anggota memahami apa yang harus dilakukan dan kapan pekerjaan tersebut perlu selesai.
 3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Saya cenderung menjadi terlalu demanding ketika berada di bawah tekanan, baik terhadap diri sendiri maupun orang lain. Saya juga sering overthinking dan merasa masih kurang meskipun sudah berusaha. Dalam hubungan dengan orang terdekat, hal ini kadang membuat saya terlihat kaku atau kurang ramah. Padahal, sebenarnya saya peduli dan memperhatikan mereka.
 4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
-    - *Jawaban:*
+    - *Jawaban:* Saya punya standar yang tinggi dan cenderung demanding, tetapi ketika bersama keluarga dan sahabat, saya juga perlu menjadi orang yang lebih terbuka, hangat, dan tidak terlalu kaku. Saya tidak harus selalu berkomunikasi dengan cara yang sama. Sifat tegas dan berorientasi pada hasil bisa membantu ketika bekerja dalam kelompok, tetapi belum tentu cocok ketika sedang berbicara dengan orang yang dekat dengan saya.
 5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
     - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
-    - *Sasaran Saya:*
+    - *Sasaran Saya:* Selama 4 minggu ke depan, saya ingin lebih aktif menjaga hubungan dengan teman-teman yang sekarang sudah berada di luar negeri atau tinggal jauh dari saya. Karena kami sudah tidak bisa bertemu dan berbicara sesering dulu, saya ingin membiasakan diri untuk tidak selalu menunggu mereka menghubungi saya terlebih dahulu. Saya akan berusaha menghubungi setidaknya satu teman setiap minggu, baik untuk sekadar menanyakan kabar, berbagi cerita, maupun mengetahui bagaimana kehidupan mereka di tempat baru. Saya akan mencatat siapa yang saya hubungi dan bagaimana percakapan tersebut berjalan. Di akhir 4 minggu, saya akan melihat apakah saya sudah lebih terbiasa mengambil inisiatif untuk menjaga hubungan, meskipun kami sudah tidak berada di tempat yang sama.
 6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Orang yang akan saya mintai tolong untuk memantau progres ini adalah R, teman satu angkatan STEI-K yang cukup sering berinteraksi dengan saya di kampus, dan K, teman SMP saya yang sekarang sedang berkuliah di China. Saya akan meminta R dan K untuk memberikan feedback selama 4 minggu mengenai apakah saya sudah lebih aktif menghubungi teman-teman lebih dulu, termasuk yang sekarang tinggal jauh atau di luar negeri, dan apakah usaha saya untuk lebih terbuka itu terasa nyata atau masih terkesan pasif seperti sebelumnya.
 
 ------------------------------------------------------------------------
 
