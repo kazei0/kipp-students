@@ -22,6 +22,8 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
+{{< include ../includes/evidence-template.md >}}
+
 ## Episode
 
 **Event:** Dalam proyek kelompok Algoritma dan Pemrograman 1, kami sudah menyepakati penggunaan branch dan aturan commit di GitHub. Namun, salah satu anggota melakukan commit langsung ke branch `main` tanpa menunggu pengecekan. Akibatnya, beberapa kode yang sebelumnya dikerjakan anggota lain tertimpa dan terjadi conflict. Commit tersebut juga tidak disertai dokumentasi sehingga cukup membingungkan saat direview oleh asisten dosen. Setelah kejadian itu, anggota tersebut juga tidak menyampaikan permintaan maaf.
