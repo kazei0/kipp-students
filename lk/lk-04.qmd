@@ -18,10 +18,10 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Kezia Josephine Manik
+*   **NIM:** 18225001
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 26 September 2026
 
 ---
 
@@ -30,22 +30,22 @@ Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemuka
 
 1. **Konsep Teknis yang Dipilih:**
    *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
-   
+   *Jawab:* Overfitting dalam Machine Learning.
+
 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
    *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
-   
+   *Jawab:* Overfitting merupakan kondisi ketika model machine learning terlalu banyak mempelajari noise dan variasi dari data training, bukan pola yang sebenarnya dapat digeneralisasikan. Akibatnya, model dapat memiliki performa yang sangat baik pada data training, tetapi menghasilkan error yang tinggi ketika digunakan pada data baru atau test set. Hal ini dapat terjadi ketika kompleksitas model terlalu tinggi dibandingkan dengan jumlah data yang tersedia.
+
 3. **Daftar Jargon Teknis & Artian Sederhananya:**
    *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   *   **Jargon 1:** `Noise` $\rightarrow$ Arti Sederhana: Data acak dalam data latihan yang sebenarnya tidak menunjukkan pola yang relevan, tetapi ikut dipelajari oleh model.
+   *   **Jargon 2:** `Generalization error` $\rightarrow$ Arti Sederhana: Seberapa besar kesalahan model ketika digunakan pada data baru yang belum pernah dilihat sebelumnya.
+   *   **Jargon 3:** `Variance` $\rightarrow$ Arti Sederhana: Seberapa besar hasil prediksi model dapat berubah ketika data latihan yang digunakan sedikit berbeda.
 
 4. **Kebenaran Inti (*Marrow of the Message*):**
    *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
-   
+   *Jawab:* Model yang terlalu banyak menghafal contoh dari data latihan, daripada memahami pola yang sebenarnya, akan kesulitan ketika menghadapi data baru yang belum pernah dilihat.
+
 ---
 
 ## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
@@ -54,33 +54,27 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
 *   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
 *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:* "Bayangkan kamu belajar matematika dengan menghafal jawaban dari 10 soal latihan. Saat ulangan, gurumu memberikan soal yang mirip, tetapi angkanya sedikit berbeda. Karena kamu hanya hafal jawabannya dan tidak benar-benar memahami caranya, kamu jadi bingung dan bisa salah menjawab. Nah, komputer juga bisa mengalami hal yang sama. Kalau komputer hanya 'menghafal' contoh yang pernah diberikan, dia bisa bingung ketika menemukan soal baru yang belum pernah dilihat sebelumnya."
+
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
-*   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
+*   **Karakteristik Pendengar:** Setara secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
 *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:* "Jadi gini, waktu kita melatih komputer buat 'belajar' sesuatu, misalnya mengenali foto kucing, kita kasih dia banyak contoh foto kucing. Tapi kadang komputer malah terlalu fokus menghafal foto-foto tersebut, sampai hal-hal kecil seperti bantal di belakang kucing ikut dianggap penting. Akhirnya, ketika dikasih foto kucing baru tanpa bantal, dia malah bingung dan salah menebak. Nah, itu yang disebut overfitting. Komputernya terlalu banyak hafalan, tapi kurang memahami pola sebenarnya."
+
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
 *   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
 *   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:* "Overfitting terjadi ketika model memiliki training accuracy yang tinggi, tetapi validation atau test accuracy jauh lebih rendah sehingga menunjukkan generalization gap yang besar. Hal ini terjadi karena model lebih banyak melakukan fitting terhadap noise daripada signal yang sebenarnya. Penyebabnya dapat berupa kompleksitas model yang terlalu tinggi, seperti jumlah parameter yang besar dibandingkan ukuran dataset, serta kurangnya regularization. Beberapa cara untuk mengatasinya adalah regularization seperti L1/L2 dan dropout, cross-validation, early stopping, data augmentation, serta menyederhanakan arsitektur model sesuai dengan bias-variance tradeoff."
+
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
 *   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
 *   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:* "Dalam pengembangan sistem berbasis AI, ada risiko model terlihat sangat akurat saat diuji secara internal, tetapi performanya menurun ketika digunakan pada data pelanggan yang sebenarnya. Kondisi ini disebut overfitting. Jika tidak diperhatikan sejak awal, risikonya dapat berupa keputusan bisnis yang salah, biaya pengembangan ulang, dan berkurangnya kepercayaan pengguna terhadap produk. Karena itu, investasi pada proses validasi model sejak awal dapat mengurangi risiko dan biaya perbaikan setelah produk diluncurkan."
+
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
 *   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
 *   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:* "Pernah nggak, aplikasi rekomendasi film atau musik di HP kamu tiba-tiba memberikan saran yang aneh dan tidak sesuai dengan seleramu? Salah satu penyebabnya bisa jadi karena sistem di baliknya terlalu fokus menghafal pola lama, bukan benar-benar memahami preferensi kita yang terus berubah. Hal ini penting diketahui karena teknologi AI yang digunakan sehari-hari, mulai dari rekomendasi belanja online sampai deteksi penipuan di bank, bisa menjadi kurang akurat dan bahkan merugikan jika masalah seperti ini tidak ditangani dengan baik."
 
 ---
 
@@ -88,20 +82,19 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 *Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
 
 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
-   
+   *Jawab:* Ragam bahasa untuk anak-anak paling sulit saya buat. Saya harus menghilangkan istilah teknis yang biasanya saya gunakan sehari-hari di kelas dan mencari analogi yang konkret serta dekat dengan pengalaman anak usia 10 tahun. Di saat yang sama, saya harus memastikan konsepnya tetap akurat dan tidak kehilangan makna utamanya.
+
 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
-   
+   *Jawab:* Proses ini membuat saya sadar bahwa memahami suatu konsep dengan baik tidak hanya ditunjukkan dari kemampuan menggunakan istilah teknis, tetapi juga dari kemampuan menjelaskannya dengan sederhana. Saya juga semakin memahami bahwa jargon sebenarnya merupakan alat komunikasi yang memudahkan sesama ahli, bukan sebagai ukuran kepintaran yang dapat kita pamerkan ke orang awam. Kemampuan menyesuaikan bahasa seperti ini juga akan berguna ketika saya perlu menjelaskan hal teknis kepada klien atau manajer non-teknis di dunia kerja.
+
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
    *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
-   
+   *Jawab:* Saya meminta AI berperan sebagai anak SD kelas 5 yang belum pernah belajar coding, kemudian membaca draf terjemahan saya dan menunjukkan bagian yang masih sulit dipahami. Instruksinya kurang lebih: "Berperanlah sebagai anak SD kelas 5. Baca penjelasan ini dan beri tahu kata atau kalimat mana yang menurutmu masih sulit dipahami." Dari feedback tersebut, AI menunjukkan bahwa kata "menghafal" tanpa konteks masih cukup abstrak bagi anak-anak. Karena itu, saya menambahkan contoh soal ulangan matematika agar konsepnya lebih mudah dibayangkan.
 
 ---
 
 ## **F. Rubrik Evaluasi Mandiri & Penilaian Portofolio**
-Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.
+Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda. *(Kolom Skor Mandiri sengaja dikosongkan untuk diisi sendiri setelah membaca ulang draf secara kritis.)*
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -109,7 +102,7 @@ Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam 
 | **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
 | **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
 | **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Total Skor (Maksimal 16)** | | | | | **16 / 16** |
 
 ---
 
