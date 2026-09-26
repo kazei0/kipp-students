@@ -272,15 +272,10 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
-  <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
-  </ul></li>
+  <li><a href="#core-meaning" id="toc-core-meaning" class="nav-link" data-scroll-target="#core-meaning">Core meaning</a></li>
+  <li><a href="#evidence-understanding" id="toc-evidence-understanding" class="nav-link" data-scroll-target="#evidence-understanding">Evidence understanding</a></li>
+  <li><a href="#analisis-dan-batas" id="toc-analisis-dan-batas" class="nav-link" data-scroll-target="#analisis-dan-batas">Analisis dan batas</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a></li>
   </ul>
 </nav>
     </div>
@@ -340,118 +335,104 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
-</section>
-<section id="evidence" class="level2">
-<h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
-</section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
+<section id="core-meaning" class="level2">
+<h2 class="anchored" data-anchor-id="core-meaning">Core meaning</h2>
+<p><strong>Fakta yang tidak boleh berubah:</strong> Akurasi yang tinggi pada data latihan tidak berarti model machine learning akan memiliki performa yang sama pada data baru. Jika model hanya “menghafal” data latihan (overfitting), model dapat gagal melakukan generalisasi pada situasi yang belum pernah ditemui.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
+<th style="text-align: left;">Target/character</th>
+<th style="text-align: left;">Versi language</th>
+<th style="text-align: left;">Alasan adaptasi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;">Friend</td>
+<td style="text-align: left;">“Bayangin kamu cuma belajar dari 10 soal latihan, lalu pas ujian soalnya sedikit berbeda kamu langsung bingung. Nah, model AI yang lagi aku kerjain juga bisa seperti itu, kelihatan pintar saat latihan tapi belum tentu akurat saat menghadapi data baru.”</td>
+<td style="text-align: left;">Menggunakan analogi ujian sehari-hari, tanpa istilah teknis, dan dengan nada yang santai</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;">Technical peer</td>
+<td style="text-align: left;">“Training accuracy tinggi tapi validation/test accuracy jauh di bawahnya, menunjukkan indikasi overfitting karena model fitting ke noise. Aku sudah menambahkan cross-validation dan early stopping di pipeline LightGBM-nya.”</td>
+<td style="text-align: left;">Menggunakan istilah teknis yang presisi dan langsung menyebutkan mitigasi yang digunakan</td>
 </tr>
 <tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;">Manager</td>
+<td style="text-align: left;">“Model saat ini memiliki risiko overfitting sehingga akurat pada pengujian internal tetapi performanya bisa menurun saat digunakan pada data nyata. Jika tidak diantisipasi sejak awal, hal ini dapat menyebabkan keputusan bisnis yang keliru dan biaya perbaikan yang lebih besar.”</td>
+<td style="text-align: left;">Menekankan risiko, dampak terhadap keputusan, dan urgensi</td>
 </tr>
 <tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;">Customer/student user</td>
+<td style="text-align: left;">“Prediksi yang Anda lihat saat ini masih bisa berubah karena modelnya sedang diuji agar tidak hanya ‘menghafal’ data lama. Kami akan memberi kabar setelah hasilnya sudah cukup stabil untuk digunakan.”</td>
+<td style="text-align: left;">Menjelaskan dampak praktis tanpa jargon dan memberikan kepastian mengenai tindak lanjut</td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;">Public</td>
+<td style="text-align: left;">“Kadang aplikasi rekomendasi memberikan saran yang aneh karena sistemnya hanya menghafal pola lama, bukan benar-benar memahami selera kamu yang terus berubah. Karena itu, AI yang kita gunakan sehari-hari perlu terus diuji kembali.”</td>
+<td style="text-align: left;">Menggunakan konteks umum, tanpa detail proyek, dan mudah dipahami</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<section id="evidence-understanding" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-understanding">Evidence understanding</h2>
+<p>Kezia menguji versi friend kepada teman yang bukan dari jurusan STI tanpa memberikan penjelasan tambahan. Teman tersebut memahami bahwa hasil yang bagus pada latihan belum tentu berarti hasilnya juga bagus pada data baru. Namun, ia bertanya, “Terus kalau modelnya salah nebak, siapa yang rugi?” Kezia kemudian menambahkan kalimat, “Kalau salah, prediksinya bisa menyesatkan orang yang memakainya, makanya harus dites dulu sebelum benar-benar dipakai.”</p>
 </section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<section id="analisis-dan-batas" class="level2">
+<h2 class="anchored" data-anchor-id="analisis-dan-batas">Analisis dan batas</h2>
+<p>Repertoire disesuaikan dari obrolan santai sehari-hari untuk friend, istilah teknis yang presisi untuk technical peer, bahasa yang menekankan risiko dan biaya bisnis untuk manager, hingga penjelasan dampak praktis disertai kepastian tindak lanjut untuk customer. Sementara itu, versi public dibuat lebih umum dan tidak menggunakan detail proyek. Kezia tidak menganggap versi public sesuai untuk customer karena pengguna yang keputusan atau tindakannya bergantung langsung pada hasil prediksi membutuhkan informasi tindak lanjut yang lebih spesifik dibandingkan publik secara umum.</p>
+<p>AI (Claude) digunakan untuk memeriksa apakah kelima versi tetap menyampaikan kebenaran inti yang sama, sekaligus memastikan istilah dan nada yang digunakan sesuai dengan masing-masing audiens. Kezia menolak saran AI untuk menambahkan klaim “dijamin akurat” pada versi customer karena klaim tersebut tidak didukung fakta dan dapat menyesatkan pengguna.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 38%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
-<th>Evidence singkat</th>
+<th style="text-align: left;">Dimensi</th>
+<th style="text-align: center;">Skor</th>
+<th style="text-align: left;">Evidence singkat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: left;">Person &amp; Character</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">Lima audiens nyata dengan kebutuhan yang berbeda berhasil diidentifikasi.</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: left;">Objective &amp; State</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">Kebenaran inti tentang risiko overfitting tetap konsisten di kelima versi, meskipun titik awal pemahaman setiap audiens berbeda.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: left;">Repertoire, Language &amp; AI</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">Lima repertoire berbeda disusun sesuai kebutuhan masing-masing, termasuk penolakan terhadap satu klaim AI yang tidak didukung fakta.</td>
 </tr>
 <tr class="even">
-<td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: left;">Response &amp; Adaptation</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">Pertanyaan dari teman mendorong adanya satu penyesuaian kalimat tambahan.</td>
 </tr>
 <tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: left;">Agreement, Action &amp; Relationship</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">Tindak lanjut berupa pemberian informasi kembali mengenai hasil model sudah tersirat.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
-</section>
+<p><strong>Total: 20 / 20</strong></p>
 
 
 </section>
