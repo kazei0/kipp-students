@@ -23,15 +23,19 @@ Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-bar
 ### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
 
 *Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video \[13, 145\].* \> **Contoh Kurang Tepat:** *"Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok."*\
-\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* **Tuliskan Fakta Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* 
+**Tuliskan Fakta Anda di sini:** Dalam proyek kelompok Algoritma dan Pemrograman 1, kami telah menyepakati penggunaan branch dan aturan commit di GitHub. Salah satu anggota melakukan commit langsung ke branch `main` tanpa menunggu pengecekan. Setelah commit tersebut, beberapa kode yang sebelumnya dikerjakan anggota lain tertimpa. Commit tersebut juga tidak disertai dokumentasi. Setelah kejadian, tidak ada permintaan maaf dari anggota tersebut.
 
 ### **2. Interpretasi Pertama (Asumsi Otomatis)**
 
-*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* **Tuliskan Interpretasi Pertama Anda di sini:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* 
+**Tuliskan Interpretasi Pertama Anda di sini:** Saya langsung menyimpulkan bahwa anggota tersebut tidak bertanggung jawab dan tidak menghargai pekerjaan anggota lain. Saya juga menganggap bahwa dia seharusnya sudah memahami alur kerja yang telah disepakati dan bertanya jika masih belum memahaminya.
 
 ### **3. Emosi & Sensasi Tubuh**
 
-*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Sensasi Tubuh yang Muncul:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* 
+**Emosi yang Dirasakan (dan skala 0-10):** Saya merasa sangat marah dan kesal, sekitar 9/10. Emosi tersebut semakin kuat karena pada saat yang sama saya sedang menghadapi beberapa tugas besar dari mata kuliah lain. 
+**Sensasi Tubuh yang Muncul:** Saya mengalami migrain dan sakit perut akibat stres.
 
 ------------------------------------------------------------------------
 
@@ -52,15 +56,32 @@ Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang 
 
 ### **Versi A: Narasi Korban (Victim Narrative)**
 
-*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** Saya merasa sudah berusaha mengatur alur kerja dengan baik, tetapi kesalahan tersebut membuat pekerjaan saya bertambah. Tidak adanya permintaan maaf juga membuat saya merasa tidak dihargai. 
+**Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* Saya cenderung menyimpan kekesalan saya dan menjadi skeptis untuk menaruh tanggung jawab kepada anggota tersebut pada pekerjaan berikutnya.
 
 ### **Versi B: Narasi Analitis (Analytical Narrative)**
 
-*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* 
+
+**Apa fakta yang benar-benar telah terbukti?** 
+- Tim telah menyepakati penggunaan branch dan aturan commit di GitHub.
+- Anggota tersebut melakukan commit langsung ke `main`.
+- Commit tersebut menyebabkan beberapa kode yang dikerjakan anggota lain tertimpa sehingga terjadi conflict.
+- Commit tidak disertai dokumentasi sehingga membingungkan ketika di-review oleh asisten dosen.
+- Tidak ada permintaan maaf yang disampaikan setelah kejadian.
+
+**Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** 
+- Saya tidak memiliki bukti bahwa dia sengaja mengabaikan aturan yang telah disepakati.
+- Saya tidak mengetahui apakah dia memang tidak memahami alur kerja tersebut.
+- Saya tidak mengetahui apakah dia sedang terburu-buru atau memiliki alasan lain ketika melakukan commit.
+- Saya tidak dapat memastikan bahwa tindakannya menunjukkan bahwa dia tidak menghargai pekerjaan anggota lain. 
+
+**Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** Saya masih dapat menentukan cara menyelesaikan masalah, menyampaikan keluh kesah dengan bahasa yang sopan, serta menentukan langkah yang perlu dilakukan agar kesalahan yang sama tidak terjadi lagi.
 
 ### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
 
-*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pelajaran apa yang dapat saya ambil dari situasi ini?** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** Kesalahan tersebut tetap perlu dibicarakan karena sudah berdampak pada pekerjaan tim. Namun, saya tidak perlu langsung menyimpulkan karakter atau alasan di balik tindakan tersebut. Saya dapat memisahkan dampak yang memang terjadi dari hal-hal yang masih menjadi dugaan, lalu fokus pada penyelesaian masalah dan komunikasi dengan anggota yang bersangkutan.
+**Pelajaran apa yang dapat saya ambil dari situasi ini?** Saya perlu memastikan setiap anggota benar-benar memahami alur kerja yang telah disepakati, bukan hanya menganggap bahwa semua orang sudah memahaminya. Saya juga perlu lebih memperhatikan kondisi diri ketika beberapa tugas besar datang bersamaan karena tekanan tersebut dapat memengaruhi cara saya merespons masalah.
 
 ------------------------------------------------------------------------
 
@@ -68,11 +89,13 @@ Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang 
 
 ### **1. Pilihan Respons Terbaik**
 
-*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* 
+**Langkah nyata yang saya pilih:** Saya akan mengajak anggota tersebut berbicara secara personal. Saya akan menjelaskan dampak dari commit langsung ke `main` tanpa menuduh alasan di balik tindakannya. Setelah itu, saya akan mengajak dia menyepakati kembali alur kerja yang akan digunakan untuk sisa proyek. Saya memilih membicarakannya secara pribadi agar masalah dapat diselesaikan tanpa berkembang menjadi konflik di depan anggota kelompok lain.
 
 ### **2. Dukungan yang Diperlukan**
 
-*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* 
+**Nama rekan/pendamping:** Orang tua saya karena saya sempat menceritakan kejadian tersebut kepada mereka dan meminta pendapat mengenai cara menghadapinya.
 
 ------------------------------------------------------------------------
 
