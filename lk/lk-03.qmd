@@ -69,9 +69,9 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 
 ## III. Lembar Kerja Mahasiswa
 
-**Nama Praktikan:** ___________________________  
-**Nama Mitra Latihan:** _______________________  
-**Tanggal Pelaksanaan:** ______________________  
+**Nama Praktikan:** Kezia Josephine Manik 
+**Nama Mitra Latihan:** Rosianna Maria Aviv Silalahi
+**Tanggal Pelaksanaan:** 22 September 2026
 
 ### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
 *Tuliskan hasil tangkapan Anda terhadap cerita mitra Anda menggunakan kerangka Tiga Tingkat Mendengarkan:* [3.8]
@@ -79,25 +79,23 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Tingkat 1 - Kata (Isi Literal Masalah):** [3.8.1]
    *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?* (Hindari generalisasi seperti "selalu" atau "tidak pernah") [2.7.1]
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Rosi baru selesai mengikuti kuis Pemodelan Basis Data. Ia merasa sudah belajar, tetapi ketika melihat soal, ia malah blank dan jadi tidak yakin dengan jawabannya. Ia juga merasa nilai di ITB sulit dikejar dan masih bingung menentukan arah yang ingin ia ambil ke depannya.
 
 2. **Tingkat 2 - Makna (Parafrasa Anda):** [3.8.2]
    *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Saya tidak mengucapkan kalimat seperti, "kalau saya nggak salah nangkep," tetapi mencoba menunjukkan bahwa saya memahami ceritanya lewat respons seperti "Iya, saya juga tadi banyak yang nggak yakin" dan "Saya juga masih belum tahu sih mau arahnya ke mana." Saya lebih banyak menunjukkan bahwa saya mengalami hal yang kurang lebih sama dengan apa yang ia rasakan.
 
 3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):** [3.8.3]
    *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.* (Contoh: Cemas karena butuh kepastian; kesal karena butuh penghargaan) [2.7.4, 3.8.3]
    *Jawab:*
-   *   **Perasaan Mitra:** _____________________________________________________________________
-   *   **Kebutuhan/Nilai Mitra:** ______________________________________________________________
+   *   **Perasaan Mitra:** Takut salah menentukan arah tujuan hidup, terlihat dari ucapan Rosi, "Tapi aku takut salah pilih."
+   *   **Kebutuhan/Nilai Mitra:** Ingin merasa lebih yakin dengan masa depannya, seperti yang terlihat dari pertanyaannya tentang bagaimana bisa merasa pasti dengan arah hidupnya.
 
 4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:** [3.16]
    *Apa pilihan tindakan yang akhirnya diinginkan oleh mitra Anda? (Hanya ingin didengarkan / dibantu memetakan pilihan / butuh saran)*
    *Jawab:*
-   Mitra memilih: ___________________________________________________________________________
+   Mitra memilih: Hanya ingin didengarkan dan ditemani.
 
 ---
 
@@ -107,14 +105,12 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Momen Kehadiran Paling Berdampak:**
    *Kapan mitra merasa paling didengarkan dan dipahami secara utuh? Tindakan verbal/nonverbal apa dari Anda yang membantunya?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Menurut Rosi, ia paling merasa didengarkan ketika saya jujur bahwa saya juga masih belum tahu akan ke mana arah karier saya ke depannya. Menurutnya, respons itu terasa lebih tulus karena saya tidak berusaha seolah-olah sudah punya jawabannya. Ia jadi merasa bahwa kebingungan yang dialaminya bukan sesuatu yang harus dihadapi sendirian.
 
 2. **Momen Asumsi atau "Buru-buru Memperbaiki":**
    *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Rosi merasa saya sempat terlalu cepat mengaitkan ceritanya dengan pengalaman saya sendiri ketika mengatakan, "Iya sih... aku juga rencananya tahun depan mau jadi asprak PBD, jadi mikir lagi hiks." Padahal, saat itu ia masih ingin menyampaikan kekhawatirannya lebih lanjut.
 
 ---
 
@@ -124,21 +120,18 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Refleksi Kebiasaan Otomatis:** [3.18]
    *Apakah di kehidupan nyata Anda lebih sering berusaha langsung "memperbaiki masalah" atau mendengarkan terlebih dahulu? Apa yang Anda rasakan ketika dipaksa "menahan diri" dari memberikan solusi selama latihan ini?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Dalam keseharian saya, saya biasanya langsung menenangkan atau mencari solusi ketika melihat orang lain sedang bingung, terutama orang yang sudah dekat seperti Rosi. Rasanya kurang nyaman kalau melihat dia masih memikirkan sesuatu sementara saya hanya diam. Saat latihan, menahan diri untuk tidak langsung memberi jawaban awalnya terasa agak aneh. Namun, dari situ saya menyadari bahwa saya tidak selalu perlu memberikan solusi. Terkadang, dengan menunjukkan bahwa saya juga pernah mengalami hal yang sama, orang lain sudah merasa cukup didengar dan lebih tenang.
 
 2. **Memahami vs. Menyetujui:** [3.10, 3.18]
    *Bagaimana latihan ini membantu Anda menyadari bahwa Anda bisa memahami dan memvalidasi perasaan seseorang secara mendalam tanpa harus menyetujui seluruh tindakan atau asumsi mereka?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Latihan ini membuat saya sadar bahwa kekhawatiran Rosi tetap bisa saya akui sebagai sesuatu yang wajar, meskipun saya tidak sepenuhnya setuju dengan kesimpulannya. Menurut saya, satu kuis yang sulit belum cukup untuk menunjukkan bahwa ia salah memilih bidang. Dari situ, saya belajar bahwa saya tidak harus menyetujui cara seseorang melihat masalah hanya untuk tetap menghargai perasaannya.
 
 3. **Komitmen Langkah Pertumbuhan:** [9.1, B.2]
    *Tuliskan satu komitmen perilaku spesifik dan terukur yang akan Anda latih dalam 14 hari ke depan bersama keluarga atau sahabat terdekat Anda!* (Contoh: *"Saya akan menahan diri dari memberikan saran selama 5 menit pertama ketika pasangan/adik saya mulai mengeluh tentang harinya."*) [D.3]
    *Jawab:*
    Dalam 14 hari ke depan, saya berkomitmen untuk:
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Setiap kali teman dekat bercerita tentang nilai kuliah atau keraguan mengenai bidang yang ingin ditekuni, saya akan menahan diri untuk tidak langsung mengaitkan ceritanya dengan pengalaman atau rencana saya sendiri. Saya akan tetap fokus pada ceritanya dengan mengajukan setidaknya satu pertanyaan lanjutan sebelum membagikan pendapat atau pengalaman saya. Setiap kali berhasil melakukannya, saya akan mencatat tanggal, topik pembicaraan, dan pertanyaan yang saya ajukan. Saya menargetkan kebiasaan ini terlaksana minimal 3 kali selama 14 hari.
 
 ---
 
@@ -155,8 +148,8 @@ Gunakan rubrik di bawah ini untuk menilai performa Anda sendiri selama sesi lati
 
 ### **Penghitungan Nilai Evaluasi Diri:**
 $$\text{Nilai Akhir} = \left( \frac{\text{Total Skor Keempat Dimensi}}{16} \right) \times 100$$
-*   *Skor Anda:* ______ / 16
-*   *Nilai Konversi:* ______ (Skala 100)
+*   *Skor Anda:* 10 / 16
+*   *Nilai Konversi:* 62,5 (Skala 100)
 
 ---
 *Simpan dokumen panduan, catatan umpan balik, dan jurnal refleksi ini sebagai salah satu **Bukti Portofolio Pembelajaran** Anda untuk Bagian I.* [1.12, B.1]
