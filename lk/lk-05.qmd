@@ -7,7 +7,7 @@ title: "Lembar Kerja Bab 05"
 
 ---
 
-> **“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”**
+> **"Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia."**
 > — *Komunikasi Interpersonal dan Publik*, Bab 5
 
 ---
@@ -42,34 +42,29 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+*   **Nama Samaran:** Kak T
+*   **Peran/Pekerjaan Nyata:** Server di Plumeria Cafe & Creative Space
+*   **Domain Hubungan:** Stakeholder internal *(narasumber sebagai staf operasional yang terlibat langsung dalam alur pemrosesan pesanan)*
+*   **Konteks Lingkungan:** Area service/dapur Plumeria Cafe & Creative Space saat jam sibuk akhir pekan
 
 ---
 
 ### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
-*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+> "Ceritakan kejadian terakhir kali pengantaran pesanan sempat salah meja." Kak T menceritakan bahwa minggu sebelumnya ada pesanan matcha yang salah diantar ke meja. Pelanggan saat itu duduk sendiri tanpa nomor meja, sementara struk dari kasir juga tidak mencantumkan nomor meja atau nomor pesanan. Akibatnya, Kak T hanya bisa memperkirakan meja tujuan berdasarkan arah datangnya pelanggan.
 
 #### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
-*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+> Kejadian seperti ini hampir muncul setiap kali kondisi sedang ramai, terutama ketika pesanan dari kitchen dan bar selesai dalam waktu yang berdekatan. Kak T kemudian harus menebak pesanan tersebut ditujukan ke meja mana. Dampaknya, beberapa pesanan bisa salah diantar, pelanggan harus menunggu lebih lama, dan sebagian pelanggan bahkan sempat menyampaikan keluhan kepada kasir.
 
 #### **Pertanyaan 3: Pemetaan Pihak Terdampak**
-*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+> Masalah ini tidak hanya dialami Kak T sebagai server yang bertugas mengantar pesanan. Kasir juga terdampak karena struk yang dicetak belum memiliki informasi nomor meja. Barista dan kitchen crew menerima pesanan tanpa referensi meja yang jelas, sementara pelanggan berisiko menerima pesanan yang tertukar atau mengalami keterlambatan.
 
 #### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
-*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+> Kak T berharap bisa mengetahui dengan pasti meja tujuan sebuah pesanan ketika mengambilnya dari kitchen atau bar. Dengan begitu, ia tidak perlu menebak atau bertanya kepada pelanggan satu per satu, terutama ketika beberapa pesanan selesai secara bersamaan.
 
 #### **Pertanyaan 5: Batasan & Kendala Lapangan**
-*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+> Sebagian besar anggota tim merupakan staf part time sehingga waktu untuk training cukup terbatas. Selain itu, pelanggan Plumeria terbiasa memilih tempat duduk sendiri tanpa nomor meja. Karena itu, cara kerja yang nantinya digunakan perlu tetap sederhana dan tidak menyulitkan pelanggan.
 
 ---
 
@@ -86,12 +81,14 @@ Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasu
 ---
 
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
-*Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+> Server Plumeria Cafe mengalami kesulitan mengetahui meja tujuan pesanan ketika beberapa pesanan selesai secara bersamaan pada jam ramai. Kondisi ini dapat menyebabkan pesanan salah diantar dan membuat pelanggan menunggu lebih lama. Server membutuhkan cara untuk memastikan meja tujuan setiap pesanan dengan tetap mempertimbangkan keterbatasan waktu training staf part time.
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
-*Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+> Setelah rumusan awal dibacakan, Kak T menjelaskan bahwa masalahnya tidak hanya berada di sisi server. Menurutnya, informasi mengenai meja sudah tidak tersedia sejak struk dicetak di kasir karena tidak mencantumkan nomor meja. Dengan demikian, server memang sudah kesulitan menentukan tujuan pesanan sebelum pesanan sampai ke tahap pengantaran.
+>
+> Rumusan yang kemudian disepakati adalah:
+>
+> > Server Plumeria Cafe mengalami kesulitan memastikan pesanan sampai ke meja yang tepat saat jam ramai karena tidak ada penanda yang menghubungkan pesanan dengan pelanggan sejak pesanan dibuat. Kondisi ini dapat menyebabkan pesanan salah diantar, pelanggan menunggu lebih lama, atau menyampaikan komplain. Tim membutuhkan cara untuk memastikan kepemilikan setiap pesanan secara jelas dari kasir sampai meja, dengan mempertimbangkan keterbatasan waktu training staf part time dan kebiasaan pelanggan yang memilih tempat duduk sendiri.
 
 ---
 
@@ -102,7 +99,9 @@ Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
 3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
 
 > **Jurnal Refleksi:**
-> 
+> Dalam wawancara ini, saya belajar untuk tidak langsung menyimpulkan suatu masalah. Sebelum wawancara, saya sudah memiliki dugaan mengenai hal yang perlu diperbaiki. Setelah mendengar pengalaman Kak T, saya mencoba melihat dugaan tersebut sebagai pemahaman awal dan lebih memperhatikan cerita yang disampaikan. Jawaban Kak T kemudian membantu saya menentukan pertanyaan selanjutnya.
+>
+> Saya juga mulai melihat pentingnya memberi ruang kepada narasumber untuk menjelaskan situasinya dengan caranya sendiri. Pertanyaan terbuka membantu saya memahami hal-hal yang sebelumnya tidak saya pertimbangkan. Dari proses ini, saya belajar bahwa discovery membutuhkan sikap terbuka dan kemauan untuk mengubah pemahaman ketika informasi yang diperoleh menunjukkan hal yang berbeda. Ke depannya, saya ingin lebih berhati-hati agar asumsi pribadi tidak terlalu memengaruhi bagaimana saya memahami masalah.
 
 ---
 
@@ -111,9 +110,11 @@ Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 beriku
 
 | Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | 98 |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | 96 |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | 96 |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | 96 |
+
+Konteks kejadian, dampaknya terhadap pelanggan dan anggota tim lain, serta kendala dari sisi staf part time dan kebiasaan pelanggan berhasil digali sebelum mengarah pada solusi. Rumusan masalah difokuskan pada pengalaman Kak T dan alur kerja tim dengan menggunakan fakta yang ditemukan dari wawancara dan tidak langsung mengarah pada solusi teknis. Identitas Kak T disamarkan dan persetujuan lisan dicantumkan dalam catatan wawancara. Wawancara lanjutan dengan kasir dan kitchen crew serta penyampaian ulang rangkuman kepada Kak T direncanakan sebagai tindak lanjut agar informasi tetap dapat dipertanggungjawabkan.
 
 *Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*

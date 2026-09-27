@@ -1,25 +1,86 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
+description: "Discovery untuk menyusun shared problem statement bersama server Plumeria Cafe & Creative Space."
 categories: [Professional, Discovery]
 ---
 
 ## Kompetensi target
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Mendengarkan sebelum menawarkan solusi dan membangun shared problem statement bersama person.
 
 ## Evidence wajib
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+- Asumsi awal dan pertanyaan discovery.
+- Transcript/parafrase, dampak masalah, dan constraint.
+- Shared problem statement yang telah dikonfirmasi partner.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Initial assumption dan rencana discovery
+
+Saya awalnya mengira masalah utama di Plumeria Cafe & Creative Space adalah server yang kurang teliti dalam mengingat pesanan pelanggan. Karena itu, saya sempat membayangkan solusi berupa pelatihan tambahan untuk server. Untuk menguji asumsi tersebut, saya mewawancarai "Kak T", salah satu server di Plumeria Cafe.
+
+Pertanyaan utama yang saya siapkan:
+
+1. Bisa ceritakan kejadian terakhir ketika pesanan sempat salah diantar ke meja?
+2. Di bagian mana Kak T paling mengalami kesulitan?
+3. Apa dampaknya terhadap pekerjaan Kak T atau pelanggan?
+4. Kalau masalah tersebut bisa teratasi, seperti apa alur kerja yang Kak T harapkan?
+5. Apakah ada batasan dari sisi waktu, biaya, atau kebiasaan tim yang perlu dipertimbangkan?
+
+## Potongan transcript
+
+**Kak T:** "Minggu lalu ada pesanan matcha yang saya antar ke meja yang salah, soalnya pelanggan duduk sendiri tanpa nomor meja, jadi saya cuma nebak dari arah datangnya orang tadi."
+
+**Kezia:** "Berarti masalahnya bukan Kak T lupa, tapi memang nggak ada cara untuk tahu pesanan itu punya meja mana?"
+
+**Kak T:** "Betul, dari kasir juga struknya cuma dicetak biasa, nggak ada nomor meja atau nomor pesanan."
+
+**Kezia:** "Seberapa sering kejadian seperti ini muncul?"
+
+**Kak T:** "Hampir tiap jam ramai, apalagi kalau kitchen dan bar sama-sama selesai bareng, saya jadi bingung mana punya siapa."
+
+**Kezia:** "Kalau masalah ini selesai, kira-kira alur kerja seperti apa yang Kak T bayangkan?"
+
+**Kak T:** "Saya cuma butuh cara pasti buat tahu pesanan ini punya meja mana, tanpa nebak-nebak atau nanya ke pelanggan satu-satu."
+
+**Kezia:** "Ada batasan yang perlu saya tahu, misalnya soal waktu training tim atau kebiasaan pelanggan?"
+
+**Kak T:** "Timnya kebanyakan part time jadi nggak bisa training lama, dan pelanggan di sini terbiasa cari tempat duduk sendiri, jadi caranya harus tetap simpel buat mereka juga."
+
+## Pembaruan pembacaan
+
+Setelah wawancara, saya menyadari bahwa asumsi awal tentang server yang kurang teliti ternyata tidak didukung oleh temuan yang ada. Masalahnya justru bermula dari tidak adanya penanda yang menghubungkan pesanan dengan meja pelanggan sejak dari kasir. Akibatnya, informasi yang dibutuhkan server untuk mengantar pesanan dengan tepat sudah tidak tersedia ketika pesanan sampai ke tahap pengantaran. Hal ini juga dapat berdampak pada barista, kitchen crew, dan pelanggan.
+
+Namun, satu wawancara belum cukup untuk mengetahui seberapa besar masalah ini memengaruhi pengalaman pelanggan secara keseluruhan. Karena itu, saya menganggap hasil wawancara ini sebagai discovery awal yang masih perlu dikonfirmasi melalui perspektif kasir dan kitchen crew.
+
+Shared problem statement yang kemudian dikonfirmasi oleh Kak T:
+
+> "Server Plumeria Cafe mengalami kesulitan memastikan pesanan sampai ke meja yang tepat saat jam ramai karena tidak ada penanda yang menghubungkan pesanan dengan pelanggan sejak pesanan dibuat, sehingga pesanan salah antar dan pelanggan harus menunggu lebih lama atau komplain. Tim membutuhkan cara memastikan kepemilikan tiap pesanan secara jelas dari kasir sampai meja, dengan mempertimbangkan waktu training staf part time yang terbatas dan kebiasaan pelanggan yang mencari tempat duduk sendiri."
+
+## Evidence, feedback, dan next step
+
+- Catatan wawancara dibuat dengan persetujuan lisan Kak T dan identitasnya disamarkan.
+- Transcript dianonimkan dan diberi penanda waktu wawancara.
+- Dua hari setelah wawancara, saya mengirimkan kembali problem statement kepada Kak T dan meminta koreksi secara eksplisit.
+- Pada discovery berikutnya, saya akan mewawancarai kasir dan kitchen crew untuk melihat alur pesanan dari sisi lain sebelum menarik kesimpulan mengenai problem statement untuk seluruh tim.
+
+AI digunakan untuk membantu memberi label `fact`, `interpretation`, dan `solution suggestion` pada transcript. Saya memeriksa kembali setiap label dengan catatan wawancara dan tidak memasukkan nama maupun kontak asli narasumber.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---|---|
+| Person & Character | 4 | Saya melihat Kak T bukan hanya dari perannya sebagai server, tetapi juga dari pengalaman menghadapi jam ramai dan kondisi kerjanya sebagai staf part time |
+| Objective & State | 4 | Tujuan wawancara sudah ditentukan sejak awal, lalu asumsi bahwa server kurang teliti diuji melalui lima pertanyaan discovery |
+| Repertoire, Language & AI | 4 | Saya menggunakan open question, paraphrase, dan confirmation secara berurutan. AI hanya membantu memberi label pada transcript, lalu hasilnya saya periksa kembali secara manual |
+| Response & Adaptation | 4 | Saya tidak melanjutkan usulan pelatihan setelah mengetahui bahwa masalah utamanya berkaitan dengan tidak adanya penanda pesanan dan meja. Asumsi awal kemudian saya sesuaikan dengan hasil wawancara |
+| Agreement, Action & Relationship | 4 | Problem statement dikonfirmasi kembali kepada Kak T, rumusannya disesuaikan berdasarkan koreksinya, dan wawancara lanjutan dengan kasir serta kitchen crew direncanakan |
+
+**Total: 20/20**
