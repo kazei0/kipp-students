@@ -32,22 +32,38 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 | Community — pengurus divisi akademik BPA STEI-K 25 | Rekan pengurus BPA STEI-K 25 | Menjalankan tanggung jawab divisi sekaligus membangun hubungan yang lebih dekat dengan anggota lain | Koordinasi tugas dan percakapan di luar urusan pekerjaan | Interaksi masih banyak terbatas pada tugas; latihan memulai percakapan personal |
 | World/Public — kontributor lewat kemampuan yang dimiliki | Masyarakat di luar lingkungan perkuliahan | Memberikan kontribusi yang nyata dengan menyesuaikan cara berkomunikasi terhadap latar belakang audiens | Menyesuaikan bahasa dan nada bicara berdasarkan lawan bicara | Berisiko menganggap orang lain memiliki cara berpikir yang sama; latihan memastikan pemahaman audiens sebelum melanjutkan |
 
-## Episode yang dianalisis
+## Konteks performance
 
-**Konteks:** Menjelang tenggat tugas kelompok mata kuliah, saya perlu mengoordinasikan seorang rekan tim yang progresnya masih tertinggal. Saat itu saya juga sedang lelah karena sudah beberapa hari begadang mengerjakan tugas dan kegiatan lain. Setelah rapat kelompok selesai, saya pulang dan bercerita kepada salah satu sahabat tentang betapa capeknya hari itu. Kedua percakapan ini terjadi dalam beberapa jam yang sama, tetapi cara saya berkomunikasi cukup berbeda.
+**Tanggal dan setting:** Akhir Mei 2026 pada sore hingga malam hari. Kegiatan dimulai dengan koordinasi tugas kuliah melalui grup kelompok dan dilanjutkan dengan percakapan pribadi bersama sahabat pada malam harinya.
 
-**Objective:** Di lingkungan kuliah, tujuan saya adalah memastikan tugas selesai tepat waktu dengan komunikasi yang jelas. Sementara ketika berbicara dengan sahabat, saya tidak sedang mencari solusi untuk suatu masalah. Saya hanya ingin didengarkan dan bisa menceritakan apa yang saya rasakan setelah hari yang cukup melelahkan.
+**Persons dan relationship:** Rekan satu kelompok tugas kuliah dengan hubungan kerja yang setara dalam proyek bersama serta seorang sahabat yang tinggal di luar negeri dengan hubungan personal di luar konteks akademik.
 
-> **Saya (ke rekan kelompok saat diskusi):** "Progress bagian kamu gimana? Kita perlu selesai malam ini biar besok pagi masih sempat direview."
-> **Rekan kelompok:** "Aku masih ada beberapa bagian yang belum selesai. Tadi agak kesulitan di bagian ini, jadi lebih lama dari yang aku kira."
-> **Saya (ke sahabat saat sedang curhat):** "Capek banget hari ini. Rasanya dari tadi aku yang paling aktif di kelompok dan ngejoki seluruh kerjaannya."
-> **Sahabat:** "Kedengarannya memang kecapekan banget kamu. Istirahat dulu aja malam ini, kamu udah banyak ngerjain juga."
+**Objective dan initial state:** Pada awalnya, tugas belum selesai dan tenggat waktu semakin dekat. Salah satu rekan juga menunjukkan progres yang tertinggal. Tujuan saya saat itu adalah memastikan tugas dapat diselesaikan tepat waktu melalui komunikasi yang jelas. Beberapa jam kemudian, kondisi saya berubah menjadi lebih lelah karena sudah beberapa hari kurang tidur. Saat berbicara dengan sahabat, tujuan saya pun berubah. Saya tidak lagi berfokus untuk mengarahkan orang lain, tetapi lebih ingin didengarkan dan berbagi cerita.
 
-Ketika bicara ke rekan kelompok, saya menggunakan bahasa yang lebih tegas karena saya sedang berusaha memastikan pekerjaan selesai sesuai waktu yang sudah ditentukan. Setelah mengetahui bahwa ternyata ada kendala di bagian yang dikerjakan, saya tidak langsung menegur, tetapi membicarakan apa yang masih bisa diselesaikan malam itu.
+## Evidence
 
-Sementara ketika bicara dengan sahabat, cara saya lebih terbuka dan tidak terlalu memikirkan bagaimana percakapan harus berjalan. Saya hanya ingin bercerita dan didengar. Respons sahabat saya yang tidak langsung memberikan solusi membuat saya merasa lebih lega setelah menceritakan apa yang terjadi.
+::: {.callout-note title="Rekonstruksi percakapan (dari catatan pribadi, nama diganti sesuai kebutuhan privasi)"}
+**Saya (ke rekan kelompok saat diskusi):** "Progress bagian kamu gimana? Kita perlu selesai malam ini biar besok pagi masih sempat direview."
 
-Agreement akhirnya: Dengan rekan kelompok, kami menyepakati bagian mana yang akan diselesaikan malam itu dan bagian mana yang dilanjutkan keesokan harinya agar tetap bisa direview sebelum dikumpulkan. Dengan sahabat, tidak ada kesepakatan khusus. Saya hanya merasa lebih lega setelah bisa menceritakan apa yang saya alami hari itu.
+**Rekan kelompok:** "Aku masih ada beberapa bagian yang belum selesai. Tadi agak kesulitan di bagian ini, jadi lebih lama dari yang aku kira."
+
+**Saya (ke sahabat saat sedang curhat):** "Capek banget hari ini. Rasanya dari tadi aku yang paling aktif di kelompok dan ngejoki seluruh kerjaannya."
+
+**Sahabat:** "Kedengarannya memang kecapekan banget kamu. Istirahat dulu aja malam ini, kamu udah banyak ngerjain juga."
+:::
+
+Kami sama-sama sedang menghadapi anggota kelompok yang kurang berkontribusi sehingga percakapan dengan sahabat lebih banyak berisi curhat, saling memahami, dan membandingkan pengalaman kerja kelompok masing-masing.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya berperan sebagai rekan kelompok yang membantu mengatur pekerjaan, bukan sebagai atasan. Saat berkomunikasi dengan rekan kelompok, saya menggunakan bahasa yang cukup tegas karena ingin memastikan tugas selesai tepat waktu. Namun, setelah mengetahui bahwa ada kendala yang memang sedang dihadapi, saya memilih untuk tidak langsung menegur. Beberapa jam kemudian, saya beralih menjadi seorang sahabat yang sedang membutuhkan ruang untuk bercerita dan didengarkan. |
+| Objective & state | Pada awal koordinasi, tugas masih belum selesai dan tenggat waktu semakin dekat. Tujuan saya adalah memastikan pekerjaan tetap berjalan tanpa langsung menyalahkan atau menegur rekan yang progresnya tertinggal. Setelah berdiskusi, kami berhasil mencapai kesepakatan mengenai pembagian pekerjaan. Sementara itu, kondisi saya sendiri semakin lelah secara emosional sehingga ketika berbicara dengan sahabat, tujuan saya bukan lagi mencari solusi, melainkan mendapatkan ruang untuk bercerita dan didengarkan. |
+| Repertoire & language | Saat berbicara dengan rekan kelompok, saya lebih banyak membahas pekerjaan yang masih dapat diselesaikan malam itu dan menggunakan bahasa yang berfokus pada penyelesaian tugas. Berbeda ketika berbicara dengan sahabat, saya lebih terbuka dan tidak terlalu memikirkan arah percakapan. Saya hanya ingin menceritakan apa yang sedang saya alami dan merasa didengarkan. |
+| Response & adaptation | Sahabat saya tidak langsung memberikan solusi ketika mendengar cerita saya. Respons tersebut justru membuat saya merasa lebih lega karena saya memang sedang membutuhkan seseorang untuk mendengarkan, bukan memberikan arahan atau solusi. |
+| Agreement/action | Dengan rekan kelompok, kami menyepakati bagian yang perlu diselesaikan malam itu dan bagian yang dapat dilanjutkan keesokan harinya agar seluruh pekerjaan masih memiliki waktu untuk direview sebelum dikumpulkan. Sementara dengan sahabat, tidak ada kesepakatan atau tindakan khusus. Saya hanya merasa lebih lega setelah menyampaikan apa yang sedang saya rasakan. |
+| Relationship outcome | Kerja sama dalam kelompok tetap berjalan dan pembagian pekerjaan menjadi lebih jelas. Hubungan saya dengan sahabat juga tetap hangat karena kami dapat saling memahami setelah sama-sama bercerita tentang situasi yang sedang dihadapi dalam kelompok masing-masing. |
 
 ## Perubahan language
 
