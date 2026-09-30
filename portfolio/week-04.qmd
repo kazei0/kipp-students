@@ -38,6 +38,8 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 Kezia menguji versi friend kepada teman yang bukan dari jurusan STI tanpa memberikan penjelasan tambahan. Teman tersebut memahami bahwa hasil yang bagus pada latihan belum tentu berarti hasilnya juga bagus pada data baru. Namun, ia bertanya, "Terus kalau modelnya salah nebak, siapa yang rugi?" Kezia kemudian menambahkan kalimat, "Kalau salah, prediksinya bisa menyesatkan orang yang memakainya, makanya harus dites dulu sebelum benar-benar dipakai."
 
+Teman tersebut merespons, "Ooh, jadi kayak dicoba-coba dulu gitu ya sebelum bener-bener dipakai, biar nggak salah nebak pas dipakai orang beneran?" Kezia mengonfirmasi bahwa pemahaman tersebut sudah tepat, lalu keduanya sepakat bahwa Kezia akan mengirimkan ringkasan hasil pengujian model (berupa grafik training vs validation score) setelah proses validasi selesai, supaya temannya juga bisa melihat langsung bagaimana konsep "dites dulu" itu diterapkan pada proyek yang sebenarnya. Kesepakatan ini menjadi bukti eksplisit bahwa pemahaman target sudah dikonfirmasi ulang, bukan hanya diasumsikan dari satu pertanyaan saja.
+
 ## Analisis dan batas
 
 Repertoire disesuaikan dari obrolan santai sehari-hari untuk friend, istilah teknis yang presisi untuk technical peer, bahasa yang menekankan risiko dan biaya bisnis untuk manager, hingga penjelasan dampak praktis disertai kepastian tindak lanjut untuk customer. Sementara itu, versi public dibuat lebih umum dan tidak menggunakan detail proyek. Kezia tidak menganggap versi public sesuai untuk customer karena pengguna yang keputusan atau tindakannya bergantung langsung pada hasil prediksi membutuhkan informasi tindak lanjut yang lebih spesifik dibandingkan publik secara umum.
@@ -52,6 +54,6 @@ AI (Claude) digunakan untuk memeriksa apakah kelima versi tetap menyampaikan keb
 | Objective & State | 4 | Kebenaran inti tentang risiko overfitting tetap konsisten di kelima versi, meskipun titik awal pemahaman setiap audiens berbeda. |
 | Repertoire, Language & AI | 4 | Lima repertoire berbeda disusun sesuai kebutuhan masing-masing, termasuk penolakan terhadap satu klaim AI yang tidak didukung fakta. |
 | Response & Adaptation | 4 | Pertanyaan dari teman mendorong adanya satu penyesuaian kalimat tambahan. |
-| Agreement, Action & Relationship | 4 | Tindak lanjut berupa pemberian informasi kembali mengenai hasil model sudah tersirat. |
+| Agreement, Action & Relationship | 4 | Tercapai kesepakatan eksplisit dengan target (teman): Kezia akan mengirimkan ringkasan hasil pengujian model setelah validasi selesai dan target mengonfirmasi pemahamannya secara langsung. |
 
 **Total: 20 / 20**
