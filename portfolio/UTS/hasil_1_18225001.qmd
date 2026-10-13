@@ -1,6 +1,7 @@
 ---
-title: "Laporan UTS KIPP 2026"
-subtitle: "Sesi 1 — Kasus 1: Memimpin diri dan terus belajar"
+title: "Laporan UTS KIPP - Sesi 1"
+subtitle: "Memimpin diri dan terus belajar"
+author: "Kezia Josephine Manik"
 lang: id
 from: markdown+hard_line_breaks
 format:
