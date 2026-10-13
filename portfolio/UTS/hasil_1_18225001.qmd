@@ -1,5 +1,5 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
+title: "Laporan UTS KIPP 2026 - Sesi 1"
 subtitle: "Sesi 1 — Kasus 1"
 lang: id
 from: markdown+hard_line_breaks
