@@ -1,6 +1,6 @@
 ---
-title: "Laporan UTS KIPP 2026 - Sesi 1"
-subtitle: "Sesi 1 — Kasus 1"
+title: "Laporan UTS KIPP 2026"
+subtitle: "Sesi 1 — Kasus 1: Memimpin diri dan terus belajar"
 lang: id
 from: markdown+hard_line_breaks
 format:
