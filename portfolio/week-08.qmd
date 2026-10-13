@@ -19,10 +19,10 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Nama | Kezia Josephine Manik |
 | NIM | "18225001" |
 | Kelas | K-01 |
-| Periode/tanggal pelaksanaan | Sesi 1 pada 12 dan 13 Oktober 2026 (tanggal sesi lain dicatat di laporan masing-masing) |
+| Periode/tanggal pelaksanaan | Sesi 1 pada 12 dan 13 Oktober 2026; Sesi 2a pada 13 Oktober 2026 (tanggal sesi lain dicatat di laporan masing-masing) |
 | Versi bank/paket aktif | Bank 2.0; paket 2.0 (PENUGASAN.md dalam ZIP) |
 | Modalitas | Teks; tidak ada transkripsi suara |
-| Status pengumpulan | Makalah pra-UTS dan Sesi 1 selesai dikerjakan |
+| Status pengumpulan | Makalah pra-UTS, Sesi 1, dan Sesi 2a selesai dikerjakan |
 
 ## Makalah dan lima laporan
 
@@ -30,7 +30,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 |---|---|---|---|---|
 | Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Tidak ada bagian yang kurang |
 | 1 | [hasil_1_18225001.qmd](UTS/hasil_1_18225001.qmd) | Diri; Budi (K1-02) | Selesai dijalankan | Tidak ada bagian yang kurang. Transkrip U001 sampai U013, konfirmasi pada U013. Nilai resmi menunggu dosen |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
+| 2a | [hasil_2a_18225001.qmd](UTS/hasil_2a_18225001.qmd) | Budi (K2-02) | Selesai dijalankan | Tidak ada bagian yang kurang. Transkrip U001 sampai U019, konfirmasi pada U019. Nilai resmi menunggu dosen |
 | 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
 | 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
 | 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
