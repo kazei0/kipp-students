@@ -1,0 +1,881 @@
+---
+title: "Laporan UTS KIPP - Sesi 3b"
+subtitle: "Menawarkan solusi TI dan AI - target kedua"
+author: "Kezia Josephine Manik"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Kezia Josephine Manik |
+| NIM | 18225001 |
+| Kelas dan tanggal | K-01; Rabu, 14 Oktober 2026 (U002) |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 |
+| Nama dan ID target | Budi (K3-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (chat); tidak ada transkripsi suara (U002) |
+| Kasus nyata/fiktif | Fiktif, tidak memakai data pelanggan sebenarnya (U003) |
+| Kelengkapan transkrip | Lengkap dari U001/AI001 sampai konfirmasi U021. Respons AI021 (pembuatan laporan ini) tidak disalin karena merupakan artefak final. Lihat catatan teknis di bawah. |
+
+**Catatan teknis kelengkapan dan penghitungan giliran.**
+
+- Simulasi awal (Tahap C) berisi 10 jawaban mahasiswa, yaitu U004 sampai U013. Pada AI013 simulator menyebut "12 giliran jawaban". Angka itu keliru, jumlah yang benar menurut transkrip adalah 10.
+- Uji ulang (Tahap E) berisi 5 jawaban mahasiswa, yaitu U015 sampai U019. Segmen ini diberi label hipotetis dan dipisahkan dari simulasi awal.
+- Pesan mahasiswa U003, U014, dan U020 adalah dokumen teks yang ditempel. Isinya disalin tanpa perubahan kata. Judul Markdown dan judul bernomor pada ketiga dokumen itu ditampilkan sebagai teks tebal agar tidak mengubah struktur empat bagian laporan.
+- Pesan AI yang berisi nama dan peran tokoh disalin dengan baris aslinya.
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief kasus: customer menangani pertanyaan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas. Ia belum yakin perlu AI. Mahasiswa menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan atau uji coba konkret.
+
+Tujuan, indikator keberhasilan, dugaan awal, dan rencana ditulis mahasiswa pada U003 sebelum simulasi dan sebelum profil tokoh diungkapkan. Teks di bawah disalin tanpa perubahan kata dan tidak diubah setelah profil dibuka pada AI019.
+
+::: {.turn}
+Saya menggunakan kasus fiktif sesuai dengan brief dan tidak menggunakan data pelanggan yang sebenarnya.
+
+**1. Tujuan dan Indikator Keberhasilan**
+
+Tujuan saya adalah mendampingi customer dalam menentukan cara yang paling tepat untuk mengatasi pertanyaan pelanggan yang berulang dan pesanan yang terlewat. Saya ingin membantu customer mengambil keputusan yang realistis melalui uji coba kecil dengan cakupan, dukungan, risiko, dan indikator keberhasilan yang jelas. Jika masalahnya dapat diatasi dengan cara yang lebih sederhana, saya tidak akan memaksakan penggunaan AI. Keputusan akhir tetap menjadi hak customer.
+
+Keberhasilan percakapan akan dinilai melalui lima indikator. Pertama, customer mampu menjelaskan masalahnya dengan contoh nyata dan merasa didengarkan. Kedua, customer menyetujui rangkuman kebutuhan serta kendala yang telah dibahas. Ketiga, manfaat solusi dijelaskan melalui contoh yang sesuai dengan kebutuhannya, termasuk pilihan yang lebih sederhana beserta keterbatasan dan risikonya. Keempat, tercapai kesepakatan mengenai cakupan uji coba, dukungan, risiko, dan metode evaluasi hasil. Kelima, ditetapkan langkah lanjutan beserta waktu dan penanggung jawabnya, kemudian customer mampu merangkum kesepakatan tersebut dengan kata-katanya sendiri.
+
+Jika customer belum bersedia mencoba, saya akan menghormati keputusannya dan menjadikan indikator yang belum tercapai sebagai bahan evaluasi untuk memperbaiki pendekatan saya.
+
+**2. Dugaan Awal tentang Customer**
+
+**Fakta berdasarkan brief.** Customer mengelola usaha dengan sumber daya manusia yang terbatas. Ia menghadapi masalah berupa pertanyaan pelanggan yang terus berulang dan pesanan yang terkadang terlewat. Ia juga belum yakin bahwa penggunaan AI merupakan solusi yang dibutuhkan.
+
+**Dugaan awal.** Saya memperkirakan keraguan customer mungkin disebabkan oleh manfaat AI yang belum terlihat jelas, kekhawatiran mengenai biaya dan kerumitan, kesiapan tim, atau keakuratan informasi. Saya juga mempertimbangkan kemungkinan bahwa masalah tersebut sebenarnya dapat diselesaikan melalui perbaikan proses tanpa menggunakan AI.
+
+Dari sisi pengetahuan, saya menduga customer belum sepenuhnya memahami kemampuan dan keterbatasan teknologi. Sementara itu, dari sisi kemampuan dan dukungan, saya belum mengetahui sejauh mana customer dan timnya terbiasa menggunakan teknologi.
+
+Seluruh hal tersebut masih berupa dugaan yang perlu dikonfirmasi. Saya belum mengetahui skala usaha customer, jenis pertanyaan yang paling sering diajukan, alur penerimaan dan pencatatan pesanan, pihak yang bertanggung jawab, maupun pengalaman mereka dalam menggunakan teknologi. Saya juga belum mengetahui gaya komunikasi yang paling nyaman bagi customer. Oleh karena itu, saya tidak akan langsung menyimpulkan kepribadiannya sebelum memperoleh informasi yang cukup.
+
+Untuk menguji dugaan tersebut, saya akan mengajukan beberapa pertanyaan. Pertanyaan pelanggan apa yang paling sering muncul? Bagaimana pesanan diterima dan dicatat, serta pada tahap mana biasanya terjadi kesalahan atau pesanan terlewat? Siapa yang bertanggung jawab menangani proses tersebut? Teknologi apa yang pernah atau sedang digunakan, dan bagaimana pengalaman customer selama menggunakannya? Terakhir, apa pertimbangan utama yang membuatnya masih ragu terhadap penggunaan AI?
+
+**3. Rencana Awal**
+
+Saya akan memulai percakapan dengan mengucapkan terima kasih atas waktu customer dan menunjukkan bahwa keraguannya dapat dipahami. Saya tidak akan langsung menawarkan solusi, tetapi terlebih dahulu menggali pengalamannya dalam menangani pertanyaan berulang dan pesanan yang terlewat. Saya juga akan menanyakan pengetahuan serta pengalamannya menggunakan teknologi sejak awal percakapan. Agar pembicaraan lebih mudah diikuti, saya akan berusaha menyampaikan satu gagasan utama dalam setiap pesan. Setelah mendapatkan informasi yang cukup, saya akan merangkum pemahaman saya dan meminta konfirmasi dari customer.
+
+Selanjutnya, saya akan menggali hal-hal yang menjadi pertimbangannya dan menjelaskan manfaat solusi melalui contoh yang berkaitan langsung dengan permasalahan usaha. Saya akan mengutamakan pilihan sederhana, seperti templat balasan dan perbaikan sistem pencatatan. Penggunaan AI baru akan dipertimbangkan jika memang sesuai dengan kebutuhan, disertai penjelasan yang jujur mengenai manfaat, keterbatasan, dan risikonya.
+
+Jika customer tertarik, saya akan mengajaknya merancang uji coba berskala kecil dengan cakupan, dukungan, risiko, dan indikator keberhasilan yang disepakati bersama. Kami kemudian akan menentukan langkah lanjutan, jadwal, serta pihak yang bertanggung jawab. Sebelum percakapan berakhir, saya akan meminta customer menjelaskan kembali kesepakatan tersebut dengan bahasanya sendiri untuk memastikan pemahamannya. Sepanjang proses, saya juga akan menyesuaikan cara berkomunikasi berdasarkan respons dan kebutuhan customer.
+:::
+
+Respons akhir yang diharapkan, menurut U003, adalah keputusan realistis berupa uji coba kecil dengan cakupan, dukungan, risiko, dan indikator yang jelas, dengan keputusan akhir pada customer.
+
+## Profil awal komunikator
+
+Tabel ini hanya memetakan isi U003 ke kolom template. Kerangka SWOT, Attitude, Knowledge, dan Skill tidak ditulis mahasiswa dalam bentuk tabel, sehingga pemetaan ini merupakan interpretasi AI atas teks mahasiswa. Sel yang tidak disebut mahasiswa ditandai demikian.
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Fakta brief: tenaga terbatas, masalah berulang. Dugaan penyebab keraguan: manfaat AI belum jelas, kekhawatiran biaya dan kerumitan, kesiapan tim, keakuratan. Kemungkinan masalah cukup diselesaikan dengan perbaikan proses. Peluang, ancaman, dan kemampuan tidak dirinci mahasiswa dalam format SWOT. | U003 | Sementara |
+| Attitude | Fakta brief: belum yakin AI diperlukan. Dugaan: keraguan terkait manfaat, biaya, kerumitan, dan keakuratan. | U003 | Sementara |
+| Knowledge | Dugaan: belum sepenuhnya memahami kemampuan dan keterbatasan teknologi. | U003 | Sementara |
+| Skill | Belum diketahui sejauh mana customer dan tim terbiasa dengan teknologi. | U003 | Belum diketahui |
+| Preferensi/MBTI jika dilaporkan | Tidak diduga. Mahasiswa menyatakan tidak akan menyimpulkan kepribadian sebelum informasi cukup dan belum mengetahui gaya komunikasi yang nyaman bagi customer. | U003 | Tidak ada dugaan |
+| Karakter, peran, kultur/ko-kultur | Fakta brief: mengelola usaha dengan tenaga terbatas. Norma spesifik belum diketahui. | U003 | Belum diketahui |
+
+## Dugaan awal profil target dan rencana
+
+Fakta brief, dugaan, dan pertanyaan validasi dipisahkan mahasiswa pada U003 (lihat teks di atas). Mahasiswa tidak menyusun rencana dalam kerangka TAIDA. Tabel berikut adalah pemetaan AI atas rencana tertulis U003, bukan tulisan mahasiswa.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Uji coba kecil dengan cakupan, dukungan, risiko, indikator disepakati; AI tidak dipaksakan | Tidak dinyatakan mahasiswa | Pertanyaan tentang kendala dan pertimbangan; kesepakatan bersama | Lima indikator keberhasilan (U003) |
+| Attention | Customer belum yakin; keraguan dianggap wajar | A: tidak dinyatakan secara eksplisit | Ucapan terima kasih, pengakuan bahwa keraguan dapat dipahami, menggali pengalaman sebelum menawarkan solusi | Customer menjelaskan masalah dengan contoh nyata dan merasa didengarkan |
+| Interest | Kebutuhan dan prioritas belum diketahui | K: pertanyaan tentang pengetahuan dan pengalaman teknologi sejak awal | Pertanyaan terbuka, rangkuman dan konfirmasi, satu gagasan per pesan | Customer menyetujui rangkuman kebutuhan dan kendala |
+| Desire | Manfaat solusi belum terlihat | K dan A: penjelasan manfaat lewat contoh yang relevan | Pilihan sederhana lebih dulu (templat balasan, perbaikan pencatatan); AI hanya bila sesuai, dengan penjelasan jujur tentang manfaat, keterbatasan, risiko | Manfaat dan keterbatasan dijelaskan dengan contoh sesuai kebutuhan |
+| Action | Belum ada kesepakatan | S: dukungan dan kesiapan pelaksanaan | Rancang uji coba kecil bersama; tentukan langkah lanjutan, jadwal, penanggung jawab; customer merangkum dengan bahasanya sendiri | Kesepakatan cakupan, dukungan, risiko, evaluasi; langkah, waktu, penanggung jawab; rangkuman customer |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual, bukan dialog karangan.** Pesan mahasiswa diberi ID U dan pesan simulator/fasilitator diberi ID AI, berpasangan menurut urutan kronologis. Tahap ditandai pada setiap segmen.
+
+## Tahap identifikasi
+
+**U001** (tahap: identifikasi)
+
+::: {.turn}
+Jalankan kasus 3
+:::
+
+**AI001** (tahap: identifikasi)
+
+::: {.turn}
+Baik, kita mulai sesi 3b (Kasus 3). Saya menjalankan penugasan yang tercatat: Sesi 3b, urutan 5 dari 5, target Budi (K3-02), dan file hasil akhir hasil_3b_18225001.qmd.
+
+**Tahap A: Identifikasi**
+
+Mohon konfirmasi atau lengkapi data berikut. Data tertulis ini adalah penugasan, bukan verifikasi identitas.
+
+1. Nama mahasiswa: apakah benar Kezia Josephine Manik?
+2. NIM: apakah benar 18225001?
+3. Kelas
+4. Tanggal sesi (saya mencatat hari ini Rabu, 14 Oktober 2026, silakan koreksi bila berbeda)
+5. Modalitas: teks atau suara (bila suara, sebutkan sumber transkripsinya)
+
+Pertanyaan utama untuk giliran ini: apakah data nama dan NIM di atas sudah sesuai dengan paket yang Anda unggah, dan di kelas mana Anda mengikuti sesi ini?
+:::
+
+**U002** (tahap: identifikasi)
+
+::: {.turn}
+Data itu sudah benar. Nama saya Kezia Josephine Manik, NIM 18225001, dan ini Sesi 3b. Kelas saya K-01, tanggal pelaksanaan Rabu 14 Oktober 2026, dan modalitasnya teks, jadi tidak ada transkripsi suara.
+:::
+
+## Tahap kasus dan rencana
+
+**AI002** (tahap: kasus dan tujuan)
+
+::: {.turn}
+Terima kasih, Kezia. Data identitas saya catat: Kezia Josephine Manik, NIM 18225001, kelas K-01, Rabu 14 Oktober 2026, modalitas teks, Sesi 3b (Kasus 3).
+
+**Tahap B: Kasus dan tujuan**
+
+Brief kasus: Seorang customer mengelola usaha yang menangani pertanyaan pelanggan berulang dan pesanan yang tercecer, dengan tenaga yang terbatas. Ia belum yakin bahwa ia membutuhkan AI. Peran Anda adalah menggali kebutuhannya dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan atau uji coba yang konkret. Kasus ini boleh nyata atau fiktif, silakan tandai mana yang Anda pakai.
+
+Sebelum percakapan dengan tokoh dimulai, mohon tuliskan tiga hal berikut.
+
+1. Tujuan Anda: keputusan atau uji coba konkret apa yang ingin Anda capai bersama customer ini, dan apa indikator bahwa tujuan itu tercapai?
+2. Dugaan awal Anda tentang customer: bagaimana Anda memperkirakan sikap (A), pengetahuan (K), dan kemampuan atau dukungan (S) yang ia miliki, termasuk dugaan tentang kekhawatiran, preferensi komunikasi, dan norma kerjanya? Tandai mana yang fakta dari brief dan mana yang dugaan.
+3. Rencana awal: urutan langkah komunikasi dan jenis pertanyaan atau stimulus yang akan Anda gunakan.
+
+Pertanyaan utama untuk giliran ini: apa tujuan konkret Anda dan indikator keberhasilannya?
+:::
+
+**U003** (tahap: rencana; teks identik dengan Bagian B)
+
+::: {.turn}
+Saya menggunakan kasus fiktif sesuai dengan brief dan tidak menggunakan data pelanggan yang sebenarnya.
+
+**1. Tujuan dan Indikator Keberhasilan**
+
+Tujuan saya adalah mendampingi customer dalam menentukan cara yang paling tepat untuk mengatasi pertanyaan pelanggan yang berulang dan pesanan yang terlewat. Saya ingin membantu customer mengambil keputusan yang realistis melalui uji coba kecil dengan cakupan, dukungan, risiko, dan indikator keberhasilan yang jelas. Jika masalahnya dapat diatasi dengan cara yang lebih sederhana, saya tidak akan memaksakan penggunaan AI. Keputusan akhir tetap menjadi hak customer.
+
+Keberhasilan percakapan akan dinilai melalui lima indikator. Pertama, customer mampu menjelaskan masalahnya dengan contoh nyata dan merasa didengarkan. Kedua, customer menyetujui rangkuman kebutuhan serta kendala yang telah dibahas. Ketiga, manfaat solusi dijelaskan melalui contoh yang sesuai dengan kebutuhannya, termasuk pilihan yang lebih sederhana beserta keterbatasan dan risikonya. Keempat, tercapai kesepakatan mengenai cakupan uji coba, dukungan, risiko, dan metode evaluasi hasil. Kelima, ditetapkan langkah lanjutan beserta waktu dan penanggung jawabnya, kemudian customer mampu merangkum kesepakatan tersebut dengan kata-katanya sendiri.
+
+Jika customer belum bersedia mencoba, saya akan menghormati keputusannya dan menjadikan indikator yang belum tercapai sebagai bahan evaluasi untuk memperbaiki pendekatan saya.
+
+**2. Dugaan Awal tentang Customer**
+
+**Fakta berdasarkan brief.** Customer mengelola usaha dengan sumber daya manusia yang terbatas. Ia menghadapi masalah berupa pertanyaan pelanggan yang terus berulang dan pesanan yang terkadang terlewat. Ia juga belum yakin bahwa penggunaan AI merupakan solusi yang dibutuhkan.
+
+**Dugaan awal.** Saya memperkirakan keraguan customer mungkin disebabkan oleh manfaat AI yang belum terlihat jelas, kekhawatiran mengenai biaya dan kerumitan, kesiapan tim, atau keakuratan informasi. Saya juga mempertimbangkan kemungkinan bahwa masalah tersebut sebenarnya dapat diselesaikan melalui perbaikan proses tanpa menggunakan AI.
+
+Dari sisi pengetahuan, saya menduga customer belum sepenuhnya memahami kemampuan dan keterbatasan teknologi. Sementara itu, dari sisi kemampuan dan dukungan, saya belum mengetahui sejauh mana customer dan timnya terbiasa menggunakan teknologi.
+
+Seluruh hal tersebut masih berupa dugaan yang perlu dikonfirmasi. Saya belum mengetahui skala usaha customer, jenis pertanyaan yang paling sering diajukan, alur penerimaan dan pencatatan pesanan, pihak yang bertanggung jawab, maupun pengalaman mereka dalam menggunakan teknologi. Saya juga belum mengetahui gaya komunikasi yang paling nyaman bagi customer. Oleh karena itu, saya tidak akan langsung menyimpulkan kepribadiannya sebelum memperoleh informasi yang cukup.
+
+Untuk menguji dugaan tersebut, saya akan mengajukan beberapa pertanyaan. Pertanyaan pelanggan apa yang paling sering muncul? Bagaimana pesanan diterima dan dicatat, serta pada tahap mana biasanya terjadi kesalahan atau pesanan terlewat? Siapa yang bertanggung jawab menangani proses tersebut? Teknologi apa yang pernah atau sedang digunakan, dan bagaimana pengalaman customer selama menggunakannya? Terakhir, apa pertimbangan utama yang membuatnya masih ragu terhadap penggunaan AI?
+
+**3. Rencana Awal**
+
+Saya akan memulai percakapan dengan mengucapkan terima kasih atas waktu customer dan menunjukkan bahwa keraguannya dapat dipahami. Saya tidak akan langsung menawarkan solusi, tetapi terlebih dahulu menggali pengalamannya dalam menangani pertanyaan berulang dan pesanan yang terlewat. Saya juga akan menanyakan pengetahuan serta pengalamannya menggunakan teknologi sejak awal percakapan. Agar pembicaraan lebih mudah diikuti, saya akan berusaha menyampaikan satu gagasan utama dalam setiap pesan. Setelah mendapatkan informasi yang cukup, saya akan merangkum pemahaman saya dan meminta konfirmasi dari customer.
+
+Selanjutnya, saya akan menggali hal-hal yang menjadi pertimbangannya dan menjelaskan manfaat solusi melalui contoh yang berkaitan langsung dengan permasalahan usaha. Saya akan mengutamakan pilihan sederhana, seperti templat balasan dan perbaikan sistem pencatatan. Penggunaan AI baru akan dipertimbangkan jika memang sesuai dengan kebutuhan, disertai penjelasan yang jujur mengenai manfaat, keterbatasan, dan risikonya.
+
+Jika customer tertarik, saya akan mengajaknya merancang uji coba berskala kecil dengan cakupan, dukungan, risiko, dan indikator keberhasilan yang disepakati bersama. Kami kemudian akan menentukan langkah lanjutan, jadwal, serta pihak yang bertanggung jawab. Sebelum percakapan berakhir, saya akan meminta customer menjelaskan kembali kesepakatan tersebut dengan bahasanya sendiri untuk memastikan pemahamannya. Sepanjang proses, saya juga akan menyesuaikan cara berkomunikasi berdasarkan respons dan kebutuhan customer.
+:::
+
+## Tahap simulasi awal (10 jawaban mahasiswa, U004 sampai U013)
+
+**AI003** (tahap: simulasi awal, pembukaan tokoh)
+
+::: {.turn}
+Tujuan, dugaan awal, dan rencana Anda sudah saya catat sebagai Tahap B dan tidak akan saya ubah setelah profil tokoh diungkapkan. Kasus ditandai fiktif.
+
+**Tahap C, simulasi awal**
+
+Mulai sekarang saya berperan sebagai tokoh customer. Percakapan berlangsung sekitar 8 sampai 12 giliran jawaban Anda, dan penilaian dan evaluasi baru dilakukan setelahnya.
+
+Nama: Budi  
+Peran: pengelola usaha (customer) yang menangani pertanyaan pelanggan berulang dan pesanan yang tercecer, dengan tenaga terbatas
+
+Budi duduk dan menatap Anda sebentar setelah Anda menyapa, lalu berkata:
+
+"Cara sekarang sudah jelas. Mengapa harus berubah?"
+:::
+
+**U004** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah meluangkan waktu. Kalau cara yang sekarang memang sudah jelas bagi Anda, tentu tidak perlu langsung diubah. Saya tidak bermaksud meminta Anda mengganti cara kerja yang sudah ada, tetapi ingin memahami situasinya terlebih dahulu. Boleh diceritakan bagaimana Anda menangani pertanyaan pelanggan dan pesanan sehari-hari, serta bagian mana yang menurut Anda sudah berjalan dengan baik?
+:::
+
+**AI004** (tahap: simulasi awal)
+
+::: {.turn}
+Budi mengangguk pelan, bahunya sedikit mengendur. Ia mengambil buku catatan dari meja dan membukanya.
+
+"Ya, saya hargai Anda tidak langsung menyodorkan sesuatu. Begini. Pelanggan kirim pesan lewat WhatsApp dan telepon. Pesanan saya catat di buku ini, lalu saya atau Rina yang menyiapkan. Rina sudah lama ikut saya dan tahu urutannya. Kalau pesanan datang pagi, biasanya beres. Kalau sedang ramai, ya kadang ada yang tercecer."
+
+Ia menutup bukunya dan menatap Anda.
+
+"Pertanyaan pelanggan itu-itu saja, tapi saya tetap jawab satu per satu, karena itu tanggung jawab saya. Jadi, Anda mau tahu bagian mana?"
+:::
+
+**U005** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah menceritakannya. Dari yang saya tangkap, pelanggan menghubungi lewat WhatsApp dan telepon, pesanan Anda catat di buku lalu Anda atau Rina yang menyiapkan, dan pesanan pagi biasanya beres. Saat sedang ramai, kadang ada yang tercecer. Saya juga menangkap bahwa Anda menjawab pertanyaan pelanggan sendiri satu per satu karena itu tanggung jawab Anda, dan saya menghargai itu. Apakah gambaran saya sudah tepat?
+
+Untuk menjawab pertanyaan Anda, saya paling ingin memahami bagian saat sedang ramai. Boleh diceritakan satu kejadian terakhir ketika pesanan tercecer, kira-kira bagaimana urutannya sampai itu terjadi?
+:::
+
+**AI005** (tahap: simulasi awal)
+
+::: {.turn}
+Budi mengangguk, kali ini lebih lama dari sebelumnya.
+
+"Ya, tepat. Terima kasih Anda tidak menyela."
+
+Ia diam sejenak, lalu melanjutkan dengan suara lebih pelan. "Jumat minggu lalu, sore, sedang ramai. Ada tiga pesan WhatsApp masuk hampir bersamaan, lalu telepon berdering. Satu pesanan saya tulis di secarik kertas karena buku sedang dipakai Rina. Niatnya dipindah nanti. Malamnya saya lupa memindahkannya, jadi Rina menyiapkan pesanan hanya dari buku. Besok paginya pelanggan itu menelepon dan menanyakan pesanannya."
+
+Budi menutup buku catatannya perlahan. "Saya sudah bertahun-tahun berusaha menepati janji ke pelanggan. Kejadian seperti itu bukan hal yang menyenangkan buat saya."
+
+Ia menatap Anda. "Dari cerita itu, bagian mana yang ingin Anda tanyakan lebih lanjut?"
+:::
+
+**U006** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah menjelaskan situasinya dengan terbuka, Budi. Kalau saya memahami dengan benar, saat toko sedang ramai, beberapa pesan dan telepon masuk hampir bersamaan. Karena buku catatan sedang digunakan, salah satu pesanan akhirnya ditulis di secarik kertas. Pesanan itu belum sempat dipindahkan ke buku pada malam harinya, sehingga baru diketahui ketika pelanggan menghubungi Anda kembali. Saya bisa memahami bahwa kejadian seperti itu tidak menyenangkan, terutama karena Anda sudah bertahun-tahun berusaha menepati janji kepada pelanggan. Apakah saya sudah memahami urutannya dengan tepat?
+
+Saya juga ingin memahami lebih jauh apa yang terjadi ketika buku catatan sedang digunakan. Biasanya, apa yang Anda atau Rina lakukan untuk memastikan pesanan tetap tercatat dan tidak terlewat dalam situasi seperti itu?
+:::
+
+**AI006** (tahap: simulasi awal)
+
+::: {.turn}
+Budi mengangguk. "Ya, urutannya tepat seperti itu. Anda mencatatnya dengan benar."
+
+Ia memutar pulpen di tangannya sebentar. "Soal itu, jujur saja, tidak ada aturan tertulis. Kalau buku sedang dipakai, saya tulis di kertas apa saja yang ada, lalu saya ingat-ingat untuk memindahkannya. Kadang Rina bertanya, 'Pak, ada tambahan?', tapi tidak selalu, dan tidak ada waktu khusus untuk memeriksa ulang sebelum tutup. Biasanya saya mengandalkan ingatan saya dan kebiasaan Rina."
+
+Ia berhenti, lalu menambahkan dengan nada lebih berhati-hati. "Cara itu jalan bertahun-tahun, jadi saya tidak mau Rina bingung kalau tiba-tiba ada cara lain."
+
+Budi menatap Anda. "Itu jawaban untuk yang Anda tanyakan. Ada lagi yang ingin Anda pahami?"
+:::
+
+**U007** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah menjelaskannya dengan terbuka, Budi. Kalau saya memahami dengan benar, selama ini belum ada aturan tertulis untuk menangani pesanan ketika buku catatan sedang digunakan. Anda mengandalkan ingatan dan kebiasaan Rina, dan belum ada waktu khusus untuk memeriksa kembali catatan sebelum toko tutup. Saya juga memahami bahwa Anda tidak ingin Rina kebingungan jika cara kerja baru diterapkan secara tiba-tiba, dan menurut saya kekhawatiran itu wajar. Silakan koreksi saya kalau ada yang kurang tepat.
+
+Saya juga ingin mengetahui lebih jauh tentang penggunaan teknologi di usaha Anda. Selain WhatsApp dan telepon, apakah Anda atau Rina pernah memakai aplikasi atau teknologi lain untuk membantu pekerjaan, dan kalau pernah, bagaimana pengalamannya?
+:::
+
+**AI007** (tahap: simulasi awal)
+
+::: {.turn}
+Budi tersenyum tipis, pertama kali sejak percakapan dimulai. "Ya, tidak ada yang keliru. Terima kasih Anda memikirkan Rina juga."
+
+Ia bersandar sedikit. "Teknologi lain, ada, tapi tidak banyak. Saya pakai WhatsApp biasa, bukan yang khusus usaha. Dulu saya pernah coba mencatat pesanan di spreadsheet di ponsel. Tiga minggu saja, lalu saya balik ke buku, karena waktu ramai tangan saya tidak sempat mengetik dan layarnya kecil. Rina juga pernah cerita ada kenalannya yang pakai aplikasi pencatatan pesanan. Saya sempat lihat, tapi biaya bulanannya tidak jelas buat saya, dan saya takut datanya hilang atau macet justru waktu ramai."
+
+Ia mengetuk-ngetukkan pulpen ke meja. "Kalau soal AI, saya cuma dengar dari orang. Katanya bisa jawab pelanggan sendiri. Bagaimana cara kerjanya dan apa risikonya, saya tidak tahu."
+
+Budi menatap Anda. "Jadi itu pengalaman saya. Anda ingin lanjut ke bagian mana?"
+:::
+
+**U008** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah berbagi pengalaman itu, Budi. Kalau saya memahami dengan benar, Anda pernah mencoba mencatat pesanan melalui spreadsheet di ponsel selama tiga minggu, tetapi akhirnya kembali menggunakan buku karena sulit mengetik ketika toko ramai dan layarnya kecil. Anda juga sempat melihat aplikasi pencatatan pesanan, tetapi biaya bulanannya tidak jelas bagi Anda dan ada kekhawatiran data hilang atau aplikasinya macet justru saat ramai. Sementara itu, Anda baru mendengar tentang AI dari orang lain dan belum memahami cara kerja maupun risikonya.
+
+Menurut saya, pengalaman tersebut penting karena membantu kita mengetahui hal-hal yang perlu dipertahankan dari cara kerja Anda sekarang. Silakan koreksi jika ada bagian yang kurang tepat.
+
+Jika nantinya Anda mempertimbangkan untuk mencoba cara baru, apa saja yang perlu dipastikan terlebih dahulu agar Anda merasa nyaman dan aman saat mencobanya?
+:::
+
+**AI008** (tahap: simulasi awal)
+
+::: {.turn}
+Budi mengangguk, kali ini tanpa memutar pulpen. "Ya, ringkasan Anda tepat. Terutama soal layar kecil dan waktu ramai, itu alasan sebenarnya saya kembali ke buku."
+
+Ia terdiam sebentar, lalu menjawab lebih pelan dan tertata. "Kalau saya harus mencoba sesuatu, yang pertama, buku ini tidak boleh saya tinggalkan dulu. Kalau cara baru macet waktu ramai, saya masih punya pegangan, jadi pesanan tidak ikut hilang. Yang kedua, biayanya harus jelas dari awal. Berapa yang saya keluarkan, untuk berapa lama, dan apa yang terjadi kalau saya berhenti. Saya tidak mau ada biaya yang baru muncul belakangan."
+
+"Yang ketiga, jangan semuanya sekaligus. Kalau bisa dicoba pada satu bagian saja dulu, dengan waktu yang jelas, supaya Rina dan saya bisa melihat apakah ini membantu atau malah menambah kerja. Dan saya perlu tahu siapa yang memeriksa kalau ada yang salah."
+
+Ia menatap Anda. "Itu yang saya butuhkan supaya tenang. Tapi saya belum tahu apakah itu masuk akal untuk usaha kecil seperti punya saya. Menurut Anda, bagian mana yang paling mungkin dicoba lebih dulu?"
+:::
+
+**U009** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih, Budi. Saya sudah mencatat tiga hal yang penting bagi Anda. Buku harus tetap tersedia sebagai cadangan jika cara baru mengalami kendala saat toko ramai. Biaya dan ketentuannya perlu dijelaskan sejak awal, termasuk berapa lama dan apa yang terjadi jika Anda memutuskan berhenti. Percobaan juga harus dimulai dari satu bagian kecil dengan jangka waktu yang jelas, dan harus ada yang memeriksa jika terjadi kesalahan. Menurut saya, pertimbangan itu masuk akal karena kelancaran pesanan dan kepercayaan pelanggan tetap menjadi prioritas.
+
+Untuk langkah pertama, saya menyarankan kita mencoba menyiapkan jawaban tertulis bagi pertanyaan pelanggan yang sering muncul, seperti harga, ketersediaan stok, dan ongkos kirim. Jawaban itu tinggal disalin dan dikirim, tanpa AI. Dengan begitu, pencatatan pesanan di buku tidak perlu diubah dan Anda tetap memakai cara kerja yang sudah biasa.
+
+Untuk tahap awal, kita juga tidak perlu aplikasi berbayar. Jika nantinya ada pilihan yang berbayar, saya akan menjelaskan biaya dan ketentuannya terlebih dahulu. Saya juga perlu menegaskan bahwa jawaban tertulis hanya membantu untuk pertanyaan yang umum. Anda atau Rina tetap perlu memeriksa dan menangani pertanyaan yang membutuhkan penilaian lebih lanjut. Soal lama percobaan dan siapa yang memeriksa, kita tentukan bersama setelah Anda menanggapi usul ini.
+
+Menurut Anda, apakah mencoba jawaban tertulis untuk pertanyaan yang berulang terlebih dahulu sesuai dengan kebutuhan usaha Anda, atau ada masalah lain yang sebaiknya kita prioritaskan?
+:::
+
+**AI009** (tahap: simulasi awal)
+
+::: {.turn}
+Budi membaca ulang usul itu di kepalanya, lalu mengangguk pelan. "Usul itu masuk akal buat saya. Jawaban yang sudah ditulis, tinggal kirim, tidak mengubah buku, dan tidak ada biaya. Saya juga senang Anda bilang Rina dan saya tetap yang memeriksa. Itu yang saya maksud dengan tanggung jawab."
+
+Ia berhenti sebentar dan memegang pulpennya. "Tapi saya mau jujur. Pertanyaan yang berulang itu memang melelahkan, tapi bukan yang paling mengganggu saya. Yang membuat saya tidak tenang itu pesanan yang tercecer, seperti kejadian Jumat lalu. Kalau pertanyaan pelanggan bisa lebih ringan tapi pesanan masih bisa lolos, saya belum merasa masalah utamanya selesai."
+
+Ia menatap Anda. "Jadi untuk pesanan yang tercecer saat ramai, apa yang menurut Anda bisa kita coba, tanpa mengganti buku dan tanpa membuat Rina bingung?"
+:::
+
+**U010** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah menyampaikan kekhawatiran Anda dengan terbuka, Budi. Saya menyadari bahwa sebelumnya saya lebih dulu menawarkan solusi untuk pertanyaan pelanggan yang berulang, padahal masalah yang paling mengganggu Anda adalah pesanan yang terlewat. Karena itu, saya ingin mengubah fokus kita agar lebih sesuai dengan kebutuhan Anda.
+
+Dari kejadian Jumat lalu, pesanan terlewat karena ditulis di kertas yang tidak punya tempat tetap, lalu belum sempat dipindahkan ke buku sebelum toko tutup. Untuk mengatasinya, saya mengusulkan dua langkah sederhana yang tetap menggunakan buku dan tidak memerlukan biaya tambahan.
+
+Pertama, kita menyediakan satu blok kertas khusus untuk mencatat pesanan sementara ketika buku sedang digunakan. Dengan begitu, pesanan tidak lagi ditulis di kertas yang mudah terselip. Kedua, sebelum toko tutup, Anda dan Rina meluangkan sekitar lima menit untuk memastikan semua pesanan di blok tersebut sudah dipindahkan ke buku. Pertanyaan "Pak, ada tambahan?" yang biasa disampaikan Rina juga bisa dimanfaatkan dalam pemeriksaan ini agar prosesnya tetap terasa familiar.
+
+Saya perlu menjelaskan bahwa cara ini belum tentu mencegah semua pesanan terlewat, terutama ketika toko sedang sangat ramai. Karena itu, kita bisa mencobanya terlebih dahulu dalam waktu singkat dan melihat apakah pencatatan menjadi lebih tertib.
+
+Menurut Anda, apakah kedua langkah ini mudah diterapkan dalam kegiatan sehari-hari? Atau adakah bagian yang mungkin membuat Rina bingung sehingga perlu kita sesuaikan terlebih dahulu?
+:::
+
+**AI010** (tahap: simulasi awal)
+
+::: {.turn}
+Budi tersenyum tipis. "Terima kasih Anda mau mengakui urutannya tadi dan memperbaiki fokusnya. Itu menunjukkan Anda mendengarkan. Saya hargai."
+
+Ia membuka bukunya lagi dan membalik ke halaman yang kosong. "Dua langkah itu masuk akal buat saya. Buku tetap dipakai, tidak ada biaya, dan Rina sudah biasa dengan pertanyaan 'Pak, ada tambahan?'. Saya juga lega Anda bilang cara ini belum tentu menahan semua yang lolos. Saya lebih percaya pada yang jujur soal batasnya."
+
+Ia berhenti sebentar. "Tapi ada yang saya pikirkan. Blok kertas itu letaknya di mana? Kalau tidak ada tempat tetap, bisa-bisa blok itu yang tercecer. Lalu lima menit sebelum tutup, kadang saya sudah capek dan ingin pulang. Jadi saya perlu tahu jam berapa tepatnya diperiksa, dan siapa yang memegang tanggung jawabnya, saya atau Rina. Kalau tidak jelas, besoknya pasti terlewat lagi."
+
+Budi menatap Anda. "Kalau saya setuju mencoba seminggu dulu, apa yang harus kita lihat untuk tahu cara ini berhasil, dan siapa yang mencatatnya?"
+:::
+
+**U011** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih sudah menyampaikannya dengan terbuka, Budi. Pertanyaan Anda memang penting, karena tanpa tempat, waktu pemeriksaan, dan penanggung jawab yang jelas, pesanan bisa terlewat lagi.
+
+Untuk blok kertas, saya mengusulkan satu lokasi tetap yang menyatu dengan buku, misalnya diikat dengan tali atau diletakkan tepat di bawah buku, supaya keduanya tidak mudah terpisah.
+
+Untuk pemeriksaan, saya memahami bahwa memeriksa setelah seharian bekerja terasa melelahkan. Karena itu kita bisa memilih waktu sekitar 15 menit sebelum toko tutup, atau saat keramaian mulai reda, pada jam yang sama setiap hari. Kita juga perlu satu orang yang bertanggung jawab dan satu orang pengganti jika ia berhalangan.
+
+Selama satu minggu percobaan, kita memperhatikan tiga hal, yaitu jumlah pesanan yang masih terlewat, apakah pemeriksaan terlaksana setiap hari, dan pendapat Anda serta Rina tentang apakah cara ini membantu atau menambah beban kerja. Orang yang memeriksa bisa mencatat hasilnya dengan tanda sederhana di satu halaman buku. Karena hanya satu minggu, hasilnya kita pakai sebagai gambaran awal, bukan kesimpulan pasti.
+
+Menurut Anda, di mana tempat yang paling cocok untuk blok kertas, jam berapa pemeriksaan yang realistis, dan siapa yang sebaiknya bertanggung jawab serta penggantinya?
+:::
+
+**AI011** (tahap: simulasi awal)
+
+::: {.turn}
+Budi mengangguk sambil mencatat sesuatu di halaman kosong bukunya. "Pertanyaan Anda jelas, jadi saya jawab satu per satu. Blok kertasnya saya ikat dengan tali di sisi buku, di meja tempat saya biasa mencatat. Kalau bukunya ada di situ, blok itu ikut ada."
+
+Ia berhenti sebentar. "Soal jam, 15 menit sebelum tutup terlalu mepet buat saya, itu jam saya sudah capek. Saya lebih nyaman jam delapan malam, tutup masih sekitar satu jam lagi dan biasanya keramaian sudah mulai reda. Yang memegang tanggung jawab saya, karena ini usaha saya dan janji ke pelanggan juga saya yang berikan. Rina membantu memeriksa dan menandatangani di halaman buku. Kalau saya tidak ada, Rina yang menggantikan."
+
+Budi menutup bukunya perlahan. "Jadi tempat, jam, dan penanggung jawab sudah jelas buat saya. Tapi saya masih mau satu hal. Rina belum tahu soal ini, dan saya tidak mau dia dengar dari saya setengah-setengah. Lalu, kalau ada hari yang ramai sekali sampai jam delapan itu tidak sempat, apa yang kita lakukan supaya seminggu itu tidak langsung dianggap gagal?"
+
+Ia menatap Anda. "Bagaimana Anda akan membantu supaya Rina paham langkahnya dengan jelas, dan apa rencana cadangan untuk hari yang terlalu ramai itu?"
+:::
+
+**U012** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih, Budi. Saya sudah mencatat kesepakatan kita. Blok kertas diikat di sisi buku pada meja pencatatan, pemeriksaan dilakukan pukul 20.00, Anda menjadi penanggung jawab, dan Rina membantu memeriksa serta menandatangani halaman buku. Jika Anda tidak ada, Rina yang menggantikan. Menurut saya, waktu itu masuk akal karena pemeriksaan bisa dilakukan sebelum Anda terlalu lelah.
+
+Soal Rina, saya setuju sebaiknya Anda yang berbicara dengannya terlebih dahulu, karena Anda tidak ingin ia mendengarnya secara setengah-setengah. Saya bisa membantu menyiapkan ringkasan satu halaman yang memuat tiga hal utama, yaitu penempatan blok kertas, pemeriksaan pukul 20.00, dan peran Rina dalam memeriksa serta menandatangani catatan. Anda bisa menunjukkannya kepada Rina dan meminta pendapatnya. Jika ada masukan, kita sesuaikan rencananya sebelum uji coba dimulai.
+
+Untuk hari yang sangat ramai, saya mengusulkan prosedur cadangan. Jika pemeriksaan lengkap tidak memungkinkan, Anda atau Rina cukup memeriksa isi blok kertas selama sekitar dua menit ketika ada kesempatan sebelum toko tutup. Jika itu pun tidak sempat, tuliskan "tidak sempat" pada halaman buku supaya kondisi hari itu tetap tercatat dengan jujur.
+
+Untuk evaluasi, kita bisa memakai lima dari tujuh hari sebagai target awal pelaksanaan, tetapi angka itu perlu sesuai dengan kondisi toko Anda. Hari yang tidak sempat diperiksa tetap dicatat dan tidak boleh dianggap sebagai hari tanpa pesanan terlewat.
+
+Menurut Anda, apakah pemeriksaan singkat dan target lima dari tujuh hari ini realistis? Lalu, kapan Anda berencana berbicara dengan Rina agar ia punya waktu memberi masukan sebelum uji coba dimulai?
+:::
+
+**AI012** (tahap: simulasi awal)
+
+::: {.turn}
+Budi mengangguk pelan, lalu menulis sesuatu di halaman bukunya. "Dua menit itu cukup untuk saya. Lebih mudah dijalankan daripada lima belas menit tadi. Saya juga setuju hari yang tidak sempat ditulis jujur saja. Lima dari tujuh hari masuk akal, karena ada hari ramai yang memang tidak bisa diatur."
+
+Ia berhenti sebentar. "Soal Rina, saya bicara dengannya besok pagi sebelum toko buka, waktu masih tenang. Saya akan bilang ini hanya percobaan seminggu dan bukunya tidak diganti, supaya dia tidak kaget. Kalau dia keberatan, saya sampaikan ke Anda."
+
+Budi menutup bukunya dan menatap Anda. "Ringkasan satu halaman yang Anda sebut tadi, saya perlu itu sebelum bicara dengan Rina. Kapan bisa Anda berikan, dan apa saja yang akan ada di dalamnya? Saya mau memastikan isinya sama persis dengan yang kita sepakati hari ini."
+:::
+
+**U013** (tahap: simulasi awal)
+
+::: {.turn}
+Terima kasih, Budi. Menurut saya, berbicara dengan Rina besok pagi sebelum toko buka adalah pilihan yang tepat karena suasananya masih tenang. Menjelaskan bahwa ini hanya percobaan selama seminggu dan buku tetap digunakan juga membantu Rina memahami bahwa kita tidak sedang mengubah seluruh cara kerja yang sudah ada. Jika ia keberatan, kita bisa membahas masukannya dan menyesuaikan rencana bersama.
+
+Saya akan menyiapkan ringkasan satu halaman malam ini agar Anda bisa membacanya sebelum berbicara dengan Rina besok. Saya susun per poin supaya mudah Anda cocokkan satu per satu dengan kesepakatan kita. Isinya mencakup tujuan percobaan, penempatan blok kertas, jadwal pemeriksaan dan pembagian tanggung jawab, prosedur cadangan saat toko ramai, indikator evaluasi, serta kemungkinan mengubah atau menghentikan percobaan kapan saja.
+
+Sebelum melangkah lebih jauh, ada satu hal yang perlu kita sepakati, yaitu waktu mulai percobaan. Setelah berbicara dengan Rina besok pagi dan mengetahui pendapatnya, kapan kira-kira Anda merasa siap untuk memulainya?
+:::
+
+## Tahap evaluasi sementara
+
+**AI013** (tahap: akhir simulasi awal dan pembukaan evaluasi sementara)
+
+::: {.turn}
+Budi mengangguk dan menulis tanggal di halaman bukunya. "Terima kasih Anda mau menyiapkan ringkasannya malam ini. Saya akan membacanya sebelum bicara dengan Rina, jadi cukup tulis apa adanya sesuai yang kita sepakati hari ini."
+
+Ia berhenti sebentar. "Soal mulai, kalau Rina tidak keberatan setelah besok pagi, kita mulai Senin depan, 19 Oktober. Saya mau awal minggu supaya seminggunya utuh. Kalau Rina punya masukan, saya sampaikan lebih dulu sebelum Senin."
+
+Budi menutup bukunya dan mengangguk. "Itu cukup untuk saya hari ini."
+
+**Tahap D, evaluasi sementara**
+
+Simulasi awal selesai dan saya keluar dari peran Budi. Anda sudah memberikan 12 giliran jawaban, dan dugaan awal Anda di Tahap B tetap tersimpan seperti semula. Profil lengkap Budi belum saya ungkapkan, dan saya tidak akan memberikan jawaban ideal pada tahap ini.
+
+Mohon tuliskan pembacaan Anda sendiri. Sebutkan status Budi saat ini pada sikap (A), pengetahuan (K), dan kemampuan atau dukungan (S), lengkap dengan kutipan ucapan Budi sebagai bukti. Jelaskan juga stimulus Anda yang menurut Anda paling berpengaruh dan bagian dugaan awal yang ingin Anda revisi.
+
+Pertanyaan utama untuk giliran ini: bagaimana Anda membaca status A, K, dan S Budi sekarang, apa bukti kutipannya, dan apa yang Anda revisi dari dugaan awal Anda?
+:::
+
+**U014** (tahap: evaluasi sementara)
+
+::: {.turn}
+**1. Status Budi Saat Ini**
+
+Sikap (A). Budi menunjukkan perubahan dari penolakan awal menjadi kesediaan mencoba langkah kecil, meskipun masih berhati-hati. Pada awal percakapan, ia mempertanyakan perlunya perubahan dengan mengatakan, "Cara sekarang sudah jelas. Mengapa harus berubah?" Menjelang akhir, ia mulai menerima usulan yang diberikan, terlihat dari pernyataannya, "Dua langkah itu masuk akal buat saya", "Lima dari tujuh hari masuk akal", dan "kita mulai Senin depan, 19 Oktober."
+
+Meski demikian, Budi masih menetapkan sejumlah syarat, seperti "buku ini tidak boleh saya tinggalkan dulu", "biayanya harus jelas dari awal", dan "jangan semuanya sekaligus". Ia juga mengakui, "saya belum tahu apakah itu masuk akal untuk usaha kecil seperti punya saya". Selain itu, ia merasa bertanggung jawab penuh atas keputusan yang berkaitan dengan usahanya, sebagaimana terlihat dari pernyataannya, "Yang memegang tanggung jawab saya, karena ini usaha saya dan janji ke pelanggan juga saya yang berikan." Berdasarkan respons tersebut, saya menilai Budi sudah bersedia mencoba dengan beberapa syarat, tetapi belum sepenuhnya yakin terhadap hasilnya.
+
+Pengetahuan (K). Budi memahami alur kerja yang selama ini diterapkan dalam usahanya, tetapi pengalamannya dengan alternatif teknologi masih terbatas dan belum sepenuhnya memuaskan. Ia pernah menggunakan spreadsheet selama tiga minggu sebelum kembali mencatat pesanan di buku. Ia menjelaskan, "Terutama soal layar kecil dan waktu ramai, itu alasan sebenarnya saya kembali ke buku." Ia juga pernah melihat aplikasi pencatatan pesanan, tetapi mengkhawatirkan biaya dan keandalannya, seperti dalam pernyataannya, "biaya bulanannya tidak jelas buat saya, dan saya takut datanya hilang atau macet justru waktu ramai."
+
+Mengenai AI, Budi mengaku, "Kalau soal AI, saya cuma dengar dari orang... Bagaimana cara kerjanya dan apa risikonya, saya tidak tahu." Setelah berdiskusi, ia mulai memahami usulan penggunaan blok kertas dan pemeriksaan rutin serta mampu menyampaikan persyaratan yang dibutuhkan. Namun, pemahamannya terhadap keseluruhan kesepakatan belum diperiksa secara langsung karena saya belum memintanya menjelaskan kembali rencana tersebut menggunakan kata-katanya sendiri.
+
+Kemampuan dan dukungan (S). Budi mampu menjalankan operasional usaha sehari-hari, tetapi belum memiliki prosedur tertulis untuk mencegah pesanan terlewat. Ia menjelaskan, "tidak ada aturan tertulis... Biasanya saya mengandalkan ingatan saya dan kebiasaan Rina." Karena itu, ia membutuhkan panduan yang jelas, prosedur cadangan, dan pembagian tanggung jawab yang tidak membingungkan Rina.
+
+Kebutuhan tersebut terlihat dari pernyataannya, "Saya perlu itu sebelum bicara dengan Rina" dan "Saya mau memastikan isinya sama persis dengan yang kita sepakati hari ini." Kesediaannya untuk berbicara dengan Rina dan memulai uji coba pada hari Senin menunjukkan kesiapan untuk bertindak. Namun, hal tersebut masih berupa rencana yang disampaikan dalam simulasi dan belum menjadi tindakan nyata yang dapat diamati.
+
+**2. Stimulus yang Menurut Saya Paling Berpengaruh**
+
+Pertama, saya tidak langsung menawarkan solusi, tetapi memberi Budi kesempatan untuk menceritakan pengalamannya. Pendekatan ini mendapat respons positif melalui pernyataannya, "Ya, saya hargai Anda tidak langsung menyodorkan sesuatu" dan "Terima kasih Anda tidak menyela." Hal ini menunjukkan bahwa kesempatan untuk berbicara tanpa merasa ditekan membantu membangun kenyamanan dalam percakapan.
+
+Kedua, saya merangkum cerita Budi dan mengakui hal-hal yang menjadi perhatiannya, terutama tanggung jawab terhadap pelanggan dan kekhawatirannya terhadap Rina. Respons "Terima kasih Anda memikirkan Rina juga" menunjukkan bahwa pertimbangan terhadap kondisi tim merupakan bagian penting dalam membangun kepercayaan Budi.
+
+Ketiga, saya mengakui kekeliruan ketika terlalu awal memprioritaskan jawaban untuk pertanyaan berulang, lalu mengalihkan pembahasan ke masalah pesanan yang tercecer. Budi menanggapi, "Terima kasih Anda mau mengakui urutannya tadi dan memperbaiki fokusnya. Itu menunjukkan Anda mendengarkan." Menurut saya, kesediaan untuk memperbaiki arah pembicaraan membantu Budi merasa bahwa kebutuhannya benar-benar diperhatikan.
+
+Keempat, saya menjelaskan keterbatasan solusi secara terbuka tanpa menjanjikan hasil yang pasti. Hal ini terlihat dari pernyataan Budi, "Saya lebih percaya pada yang jujur soal batasnya." Kejujuran tersebut membantu membangun kepercayaan karena Budi dapat mempertimbangkan solusi berdasarkan manfaat dan risikonya.
+
+Kelima, saya menawarkan langkah sederhana yang tetap mempertahankan penggunaan buku dan tidak memerlukan biaya tambahan. Budi merespons, "Dua langkah itu masuk akal buat saya. Buku tetap dipakai, tidak ada biaya, ..." Respons tersebut menunjukkan bahwa solusi yang sesuai dengan kebiasaan dan kemampuan usaha lebih mudah diterima daripada perubahan besar yang belum tentu dibutuhkan.
+
+**3. Revisi terhadap Dugaan Awal**
+
+Dugaan awal yang saya susun pada Tahap B tetap menjadi dasar untuk memahami Budi. Namun, setelah simulasi, saya memperoleh beberapa temuan baru yang memperjelas dan mengoreksi dugaan tersebut.
+
+Pertama, pada Tahap B saya menyebut pertanyaan berulang dan pesanan terlewat sebagai dua masalah dari brief tanpa menentukan mana yang lebih mengganggu, dan dalam percakapan saya lebih dulu mengusulkan jawaban tertulis untuk pertanyaan berulang. Ternyata Budi menjelaskan, "Pertanyaan yang berulang itu memang melelahkan, tapi bukan yang paling mengganggu saya." Masalah yang lebih mendesak baginya adalah pesanan yang tercecer. Temuan ini menunjukkan pentingnya menggali prioritas customer sebelum menentukan solusi.
+
+Kedua, pada Tahap B saya belum mengetahui sejauh mana Budi dan timnya terbiasa menggunakan teknologi, dan saya menduga ia belum memahami kemampuan dan keterbatasannya. Setelah percakapan, saya mengetahui bahwa ia pernah mencoba spreadsheet dan melihat aplikasi pencatatan pesanan. Dengan demikian, hambatannya bukan semata-mata kurangnya pengalaman, melainkan juga pengalaman yang kurang sesuai dengan kondisi operasionalnya, kekhawatiran mengenai biaya, dan risiko gangguan saat toko ramai.
+
+Ketiga, saya belum memperkirakan bahwa kenyamanan Rina akan menjadi pertimbangan penting bagi Budi. Selama percakapan, terlihat bahwa ia ingin memastikan perubahan tidak membuat Rina bingung atau terbebani. Hal ini menunjukkan bahwa penerapan solusi perlu mempertimbangkan kesiapan orang-orang yang terlibat, bukan hanya kebutuhan pemilik usaha.
+
+Dari evaluasi tersebut, ada beberapa bagian pendekatan saya yang perlu diperbaiki. Saya terlalu cepat menawarkan solusi berupa templat jawaban sebelum memastikan masalah yang paling ingin diselesaikan Budi. Beberapa pesan saya juga terlalu panjang sehingga satu pesan memuat beberapa gagasan sekaligus. Selain itu, saya belum meminta Budi merangkum kesepakatan dengan bahasanya sendiri untuk memeriksa pemahamannya.
+
+Terakhir, kesepakatan yang terbentuk masih berasal dari diskusi saya dengan Budi. Rina belum menyampaikan pendapatnya secara langsung, sehingga penerimaan dan kesiapannya belum dapat dipastikan. Pada percakapan berikutnya, saya perlu memberi ruang bagi Budi dan Rina untuk menyampaikan masukan sebelum rencana uji coba dijalankan.
+:::
+
+## Tahap uji ulang (hipotetis, 5 jawaban mahasiswa, U015 sampai U019)
+
+Segmen ini adalah situasi hipotetis dalam simulasi. Segmen ini terpisah dari simulasi awal dan tidak menunjukkan kejadian di dunia nyata.
+
+**AI014** (tahap: uji ulang hipotetis, pembukaan)
+
+::: {.turn}
+Jawaban Tahap D Anda sudah saya simpan apa adanya, termasuk revisi dugaan awal, dan tidak akan saya ubah setelah profil Budi diungkapkan. Profil lengkap Budi belum saya buka, dan saya tidak memberi penilaian atas jawaban Anda pada tahap ini.
+
+**Tahap E, uji ulang**
+
+Kita masuk ke event serupa dengan kendala baru, sekitar 3 sampai 5 giliran jawaban Anda. Kepercayaan dan pengetahuan yang sudah terbangun dengan Budi tetap berlaku. Yang berubah hanyalah keadaannya, dan kali ini yang saya amati adalah tindakan Anda yang tertulis di percakapan, bukan niat. Segmen ini simulasi, jadi hasilnya tidak membuktikan perubahan di dunia nyata.
+
+Nama: Budi  
+Peran: pengelola usaha (customer)
+
+Kamis pagi, 15 Oktober, Budi menghubungi Anda kembali. Ia terlihat tenang, buku catatannya terbuka di depannya.
+
+"Tadi pagi saya sudah bicara dengan Rina, seperti yang kita rencanakan. Ia tidak menolak, dan saya senang ia mau mendengarkan sampai selesai."
+
+Budi berhenti sebentar dan mengetuk buku dengan pulpennya. "Tapi ada dua hal yang ia sampaikan. Jam delapan malam itu waktunya Rina mengemas pesanan antar, jadi ia sering sendirian di meja pencatatan, sementara saya di kasir. Soal tanda tangan di halaman buku, ia khawatir kalau ada pesanan yang tetap terlewat, dialah yang dianggap salah. Saya sendiri jadi bertanya, kalau pemeriksaan itu tidak jalan pada hari-hari pertama, apa pegangan kami supaya percobaan seminggu ini tidak berantakan?"
+
+Ia menatap Anda. "Bagaimana Anda menyesuaikan rencana kita dengan keberatan Rina itu, dan apa cadangannya kalau pemeriksaan tidak berjalan di hari-hari pertama?"
+:::
+
+**U015** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Terima kasih sudah memberi kabar, Budi. Saya senang Rina bersedia mendengarkan penjelasan sampai selesai. Keberatannya juga wajar. Lebih baik kita mengetahuinya sebelum percobaan dimulai agar bisa mencari penyesuaian sejak awal.
+
+Untuk pemeriksaan pukul delapan malam, kalau Rina biasanya sedang mengemas pesanan dan bekerja sendirian di meja pencatatan, waktu tersebut memang kurang tepat. Kita bisa memilih waktu lain ketika Anda berdua lebih senggang, kalau ada, misalnya sebelum atau sesudah pengemasan. Pilihan lainnya, Anda memeriksa blok pesanan sendiri, sedangkan Rina cukup menyerahkannya kepada Anda. Karena saya belum mengetahui seluruh alur kerja malam di toko, sebaiknya Anda dan Rina menentukan waktu yang paling sesuai.
+
+Mengenai tanda tangan, kita juga perlu memastikan Rina tidak merasa sedang dimintai pertanggungjawaban atas kesalahan. Saya menyarankan agar tanda tangan diganti dengan tanda centang dan waktu pemeriksaan, tanpa mencantumkan nama. Tujuan percobaan ini bukan mencari siapa yang salah, melainkan mengetahui bagian mana yang perlu diperbaiki jika masih ada pesanan yang terlewat. Seperti yang Anda sampaikan sebelumnya, tanggung jawab utama tetap ada pada Anda, dengan bantuan Rina dalam proses pemeriksaan.
+
+Untuk beberapa hari pertama, ada tiga hal yang perlu dijaga. Pertama, buku pesanan tetap menjadi catatan utama. Kedua, jika pemeriksaan penuh tidak memungkinkan, Anda bisa melakukan pemeriksaan singkat selama dua menit atau mencatat dengan jujur bahwa pemeriksaan belum sempat dilakukan. Ketiga, pada hari ketiga, Anda dan Rina bisa meluangkan waktu lima menit untuk mengevaluasi percobaan dan mencari tahu apakah kendalanya terletak pada waktu, cara kerja, atau hal lainnya.
+
+Kita tidak perlu langsung menganggap percobaan ini gagal jika masih ada kendala. Saya juga ingin terbuka bahwa cara ini mungkin perlu disesuaikan satu atau dua kali sebelum benar-benar cocok. Jika setelah penyesuaian masih terasa memberatkan, Anda tetap bisa memperpanjang masa percobaan atau menghentikannya.
+
+Dari dua pilihan waktu tadi, menurut Anda, mana yang paling memungkinkan dan bisa diterima oleh Anda maupun Rina?
+:::
+
+**AI015** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Budi membaca ulang catatan di bukunya, lalu mengangguk. "Soal tanda tangan, saya setuju diganti centang dan jam tanpa nama. Rina pasti lebih tenang, dan memang bukan siapa yang salah yang saya cari. Terima kasih Anda memikirkan itu."
+
+Ia berhenti sebentar. "Dari dua pilihan waktu, saya condong ke yang kedua, tapi jamnya saya geser. Pukul delapan Rina sedang mengemas, jadi blok kertas diserahkan kepada saya pukul setengah delapan, sebelum ia mulai mengemas. Saya periksa di kasir dan pindahkan ke buku sebelum tutup. Dengan begitu Rina tidak sendirian di meja pencatatan dan tidak merasa diawasi. Kalau pukul setengah delapan masih terlalu ramai, berlaku aturan dua menit yang tadi, dan kalau itu pun tidak sempat, kami tulis 'belum sempat'."
+
+Budi mengetukkan pulpennya pelan. "Evaluasi lima menit di hari ketiga juga cocok buat saya, karena ada titik periksa yang jelas. Tapi saya masih belum tahu apa yang kami lihat saat itu. Kalau hanya perasaan, nanti saya dan Rina bisa beda pendapat."
+
+Ia menatap Anda. "Apa saja yang perlu kami catat dari tiga hari pertama supaya evaluasi di hari ketiga punya pegangan, dan siapa yang mencatatnya?"
+:::
+
+**U016** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Terima kasih, Budi. Penyesuaian yang Anda usulkan sudah masuk akal. Blok diserahkan pukul setengah delapan sebelum Rina mulai mengemas pesanan, pemeriksaan dilakukan di kasir, lalu hasilnya dipindahkan ke buku sebelum toko tutup. Dengan cara ini, Rina tidak perlu sendirian di meja pencatatan dan tidak merasa diawasi. Aturan dua menit dan catatan "belum sempat" juga tetap bisa digunakan jika diperlukan.
+
+Untuk evaluasi hari ketiga, saya usul kita mencatat empat hal setiap malam di satu halaman buku. Pertama, apakah blok diserahkan tepat waktu. Kedua, jenis pemeriksaan yang dilakukan, apakah lengkap, dua menit, atau belum sempat. Ketiga, jumlah pesanan dalam blok yang belum tercatat saat diperiksa. Keempat, jumlah pesanan yang ternyata terlewat, misalnya setelah ada pelanggan yang menanyakannya. Anda dan Rina juga bisa menulis masing-masing satu kalimat tentang kendala hari itu agar pengalaman kalian berdua bisa dipertimbangkan saat evaluasi.
+
+Usul saya, Anda yang mengisi empat catatan utama tersebut karena bertanggung jawab atas pemeriksaan di kasir, sedangkan Rina cukup menuliskan satu kalimat tentang kendalanya. Jadi, Rina tidak perlu mendapat tambahan pekerjaan yang terlalu berat.
+
+Saya juga ingin menekankan bahwa tiga hari belum cukup untuk memastikan apakah cara ini benar-benar mengurangi pesanan yang terlewat. Evaluasi hari ketiga lebih berfokus pada apakah cara ini bisa dijalankan dan kendala apa saja yang muncul. Setelah satu minggu, kita baru bisa melihat hasil awalnya dengan lebih baik.
+
+Menurut Anda, apakah empat catatan dan pembagian tugas ini cukup ringan untuk dijalankan oleh Anda dan Rina, atau ada bagian yang sebaiknya kita sederhanakan?
+:::
+
+**AI016** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Budi membaca daftar empat catatan itu sambil menghitung dengan jarinya, lalu mengangguk. "Empat catatan itu tidak terlalu banyak. Saya bisa isi di kasir sebelum tutup, dan Rina cukup menulis satu kalimat. Saya setuju pembagian itu, dan terima kasih Anda tidak menambah beban Rina."
+
+Ia menggambar garis-garis kecil di halaman kosong bukunya. "Saya buat kolomnya sekarang saja, supaya malam pertama saya tinggal mengisi. Tanggal, blok diserahkan tepat waktu atau tidak, jenis pemeriksaan, pesanan yang belum tercatat, pesanan yang terlewat. Sesudah itu satu kolom untuk kalimat Rina."
+
+Ia berhenti dan meletakkan pulpennya. "Saya juga lega Anda bilang tiga hari belum cukup untuk menyimpulkan apa-apa. Itu cocok dengan cara saya, jangan buru-buru memutuskan."
+
+Budi menatap Anda. "Tapi di hari ketiga, kami akan punya angka dan catatan, lalu harus memutuskan sesuatu. Kalau tidak ada patokan dari awal, saya dan Rina bisa berbeda tafsir. Jadi menurut Anda, apa yang membuat kami sepakat melanjutkan sampai seminggu, mengubah caranya dulu, atau menghentikannya?"
+:::
+
+**U017** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Terima kasih, Budi. Senang empat catatan itu terasa ringan dan kolom yang Anda siapkan dari sekarang bisa membantu evaluasi nanti. Pertanyaan Anda tepat, karena kriteria sebaiknya disepakati sebelum percobaan dimulai. Berikut usul saya, dan angka serta kriterianya tetap bisa Anda diskusikan bersama Rina.
+
+Kita lanjutkan percobaan sampai seminggu jika dalam tiga hari pemeriksaan berhasil dilakukan, baik lengkap maupun versi dua menit, minimal dua hari. Selain itu, tidak ada pesanan terlewat yang diketahui dari pelanggan, dan catatan Anda maupun Rina tidak menunjukkan bahwa cara ini terasa memberatkan.
+
+Kita ubah caranya terlebih dahulu jika pemeriksaan hanya berhasil satu hari atau tidak sama sekali, atau jika kendala yang sama terus muncul di catatan, misalnya soal waktu. Perubahannya cukup satu hal, seperti jam pemeriksaan atau cara penyerahan blok, lalu kita coba lagi selama beberapa hari.
+
+Kita hentikan jika setelah satu kali penyesuaian pemeriksaan tetap sulit dilakukan, jumlah pesanan yang terlewat justru bertambah, atau setelah berdiskusi Anda atau Rina merasa cara ini terlalu memberatkan.
+
+Jika Anda dan Rina berbeda pandangan, kita merujuk pada catatan di buku dan mendengarkan penjelasan Rina sebelum memutuskan. Keputusan akhir tetap ada pada Anda. Saya juga perlu jujur bahwa data tiga hari masih terbatas, jadi kriteria ini membantu menentukan langkah berikutnya dan bukan bukti pasti bahwa cara ini berhasil.
+
+Apakah kriteria ini sudah cukup jelas dan sesuai untuk Anda dan Rina, atau ada angka yang ingin Anda sesuaikan?
+:::
+
+**AI017** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Budi membaca kriteria itu pelan-pelan sambil mencocokkannya dengan kolom yang baru ia gambar. "Kriterianya jelas dan urutannya enak diikuti. Lanjut, ubah satu hal, atau hentikan, dan keputusan akhirnya di saya setelah mendengar Rina. Saya hargai Anda tidak memutuskan untuk kami."
+
+Ia mengetuk satu baris di bukunya. "Dua hari dari tiga hari buat saya masuk akal, dan angka itu akan saya sebut ke Rina sebagai patokan awal, bukan harga mati. Tapi satu hal masih mengganjal. Kalau pada hari kedua ada pelanggan yang menelepon karena pesanannya terlewat, apakah itu otomatis berarti percobaannya gagal? Saya tidak mau kejadian seperti itu dianggap sama dengan pemeriksaan yang memang tidak dijalankan."
+
+Budi menutup bukunya dan menatap Anda. "Sebelum saya bicara lagi dengan Rina, saya ingin memastikan kita memahami hal yang sama. Coba Anda rangkum dengan kata-kata Anda sendiri kesepakatan kita, mulai dari jam penyerahan blok, pemeriksaan, catatan, sampai kriteria lanjut, ubah, atau hentikan. Dan bagaimana Anda menjawab kekhawatiran saya soal pelanggan yang menelepon pada hari kedua?"
+:::
+
+**U018** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Terima kasih, Budi. Saya senang kita sudah memiliki kesepakatan yang lebih jelas. Soal pelanggan yang menelepon di hari kedua, itu tidak otomatis berarti percobaan gagal, dan sebaiknya tidak disamakan dengan pemeriksaan yang memang tidak dijalankan. Kejadiannya cukup dicatat dengan satu kalimat penyebab, misalnya apakah pesanan itu ada di blok atau ditulis di tempat lain, lalu dibahas di hari ketiga. Kalau terjadi meski pemeriksaan berjalan, kita ubah satu hal sebagai perbaikan cara. Kalau berulang atau bertambah, barulah itu masuk pertimbangan menghentikan. Saya juga perlu memperjelas bahwa kriteria lanjut tadi sebaiknya dibaca dengan cara ini, bukan sebagai larangan satu kejadian pun.
+
+Jadi, Rina menyerahkan blok pukul setengah delapan sebelum mulai mengemas, lalu Anda memeriksa di kasir dan memindahkan isinya ke buku sebelum tutup. Blok tetap diikat dengan tali di sisi buku. Jika kondisi sedang ramai, pemeriksaan bisa dilakukan selama dua menit, dan jika tidak sempat, cukup tulis "belum sempat". Tanda tangan diganti dengan centang dan jam tanpa nama.
+
+Setiap malam, Anda mencatat empat hal yang sudah disepakati, sedangkan Rina menuliskan satu kalimat tentang kendalanya. Pada hari ketiga, kita mengevaluasi pelaksanaannya selama lima menit. Percobaan dilanjutkan sampai seminggu jika pemeriksaan terlaksana minimal dua dari tiga hari dan tidak ada catatan yang menunjukkan cara ini memberatkan. Jika kendala yang sama terus muncul, kita ubah satu hal terlebih dahulu. Jika setelah penyesuaian cara ini tetap sulit dijalankan atau pesanan terlewat bertambah, kita pertimbangkan untuk menghentikannya.
+
+Jika ada perbedaan pendapat, kita mendengarkan Rina dan merujuk pada catatan bersama sebelum Anda mengambil keputusan akhir. Percobaan dimulai Senin, 19 Oktober, selama seminggu, tetapi Anda tetap bisa mengubah atau menghentikannya kapan saja.
+
+Saya akan menyesuaikan ringkasan untuk Rina agar sesuai dengan kesepakatan ini. Apakah rangkuman tersebut sudah sesuai dengan pemahaman Anda?
+:::
+
+**AI018** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Budi mengangguk sambil mencocokkan rangkuman itu dengan kolom di bukunya, jarinya menyusuri baris demi baris. "Urutannya sama dengan yang kita sepakati. Jam setengah delapan, periksa di kasir, dua menit kalau ramai, 'belum sempat' kalau tidak sempat, centang dan jam tanpa nama, empat catatan, satu kalimat dari Rina. Saya juga lega soal pelanggan di hari kedua. Satu kejadian dicatat penyebabnya dulu dan tidak otomatis dihitung gagal. Itu yang saya butuhkan."
+
+Ia berhenti sebentar. "Satu hal saya catat, bahwa kriteria lanjut tadi harus dibaca seperti penjelasan Anda barusan. Kalau tidak, Rina bisa mengira satu telepon pelanggan saja sudah berarti berhenti. Saya akan sampaikan ke Rina dengan cara itu."
+
+Budi menutup bukunya dan menatap Anda. "Tadi Anda bilang akan menyesuaikan ringkasan untuk Rina. Saya ingin bicara dengan Rina lagi sebelum Senin, dan saya mau isinya sudah memuat perubahan hari ini, yaitu jam setengah delapan dan centang tanpa nama. Kapan ringkasan yang sudah disesuaikan itu bisa saya terima, dan bagian mana saja yang Anda ubah dari versi pertama?"
+:::
+
+**U019** (tahap: uji ulang hipotetis)
+
+::: {.turn}
+Terima kasih, Budi. Senang Anda bersedia menyampaikan penjelasan ini kepada Rina dengan cara yang sama. Ringkasan yang sudah diperbarui bisa saya berikan hari ini juga, sebelum Anda bicara lagi dengan Rina, jadi Anda sempat memeriksanya dulu.
+
+Dibandingkan versi awal, ada dua perubahan. Pertama, pemeriksaan tidak lagi dilakukan pukul delapan malam bersama Rina. Rina menyerahkan blok pukul setengah delapan sebelum mulai mengemas, lalu Anda memeriksanya di kasir. Kedua, tanda tangan Rina diganti dengan centang dan jam tanpa nama.
+
+Ada tiga tambahan. Pertama, empat catatan harian dan satu kalimat dari Rina. Kedua, evaluasi lima menit pada hari ketiga dengan kriteria lanjut, ubah satu hal, atau hentikan. Ketiga, penjelasan bahwa satu telepon pelanggan dicatat penyebabnya dulu dan tidak otomatis berarti percobaan gagal.
+
+Yang tetap sama adalah mulai Senin, 19 Oktober selama seminggu, blok diikat dengan tali di sisi buku, pemeriksaan dua menit dengan catatan "belum sempat" saat ramai, target lima dari tujuh hari, dan hak Anda untuk mengubah atau menghentikannya kapan saja.
+
+Bagian yang berubah atau ditambah akan saya beri tanda supaya mudah Anda cocokkan. Saya juga belum bisa memastikan Rina langsung setuju. Kalau ia punya masukan, kabari saya dan ringkasannya saya revisi sebelum Senin.
+
+Apakah ada hal lain yang menurut Anda perlu Rina lihat di ringkasan itu?
+:::
+
+## Tahap refleksi dan konfirmasi
+
+**AI019** (tahap: akhir uji ulang hipotetis, pengungkapan profil, dan pembukaan refleksi)
+
+::: {.turn}
+Budi mengangguk dan mencatat sesuatu di halaman bukunya. "Cukup, itu semua yang perlu Rina lihat. Saya tunggu ringkasannya sebelum bicara dengan Rina lagi. Untuk saya, janji untuk memberikannya hari ini sudah saya catat."
+
+Ia menutup bukunya. Segmen uji ulang selesai, dan saya keluar dari peran Budi. Jawaban Anda di segmen ini tersimpan apa adanya. Satu catatan untuk laporan, dalam transkrip ini ringkasan untuk Rina baru disebutkan isinya dan belum Anda tuliskan sebagai dokumen.
+
+**Tahap F, hasil dan refleksi**
+
+Berikut profil tokoh yang saya perankan, supaya Anda bisa membandingkannya dengan dugaan Anda di Tahap B dan D. Budi (K3-02) adalah pengelola usaha dengan preferensi MBTI fiktif ISTJ, yang menyukai detail, bukti, dan urutan prosedur, serta menjunjung komitmen. Status awalnya, sikap berhati-hati dan mengutamakan kepastian, pengetahuan yang kuat pada prosedur lama tetapi belum memahami alternatif, dan kemampuan operasional yang baik tetapi membutuhkan panduan untuk hal baru. Hambatannya adalah ketakutan akan biaya dan gangguan prosedur, kebutuhan akan biaya, asumsi, dan alur pembanding, serta kebutuhan akan pilot dengan prosedur cadangan. Profil ini fiktif dan bukan diagnosis, dan dugaan Anda sebelum pengungkapan tidak diubah.
+
+Mohon tuliskan refleksi Anda dengan lima bagian berikut.
+
+1. Perubahan ASK Budi dari awal sampai akhir uji ulang, beserta kesimpulan SWOT-nya, dengan kutipan bukti.
+2. Apakah tujuan Anda di Tahap B tercapai penuh, sebagian, atau belum, dan indikator mana yang terpenuhi.
+3. Stimulus yang efektif dan tidak efektif, serta bagian dugaan awal yang ternyata keliru setelah Anda melihat profilnya.
+4. Lesson learned dan tindak lanjut yang akan Anda terapkan.
+5. Jawaban atas satu pertanyaan ini: pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+
+Pertanyaan utama untuk giliran ini adalah bagaimana Anda menilai perubahan ASK dan hasil tujuan Anda, dan pelajaran apa yang Anda ambil.
+:::
+
+**U020** (tahap: refleksi)
+
+::: {.turn}
+**1. Perubahan ASK dan SWOT Budi**
+
+**Sikap (A).** Pada awal percakapan, Budi cenderung menolak perubahan. Ia mempertanyakan alasan perubahan melalui ucapan, "Cara sekarang sudah jelas. Mengapa harus berubah?" Ia juga menetapkan beberapa syarat, seperti "buku ini tidak boleh saya tinggalkan dulu", "biayanya harus jelas dari awal", dan "jangan semuanya sekaligus". Setelah merasa didengarkan dan kekhawatirannya diakui, sikapnya mulai terbuka terhadap percobaan sederhana. Hal ini terlihat dari pernyataannya, "Dua langkah itu masuk akal buat saya", "Lima dari tujuh hari masuk akal", dan "kita mulai Senin depan, 19 Oktober." Saat uji ulang, ia tetap bersedia berdiskusi meskipun muncul kendala baru. Ia bahkan mengatakan, "Saya juga lega soal pelanggan di hari kedua. Itu yang saya butuhkan." Dengan demikian, sikap Budi menunjukkan perkembangan positif, meskipun kesediaannya masih disertai sejumlah syarat dan keraguan.
+
+**Pengetahuan (K).** Pada awalnya, Budi memahami alur kerja yang selama ini digunakan, tetapi belum mengenal alternatif lain secara mendalam. Mengenai AI, ia mengakui, "Kalau soal AI, saya cuma dengar dari orang... Bagaimana cara kerjanya dan apa risikonya, saya tidak tahu." Setelah mendapat penjelasan yang sesuai dengan kebutuhannya dan disertai keterbukaan mengenai keterbatasan solusi, Budi mulai memahami alternatif sederhana berupa penggunaan blok kertas dan pemeriksaan rutin. Ia juga mampu mencocokkan ringkasan kesepakatan dengan pembahasan sebelumnya melalui pernyataan, "Urutannya sama dengan yang kita sepakati." Namun, pengetahuannya mengenai AI tidak mengalami perubahan karena teknologi tersebut tidak digunakan dalam percobaan ini. Perkembangan yang terlihat adalah pemahamannya terhadap alternatif yang lebih sesuai dengan kondisi usahanya.
+
+**Kemampuan dan dukungan (S).** Budi memiliki pengalaman dalam menjalankan operasional usaha, tetapi belum memiliki prosedur tertulis yang menjadi acuan bersama. Ia menjelaskan, "tidak ada aturan tertulis... Biasanya saya mengandalkan ingatan saya dan kebiasaan Rina." Dalam uji ulang, muncul kendala tambahan dari Rina terkait waktu pemeriksaan dan penggunaan tanda tangan. Kendala tersebut kemudian direspons melalui penyesuaian jadwal, yaitu penyerahan blok pukul 19.30 dan pemeriksaan di kasir, serta penggantian tanda tangan dengan centang dan pencatatan waktu tanpa nama. Sistem ini juga dilengkapi empat catatan harian dan kriteria evaluasi untuk menentukan apakah percobaan dilanjutkan, diperbaiki, atau dihentikan. Meski demikian, kesiapan Budi tersebut baru terlihat dalam simulasi. Belum ada bukti bahwa Budi dan Rina benar-benar telah menjalankan prosedur tersebut.
+
+**SWOT subjektif.** Pada awalnya, Budi memandang perubahan sebagai ancaman karena ia merasa cara kerja yang lama sudah cukup dikuasai. Kekuatan utamanya terletak pada pengalaman dan tanggung jawab terhadap pelanggan, sebagaimana terlihat dari ucapannya, "Saya sudah bertahun-tahun berusaha menepati janji ke pelanggan." Sementara itu, belum adanya prosedur tertulis menjadi kelemahan dalam pelaksanaan kerja. Peluang dan ancaman berkaitan dengan kemungkinan memperbaiki pencatatan serta risiko biaya dan gangguan operasional saat toko ramai. Menjelang akhir simulasi, Budi mulai melihat perubahan sebagai peluang yang dapat dicoba secara terbatas. Risiko terasa lebih terkendali karena buku tetap digunakan, tidak ada biaya tambahan, dan percobaan dapat dihentikan atau disesuaikan kapan saja.
+
+**2. Hasil Pencapaian Tujuan**
+
+Tujuan saya tercapai sebagian. Dari lima indikator yang ditetapkan pada Tahap B, tiga di antaranya terpenuhi dalam simulasi. Pertama, Budi mampu menjelaskan masalahnya melalui contoh konkret dan menunjukkan bahwa ia merasa didengarkan. Hal ini terlihat ketika ia menceritakan pengalaman menggunakan spreadsheet yang akhirnya ditinggalkan karena ukuran layar dan kondisi kerja yang ramai. Kedua, saya menjelaskan manfaat serta keterbatasan alternatif sederhana secara terbuka. Ketiga, Budi menyetujui rangkuman kebutuhan dan kendala yang telah dibahas.
+
+Kesepakatan mengenai cakupan percobaan, dukungan, risiko, dan evaluasi juga berhasil dibentuk. Namun, pembahasan risiko masih lebih banyak disampaikan melalui kriteria untuk melanjutkan atau menghentikan percobaan, bukan dijelaskan secara terpisah.
+
+Satu indikator yang belum terpenuhi adalah kemampuan *customer* merangkum kesepakatan menggunakan kata-katanya sendiri. Dalam simulasi, saya yang menyampaikan rangkuman, sedangkan Budi hanya mencocokkannya dengan kesepakatan sebelumnya. Karena itu, pemahaman mandirinya belum benar-benar teruji. Selain itu, tanggapan Rina belum diketahui dan ringkasan yang dijanjikan untuknya belum selesai dibuat. Hasil yang dicapai sejauh ini masih berupa kesepakatan dalam simulasi, bukan perubahan perilaku yang sudah terjadi dalam praktik.
+
+**3. Stimulus Efektif dan Kurang Efektif serta Evaluasi Dugaan Awal**
+
+**Stimulus yang efektif.** Ada beberapa respons yang membantu membangun keterbukaan Budi. Pertama, saya memberi kesempatan kepadanya untuk bercerita sebelum menawarkan solusi. Hal ini terlihat dari tanggapannya, "Ya, saya hargai Anda tidak langsung menyodorkan sesuatu." Kedua, saya mengakui tanggung jawabnya terhadap pelanggan sekaligus mempertimbangkan kondisi Rina, yang ia apresiasi melalui ucapan, "Terima kasih Anda memikirkan Rina juga." Ketiga, saya mengakui kekeliruan dalam urutan pembahasan dan memperbaikinya. Budi merespons, "Terima kasih Anda mau mengakui urutannya tadi dan memperbaiki fokusnya." Keempat, saya menyampaikan keterbatasan solusi secara jujur sehingga Budi merasa lebih percaya, sebagaimana terlihat dari pernyataannya, "Saya lebih percaya pada yang jujur soal batasnya." Kelima, saya menawarkan langkah sederhana tanpa biaya yang tetap mempertahankan penggunaan buku dalam proses pencatatan.
+
+**Stimulus yang kurang efektif.** Pada awal percakapan, saya terlalu cepat membahas pertanyaan pelanggan yang berulang. Padahal, Budi menjelaskan bahwa hal tersebut "memang melelahkan, tapi bukan yang paling mengganggu saya". Ini menunjukkan bahwa saya belum cukup menggali prioritas masalahnya sebelum menentukan fokus pembahasan. Selain itu, beberapa pesan saya memuat terlalu banyak gagasan sekaligus sehingga berpotensi menyulitkan Budi mengikuti urutan penjelasan. Dalam uji ulang, saya juga belum menanyakan sejak awal siapa yang akan menjalankan prosedur dan kapan waktu yang memungkinkan. Akibatnya, keberatan Rina mengenai jadwal pemeriksaan dan tanda tangan baru muncul setelah rencana awal disusun.
+
+**Evaluasi dugaan awal.** Dugaan yang saya susun pada Tahap B masih relevan setelah melihat respons Budi. Kekhawatiran mengenai biaya, kerumitan, dan gangguan terhadap proses kerja sesuai dengan hambatan yang muncul selama simulasi. Dugaan bahwa manfaat AI belum jelas baginya juga masih tepat, tetapi masalahnya ternyata lebih luas daripada sekadar ketidaktahuan tentang AI. Budi pernah mencoba alat lain, tetapi pengalaman tersebut kurang sesuai dengan kondisi usahanya. Saya juga belum memperkirakan bahwa kejelasan urutan prosedur dan kenyamanan Rina akan menjadi pertimbangan penting dalam penerimaan perubahan. Temuan ini menunjukkan bahwa pemahaman terhadap kebutuhan *customer* perlu mencakup kondisi operasional dan orang lain yang terlibat.
+
+**4. *Lesson Learned* dan Rencana Tindak Lanjut**
+
+Ada beberapa pelajaran yang saya peroleh dari simulasi ini. Pertama, saya perlu menggali masalah yang paling diprioritaskan oleh *customer* sebelum menawarkan solusi karena masalah yang pertama disebut belum tentu menjadi masalah utamanya. Kedua, saya perlu menyampaikan satu gagasan dalam setiap pesan dengan urutan yang jelas agar pembahasan lebih mudah diikuti. Ketiga, ketika merancang percobaan, saya harus memastikan sejak awal siapa yang akan menjalankannya, kapan pelaksanaan memungkinkan, dan apa yang akan dilakukan jika muncul kendala. Keempat, saya perlu meminta *customer* menjelaskan kembali kesepakatan dengan kata-katanya sendiri untuk memastikan pemahamannya. Kelima, persetujuan seseorang tidak dapat langsung dianggap mewakili semua pihak yang terdampak.
+
+Sebagai tindak lanjut, saya berencana menerapkan pola komunikasi tersebut dalam percakapan berikutnya. Saya akan lebih dahulu menggali kebutuhan, mempertimbangkan kondisi pelaksanaan, dan memastikan pemahaman sebelum mengakhiri pembicaraan. Namun, seluruh tindak lanjut ini masih berupa rencana dan belum dilaksanakan karena kegiatan yang dibahas masih berada dalam tahap simulasi.
+
+**5. Pesan yang Mendukung atau Menghambat Rasa Dipercaya dan Dipedulikan**
+
+Beberapa respons saya membantu Budi merasa dihargai dan didengarkan. Saya tidak langsung menyela atau menawarkan solusi, yang ia tanggapi melalui ucapan, "Terima kasih Anda tidak menyela." Saya juga mempertimbangkan tanggung jawabnya terhadap pelanggan dan kondisi Rina, sebagaimana terlihat dari pernyataannya, "Terima kasih Anda memikirkan Rina juga." Selain itu, kesediaan saya mengakui kesalahan dalam urutan pembahasan mendapat respons positif, "Itu menunjukkan Anda mendengarkan. Saya hargai." Keterbukaan mengenai keterbatasan solusi juga memperkuat kepercayaannya, yang terlihat dari ucapan, "Saya lebih percaya pada yang jujur soal batasnya."
+
+Komitmen untuk menyiapkan ringkasan bagi Rina menjadi bentuk dukungan konkret lainnya. Budi menanggapinya dengan, "Saya tunggu ringkasannya... janji untuk memberikannya hari ini sudah saya catat." Respons tersebut menunjukkan bahwa ia memperhatikan tindak lanjut yang dijanjikan, meskipun belum membuktikan bahwa ringkasan itu sudah diterima atau disetujui Rina.
+
+Sebaliknya, pembahasan awal yang terlalu berfokus pada pertanyaan pelanggan yang berulang sedikit menghambat ketepatan komunikasi. Budi tidak langsung menolak pembahasan tersebut, tetapi mengoreksi fokusnya dengan mengatakan bahwa hal itu "bukan yang paling mengganggu saya". Hal ini menjadi pengingat bahwa saya perlu memastikan prioritas masalah sebelum menentukan arah percakapan. Saya tidak menemukan bukti bahwa ada pesan yang membuat Budi benar-benar menutup diri. Seluruh penilaian ini didasarkan pada respons yang terlihat selama simulasi, bukan pada asumsi mengenai perasaan Budi yang tidak diungkapkan.
+:::
+
+**AI020** (tahap: konfirmasi)
+
+::: {.turn}
+Refleksi Tahap F Anda sudah saya simpan apa adanya. Sebelum laporan dibuat, saya perlu konfirmasi ringkasan berikut. Ringkasan ini hanya merapikan apa yang sudah Anda tulis, dan tidak ada isi baru dari saya.
+
+**Tahap G, konfirmasi**
+
+*Identitas.* Kezia Josephine Manik, NIM 18225001, kelas K-01, Rabu 14 Oktober 2026, Sesi 3b (Kasus 3), target Budi (K3-02), modalitas teks, kasus fiktif. Transkrip lengkap sejak identifikasi sampai refleksi Tahap F, ditambah giliran konfirmasi ini.
+
+*Tujuan.* Anda ingin mendampingi customer memilih cara yang tepat untuk mengatasi pertanyaan berulang dan pesanan tercecer lewat uji coba kecil, tanpa memaksakan AI, dengan lima indikator. Menurut Anda tujuan tercapai sebagian. Tiga indikator terpenuhi, yaitu Budi menjelaskan masalah dengan contoh dan merasa didengarkan, manfaat serta batas alternatif sederhana dijelaskan, dan rangkuman kebutuhan disetujui. Kesepakatan cakupan, dukungan, risiko, dan evaluasi terbentuk, tetapi risiko banyak dibahas lewat kriteria lanjut atau henti. Indikator Budi merangkum kesepakatan dengan kata-katanya sendiri belum terpenuhi karena rangkuman disampaikan oleh Anda. Tanggapan Rina belum diketahui dan ringkasan untuk Rina belum Anda tuliskan sebagai dokumen. Hasil ini masih kesepakatan dalam simulasi, bukan perubahan perilaku nyata.
+
+*Hasil ASK dan SWOT.* Sikap Budi bergeser dari mempertanyakan perubahan menjadi bersedia mencoba langkah kecil dengan syarat. Pengetahuannya berkembang pada alternatif sederhana, sedangkan pengetahuan tentang AI tidak berubah karena AI tidak dipakai. Kemampuan dan dukungan tampak lewat penyesuaian jadwal, centang tanpa nama, empat catatan harian, dan kriteria evaluasi, tetapi baru dalam simulasi. SWOT bergeser dari perubahan sebagai ancaman menjadi peluang yang dicoba terbatas, dengan risiko terasa terkendali karena buku tetap dipakai.
+
+*Stimulus dan dugaan awal.* Efektif, yaitu memberi ruang bercerita, mengakui tanggung jawab Budi dan kondisi Rina, mengakui kekeliruan urutan, jujur soal batas solusi, dan menawarkan langkah tanpa biaya yang mempertahankan buku. Kurang efektif, yaitu terlalu cepat membahas pertanyaan berulang, pesan yang memuat banyak gagasan, dan belum menanyakan sejak awal siapa pelaksana serta waktunya. Dugaan Tahap B tidak diubah. Anda mencatat bahwa masalahnya lebih luas daripada ketidaktahuan tentang AI, karena pengalaman alat lain kurang cocok dan kenyamanan Rina menjadi pertimbangan.
+
+*Lesson learned dan tindak lanjut.* Gali prioritas sebelum menawarkan solusi, satu gagasan per pesan, pastikan pelaksana, waktu, dan cadangan sejak awal, minta customer merangkum dengan kata-katanya sendiri, dan persetujuan satu orang tidak mewakili semua pihak. Tindak lanjut ini masih rencana dan belum dilaksanakan.
+
+*Catatan relasional dari simulator.* Estimasi ini dicatat sebagai interpretasi simulator dengan batas inferensi, bukan skala psikometri. Rasa aman bergerak dari rendah ke sedang (awal "Cara sekarang sudah jelas. Mengapa harus berubah?", akhir "Saya hargai Anda tidak memutuskan untuk kami"). Merasa dipahami dan dipedulikan bergerak dari rendah ke tinggi ("Terima kasih Anda memikirkan Rina juga"). Kepercayaan bergerak dari rendah ke sedang ("Saya lebih percaya pada yang jujur soal batasnya"). Keterbukaan bergerak dari rendah ke sedang sampai tinggi (pengakuan "tidak ada aturan tertulis"). Hambatan K dan S Budi tidak hilang hanya karena respons yang hangat, dan keputusan akhir tetap pada Budi.
+
+Setelah Anda konfirmasi, laporan hasil_3b_18225001.qmd akan saya buat dengan transkrip aktual, usulan skor enam dimensi yang memerlukan moderasi dosen, dan nilai akhir UTS ditulis Belum dihitung. Pengiriman ke portal tetap Anda lakukan sendiri.
+
+Pertanyaan utama untuk giliran ini adalah apakah ringkasan identitas, tujuan, hasil, dan refleksi di atas sudah sesuai, atau bagian mana yang perlu Anda koreksi sebelum laporan dibuat?
+:::
+
+**U021** (tahap: konfirmasi)
+
+::: {.turn}
+Ringkasannya sudah sesuai, dengan satu syarat. Tolong pastikan semua kutipan Budi di catatan relasional persis seperti di transkrip. Kalimat "Saya hargai Anda tidak memutuskan untuk kami" sebaiknya diganti dengan kutipan lain yang benar-benar ada kalau tidak ditemukan di percakapan. Silakan buat laporan hasil_3b_18225001.qmd.
+
+Mohon di laporan, transkrip ditulis apa adanya dengan penomoran U yang sesuai urutan sebenarnya, dan jumlah giliran simulasi awal serta jumlah giliran uji ulang hipotetis dicatat sesuai kenyataan. Segmen uji ulang diberi label hipotetis dan dipisahkan dari simulasi awal. Tahap B ditulis sama seperti yang saya kirim, tanpa perubahan setelah profil dibuka. Bagian Hasil juga membedakan kesepakatan simulasi awal dari penyesuaian pada uji ulang hipotetis.
+
+Terima kasih.
+:::
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Hasil tujuan.** Tujuan tercapai sebagian, sesuai penilaian mahasiswa pada U020 dan konfirmasi U021. Tiga indikator terpenuhi dalam simulasi (Budi menjelaskan masalah dengan contoh dan merasa didengarkan, manfaat dan batas alternatif sederhana dijelaskan, rangkuman kebutuhan disetujui). Kesepakatan cakupan, dukungan, risiko, dan evaluasi terbentuk, tetapi risiko banyak dibahas lewat kriteria lanjut atau henti. Indikator Budi merangkum kesepakatan dengan kata-katanya sendiri belum terpenuhi, karena pada AI017 Budi justru meminta mahasiswa yang merangkum dan pada AI018 ia hanya mencocokkannya. Tanggapan Rina belum diketahui. Seluruh hasil berupa komitmen dalam simulasi, bukan tindakan di luar sesi.
+
+**Kesepakatan simulasi awal (U004 sampai U013, dibentuk sebelum uji ulang).**
+
+- Blok kertas diikat dengan tali di sisi buku pada meja pencatatan (AI011).
+- Pemeriksaan pukul 20.00; Budi penanggung jawab; Rina membantu memeriksa dan menandatangani halaman buku; Rina pengganti bila Budi tidak ada (AI011).
+- Prosedur cadangan untuk hari ramai, yaitu pemeriksaan sekitar dua menit, dan bila tidak sempat hal itu ditulis jujur di buku (U012, diterima AI012).
+- Target awal lima dari tujuh hari; hari yang tidak sempat diperiksa tetap dicatat (U012, diterima AI012).
+- Budi berbicara dengan Rina esok pagi; percobaan dimulai Senin, 19 Oktober; ringkasan satu halaman dijanjikan malam itu (AI012, AI013).
+- Buku tetap menjadi catatan utama, tanpa biaya tambahan, dan Budi memegang keputusan akhir (AI008, AI010).
+
+**Penyesuaian pada uji ulang hipotetis (U015 sampai U019, dipicu keberatan Rina).**
+
+- Blok diserahkan pukul 19.30 sebelum Rina mengemas dan diperiksa Budi di kasir (AI015).
+- Tanda tangan diganti centang dan jam tanpa nama (AI015).
+- Empat catatan harian oleh Budi dan satu kalimat kendala dari Rina; kolom catatan sudah digambar Budi (AI016).
+- Evaluasi lima menit pada hari ketiga dengan kriteria lanjut, ubah satu hal, atau hentikan; satu telepon pelanggan dicatat penyebabnya dan tidak otomatis berarti gagal (AI017, AI018).
+- Ringkasan untuk Rina dijanjikan diperbarui hari itu juga (U018, U019). Dalam transkrip ringkasan ini hanya disebutkan isinya dan belum ditulis sebagai dokumen.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Perubahan dipandang sebagai ancaman; cara lama dirasa sudah dikuasai | Perubahan dipandang sebagai peluang yang dicoba terbatas; risiko terasa lebih terkendali karena buku tetap dipakai | AI003 "Cara sekarang sudah jelas. Mengapa harus berubah?"; AI013 "kita mulai Senin depan, 19 Oktober"; AI017 "Kriterianya jelas dan urutannya enak diikuti." | Perilaku tokoh simulasi dan interpretasi mahasiswa; bukan keputusan nyata |
+| Attitude | Mempertanyakan perlunya berubah | Bersedia mencoba langkah kecil dengan syarat | AI010 "Dua langkah itu masuk akal buat saya."; AI012 "Lima dari tujuh hari masuk akal"; AI008 "saya belum tahu apakah itu masuk akal untuk usaha kecil seperti punya saya" | Kesediaan bersyarat, keraguan masih ada; hanya simulasi |
+| Knowledge | Menguasai prosedur lama; tentang AI "Kalau soal AI, saya cuma dengar dari orang." (AI007) | Memahami alternatif sederhana (blok kertas, pemeriksaan rutin); pengetahuan tentang AI tidak berubah karena AI tidak dipakai | AI018 "Urutannya sama dengan yang kita sepakati." | Mencocokkan rangkuman buatan mahasiswa, bukan merangkum sendiri; pemahaman mandiri belum teruji |
+| Skill | Tidak ada prosedur tertulis (AI006 "tidak ada aturan tertulis") | Pada uji ulang Budi menyusun kolom catatan ("Saya buat kolomnya sekarang saja, supaya malam pertama saya tinggal mengisi.", AI016); mahasiswa mendemonstrasikan adaptasi tertulis pada U015 sampai U018 | AI016; U015 sampai U018 | Tindakan Budi hanya di dalam simulasi. Demonstrasi mahasiswa berupa teks adaptasi konkret, bukan sekadar niat, tetapi belum menjadi pelaksanaan nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U004/AI004 | Defensif; AI003 "Cara sekarang sudah jelas. Mengapa harus berubah?" | U004 "Saya tidak bermaksud meminta Anda mengganti cara kerja yang sudah ada, tetapi ingin memahami situasinya terlebih dahulu." | AI004 "Ya, saya hargai Anda tidak langsung menyodorkan sesuatu." | A, defensivitas berkurang; belum ada perubahan K/S | Lanjut menggali cerita sebelum menawarkan solusi |
+| U005/AI005 | Mulai terbuka | U005 merangkum cerita dan "Apakah gambaran saya sudah tepat?" | AI005 "Ya, tepat. Terima kasih Anda tidak menyela." lalu menceritakan kejadian Jumat | Keterbukaan naik; klarifikasi fakta membuka K | Menggali satu kejadian konkret (U006) |
+| U006/AI006 | Terbuka tentang proses | U006 merangkum urutan kejadian dan "Biasanya, apa yang Anda atau Rina lakukan..." | AI006 "tidak ada aturan tertulis" dan "Cara itu jalan bertahun-tahun, jadi saya tidak mau Rina bingung kalau tiba-tiba ada cara lain." | Hambatan S terbuka (tidak ada prosedur, mengandalkan ingatan) | Menanyakan pengalaman teknologi (U007) |
+| U007/AI007 | Keterbukaan sedang sampai tinggi | U007 mengakui kekhawatiran tentang Rina ("menurut saya kekhawatiran itu wajar") | AI007 "Terima kasih Anda memikirkan Rina juga." dan cerita spreadsheet, aplikasi, AI | K terbuka (pengalaman alat tidak cocok, AI tidak diketahui); hambatan biaya dan keandalan muncul | Menanyakan syarat agar nyaman mencoba (U008) |
+| U008/AI008 | Menyebut tiga syarat | U008 bertanya apa yang perlu dipastikan agar nyaman dan aman | AI008 "buku ini tidak boleh saya tinggalkan dulu"; "biayanya harus jelas dari awal"; "jangan semuanya sekaligus" | S dan A, kebutuhan pilot dengan cadangan terungkap | Usul dibangun mengikuti syarat itu |
+| U009/AI009 | Prioritas belum digali | U009 mengusulkan jawaban tertulis untuk pertanyaan berulang | AI009 "Pertanyaan yang berulang itu memang melelahkan, tapi bukan yang paling mengganggu saya." | Prioritas Budi ternyata pesanan tercecer; usul kurang tepat sasaran | Mahasiswa mengoreksi fokus pada U010 |
+| U010/AI010 | Kepercayaan sedang | U010 mengakui urutan keliru dan menegaskan batas ("belum tentu mencegah semua pesanan terlewat") | AI010 "Terima kasih Anda mau mengakui urutannya tadi dan memperbaiki fokusnya... Saya lebih percaya pada yang jujur soal batasnya." | A dan kepercayaan naik; Budi mulai menanyakan detail pelaksanaan | Menetapkan tempat, jam, penanggung jawab (U011) |
+| U015/AI015 (uji ulang hipotetis) | Kepercayaan dari simulasi awal dipertahankan, keberatan Rina baru | U015 menawarkan dua pilihan waktu dan "tanda tangan diganti dengan tanda centang dan waktu pemeriksaan, tanpa mencantumkan nama" | AI015 "Soal tanda tangan, saya setuju diganti centang dan jam tanpa nama." dan menggeser jam ke 19.30 | A tetap bersedia; S, kendala Rina diselesaikan oleh Budi sendiri | Mahasiswa menyerahkan pilihan akhir pada Budi dan Rina |
+| U017/AI017 (uji ulang hipotetis) | Membutuhkan patokan | U017 menyusun kriteria lanjut, ubah, atau hentikan | AI017 "Kriterianya jelas dan urutannya enak diikuti." lalu bertanya soal pelanggan di hari kedua | Penerimaan kriteria; muncul kekhawatiran baru yang masih terkait S | Mahasiswa menjawab pada U018 |
+
+**Perbandingan dugaan Tahap B dengan profil.** Profil tokoh diungkapkan pada AI019, sesudah Tahap B (U003) dan Tahap D (U014) disimpan, sehingga dugaan mahasiswa tidak diubah. Pembandingan berikut adalah interpretasi AI atas teks. Dugaan Tahap B tentang kekhawatiran biaya dan kerumitan sesuai dengan hambatan profil, yaitu takut biaya serta gangguan prosedur. Dugaan bahwa pengetahuan tentang kemampuan dan keterbatasan teknologi belum utuh sesuai dengan profil K, yaitu menguasai prosedur lama tetapi belum memahami alternatif. Rencana uji coba kecil dengan dukungan, risiko, dan evaluasi pada U003 sejalan dengan kebutuhan profil akan pilot dengan prosedur cadangan, walaupun mahasiswa tidak menduganya secara eksplisit. Preferensi pada detail, bukti, dan urutan prosedur (profil) tidak diduga pada Tahap B karena mahasiswa menyatakan tidak akan menyimpulkan kepribadian sebelum data cukup. Peran Rina sebagai pertimbangan penting tidak diduga pada Tahap B dan dicatat mahasiswa sebagai temuan baru pada U014.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U004/AI004 | U004 "Saya tidak bermaksud meminta Anda mengganti cara kerja yang sudah ada, tetapi ingin memahami situasinya terlebih dahulu." | AI004 "Ya, saya hargai Anda tidak langsung menyodorkan sesuatu." | Rasa aman rendah, ke sedang; keterbukaan mulai | A, defensivitas berkurang; belum menyentuh K/S. Tidak berarti setuju berubah |
+| U005/AI005 | U005 "Saya juga menangkap bahwa Anda menjawab pertanyaan pelanggan sendiri satu per satu karena itu tanggung jawab Anda, dan saya menghargai itu." | AI005 "Ya, tepat. Terima kasih Anda tidak menyela." | Merasa dipahami naik; keterbukaan sedang | Budi menceritakan kejadian Jumat; K/S belum selesai |
+| U007/AI007 | U007 "Saya juga memahami bahwa Anda tidak ingin Rina kebingungan jika cara kerja baru diterapkan secara tiba-tiba, dan menurut saya kekhawatiran itu wajar." | AI007 "Terima kasih Anda memikirkan Rina juga." | Merasa dipedulikan tinggi; keterbukaan naik | Budi menjelaskan pengalaman teknologi dan hambatan biaya; hambatan K/S tetap |
+| U010/AI010 | U010 "Saya menyadari bahwa sebelumnya saya lebih dulu menawarkan solusi untuk pertanyaan pelanggan yang berulang, padahal masalah yang paling mengganggu Anda adalah pesanan yang terlewat." dan "Saya perlu menjelaskan bahwa cara ini belum tentu mencegah semua pesanan terlewat" | AI010 "Terima kasih Anda mau mengakui urutannya tadi dan memperbaiki fokusnya. Itu menunjukkan Anda mendengarkan. Saya hargai." dan "Saya lebih percaya pada yang jujur soal batasnya." | Kepercayaan sedang | Budi lanjut menanyakan tempat, jam, penanggung jawab; belum otomatis setuju |
+| U013/AI013 | U013 "Saya akan menyiapkan ringkasan satu halaman malam ini agar Anda bisa membacanya sebelum berbicara dengan Rina besok." | AI013 "Terima kasih Anda mau menyiapkan ringkasannya malam ini." | Kepercayaan sedang; kesediaan terbuka sedang | Budi menetapkan tanggal mulai; janji perlu dipenuhi agar bantuan dinilai konsisten |
+| U015/AI015 (uji ulang hipotetis) | U015 "Saya menyarankan agar tanda tangan diganti dengan tanda centang dan waktu pemeriksaan, tanpa mencantumkan nama." | AI015 "Terima kasih Anda memikirkan itu." | Rasa aman sedang | Budi menerima penyesuaian; kendala Rina diselesaikan |
+| U016/AI016 (uji ulang hipotetis) | U016 "Jadi, Rina tidak perlu mendapat tambahan pekerjaan yang terlalu berat." | AI016 "terima kasih Anda tidak menambah beban Rina." | Merasa dipedulikan tinggi | Budi menyusun kolom catatan; tetap simulasi |
+| U017/AI017 (uji ulang hipotetis) | U017 "Keputusan akhir tetap ada pada Anda." | AI017 "Saya hargai Anda tidak memutuskan untuk kami." | Rasa aman sedang; kepercayaan sedang | Penghormatan pilihan dikenali; keputusan tetap pada Budi |
+| U019/AI019 (uji ulang hipotetis) | U019 "Saya juga belum bisa memastikan Rina langsung setuju. Kalau ia punya masukan, kabari saya dan ringkasannya saya revisi sebelum Senin." | AI019 "Untuk saya, janji untuk memberikannya hari ini sudah saya catat." | Kepercayaan sedang | Budi mencatat komitmen; belum terbukti ringkasan diterima Rina |
+
+Semua kutipan Budi pada tabel ini telah dicocokkan dengan transkrip. Kutipan "Saya hargai Anda tidak memutuskan untuk kami" ditemukan di AI017, sehingga tidak perlu diganti.
+
+**Status relasional simulator (interpretasi, bukan skala psikometri).**
+
+| Kategori | Awal | Akhir | Bukti |
+|---|---|---|---|
+| Rasa aman | Rendah | Sedang | Awal AI003 "Cara sekarang sudah jelas. Mengapa harus berubah?"; akhir AI017 "Saya hargai Anda tidak memutuskan untuk kami." |
+| Merasa dipahami dan dipedulikan | Rendah | Tinggi | AI007 "Terima kasih Anda memikirkan Rina juga."; AI016 "terima kasih Anda tidak menambah beban Rina." |
+| Kepercayaan | Rendah | Sedang | AI010 "Saya lebih percaya pada yang jujur soal batasnya." |
+| Kesediaan membuka informasi | Rendah | Sedang sampai tinggi | AI006 "tidak ada aturan tertulis" |
+
+Pesan hangat di sini berupa pengakuan terhadap tanggung jawab, bantuan konkret, kejujuran tentang batas, dan penghormatan pilihan. Kepedulian dinilai dari perilaku yang tampak dalam teks, bukan dari ketulusan batin. Perbaikan rasa aman dan kepercayaan tidak menghapus hambatan K dan S Budi, dan keputusan akhir tetap pada Budi. Hubungan ini hanya hubungan profesional dalam simulasi.
+
+## Uji ulang dan pembelajaran
+
+**Label.** Uji ulang adalah segmen hipotetis berisi 5 jawaban mahasiswa (U015 sampai U019), terpisah dari 10 jawaban simulasi awal (U004 sampai U013).
+
+**Stimulus sejenis.** Pada AI014 muncul kendala baru yang masih terkait S (kebutuhan pilot dengan prosedur cadangan). Rina menyatakan pukul delapan malam ia sedang mengemas pesanan antar dan sendirian di meja pencatatan, dan ia khawatir dianggap salah bila ada pesanan terlewat. Budi juga bertanya tentang pegangan jika pemeriksaan tidak jalan di hari-hari awal.
+
+**Respons awal vs uji ulang.** Pada simulasi awal mahasiswa sempat mengusulkan solusi sebelum prioritas Budi dipastikan (U009). Pada uji ulang mahasiswa menawarkan pilihan waktu dan menyerahkan pilihan akhir kepada Budi dan Rina (U015), menyarankan centang tanpa nama (U015), menetapkan empat catatan harian dan pembagian tugas yang ringan (U016), menyusun kriteria lanjut, ubah, atau hentikan (U017), dan menjawab kekhawatiran satu telepon pelanggan (U018). Pesan-pesan tersebut relatif lebih panjang dan berisi banyak gagasan, jadi kelemahan pada ukuran pesan masih tampak.
+
+**Indikator perbaikan dan konsistensi.** Budi menunjukkan retensi kepercayaan dan pengetahuan yang telah dibangun (ia tidak mengulang penolakan awal, melanjutkan dengan detail pelaksanaan, dan menyusun kolom catatan). Ini adalah status simulasi, bukan demonstrasi skill Budi. Demonstrasi skill mahasiswa terlihat pada teks adaptasi konkret, bukan sekadar niat.
+
+**Transfer dan keterbatasan.** Indikator Budi merangkum kesepakatan dengan kata-katanya sendiri tetap belum teramati, karena pada AI017 Budi meminta mahasiswa yang merangkum. Ringkasan untuk Rina dijanjikan pada U013 dan U019 tetapi belum ditulis sebagai dokumen di dalam transkrip. Tanggapan Rina bersifat hipotetis, dan data tiga hari menurut U017 hanya cukup sebagai gambaran awal.
+
+## Penilaian enam dimensi
+
+Skala 1 sampai 4. Deskriptor skor tidak tersedia pada dokumen penugasan, sehingga skor berikut adalah usulan AI berdasarkan indikator tiap dimensi dan memerlukan moderasi dosen.
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U003 "Jika masalahnya dapat diatasi dengan cara yang lebih sederhana, saya tidak akan memaksakan penggunaan AI. Keputusan akhir tetap menjadi hak customer." | Tujuan, lima indikator, pemisahan fakta dan dugaan, serta batas keputusan customer dinyatakan sebelum simulasi dan dicatat konsisten. |
+| Persepsi dan validasi profil/status | 3 | U005 "Apakah gambaran saya sudah tepat?"; U009 "Untuk langkah pertama, saya menyarankan kita mencoba menyiapkan jawaban tertulis bagi pertanyaan pelanggan yang sering muncul"; U014 "Namun, pemahamannya terhadap keseluruhan kesepakatan belum diperiksa secara langsung..." | Validasi berulang lewat ringkasan dan konfirmasi serta pembacaan status A, K, S yang berbukti kutipan pada Tahap D. Prioritas masalah baru dipastikan setelah usul pertama (AI009), dan pembacaan status Tahap D mengakui K belum diuji. |
+| Pemilihan dan urutan repertoar | 3 | U004 "Boleh diceritakan bagaimana Anda menangani pertanyaan pelanggan dan pesanan sehari-hari"; U009; U011 "Menurut Anda, di mana tempat yang paling cocok untuk blok kertas, jam berapa pemeriksaan yang realistis, dan siapa yang sebaiknya bertanggung jawab serta penggantinya?" | Urutan gali, rangkum, usul, lalu rancang uji coba sesuai rencana. Usul pertama mendahului penentuan prioritas dan beberapa pesan memuat banyak gagasan atau beberapa pertanyaan sekaligus. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U007 "Saya juga memahami bahwa Anda tidak ingin Rina kebingungan jika cara kerja baru diterapkan secara tiba-tiba, dan menurut saya kekhawatiran itu wajar."; U010 "Saya menyadari bahwa sebelumnya saya lebih dulu menawarkan solusi..."; U017 "Saya juga perlu jujur bahwa data tiga hari masih terbatas" | Perilaku peduli tampak dalam pengakuan tanggung jawab Budi dan kenyamanan Rina, kejujuran tentang batas, serta usulan yang tidak menambah beban. Kejelasan terganggu oleh pesan panjang. Ringkasan untuk Rina dijanjikan (U013, U019) tetapi belum ada dalam transkrip, dan konsistensi tindakan itu belum teramati. |
+| Evaluasi dan adaptasi | 4 | U015 "Karena saya belum mengetahui seluruh alur kerja malam di toko, sebaiknya Anda dan Rina menentukan waktu yang paling sesuai."; U018 "Kejadiannya cukup dicatat dengan satu kalimat penyebab..." | Koreksi fokus pada U010, lalu pada uji ulang menyesuaikan jadwal, tanda tangan, pencatatan, dan kriteria dengan keberatan Rina tanpa mengulang pembahasan awal, dan mempertahankan kepercayaan yang sudah dibangun. |
+| Refleksi dan lesson learned | 3 | U020 "Satu indikator yang belum terpenuhi adalah kemampuan *customer* merangkum kesepakatan menggunakan kata-katanya sendiri." | Refleksi rinci, jujur tentang indikator yang belum tercapai dan batas bukti, dengan lesson learned yang dapat ditindaklanjuti. Satu kutipan di U020 (butir 1) menghilangkan kalimat tengah tanpa tanda elipsis (lihat catatan di bawah), dan perbandingan dengan preferensi prosedural profil (ISTJ) belum dibahas eksplisit. |
+
+Usulan nilai AI untuk Sesi 3b adalah jumlah skor 4 + 3 + 3 + 3 + 4 + 3 = 20, sehingga 20 / 24 × 100 = 83,33. Nilai ini adalah usulan AI dan memerlukan moderasi dosen. Hasil tujuan (tercapai sebagian) dilaporkan terpisah dari nilai proses.
+
+**Catatan verifikasi kutipan Budi pada refleksi mahasiswa (U014 dan U020).** Kutipan-kutipan lain telah dicocokkan dengan transkrip. Dua catatan kecil.
+
+- U020 butir 1 mengutip "Saya juga lega soal pelanggan di hari kedua. Itu yang saya butuhkan." Teks asli di AI018 memuat satu kalimat tengah, yaitu "Satu kejadian dicatat penyebabnya dulu dan tidak otomatis dihitung gagal." Kutipan mahasiswa tetap disalin apa adanya pada U020.
+- U014 mengutip "Saya perlu itu sebelum bicara dengan Rina" dengan huruf besar di awal, sedangkan teks asli di AI012 berbunyi "saya perlu itu sebelum bicara dengan Rina" sebagai bagian kalimat lebih panjang. Perbedaan ini hanya pada kapitalisasi dan pemotongan.
+
+## Refleksi dan lesson learned mahasiswa
+
+Bagian ini memakai ringkasan yang sudah dikonfirmasi mahasiswa pada U021, yang merapikan jawaban U020. Teks lengkap ada pada U020.
+
+- **Perubahan ASK dan SWOT.** Sikap Budi bergeser dari mempertanyakan perubahan menjadi bersedia mencoba langkah kecil dengan syarat. Pengetahuannya berkembang pada alternatif sederhana, sedangkan pengetahuan tentang AI tidak berubah karena AI tidak dipakai. Kemampuan dan dukungan tampak lewat penyesuaian jadwal, centang tanpa nama, empat catatan harian, dan kriteria evaluasi, tetapi baru dalam simulasi. SWOT bergeser dari perubahan sebagai ancaman menjadi peluang yang dicoba terbatas.
+- **Hasil tujuan.** Tercapai sebagian. Tiga indikator terpenuhi, dan indikator Budi merangkum dengan kata-katanya sendiri belum terpenuhi. Tanggapan Rina belum diketahui dan ringkasan untuk Rina belum ditulis sebagai dokumen.
+- **Stimulus efektif.** Memberi ruang bercerita, mengakui tanggung jawab Budi dan kondisi Rina, mengakui kekeliruan urutan, jujur soal batas solusi, dan menawarkan langkah tanpa biaya yang mempertahankan buku.
+- **Stimulus kurang efektif.** Terlalu cepat membahas pertanyaan berulang, pesan yang memuat banyak gagasan, dan belum menanyakan sejak awal siapa pelaksana serta waktunya.
+- **Dugaan yang dikoreksi.** Masalah Budi lebih luas daripada ketidaktahuan tentang AI, karena pengalaman alat lain kurang cocok dan kenyamanan Rina menjadi pertimbangan.
+- **Lesson learned.** Gali prioritas sebelum menawarkan solusi, satu gagasan per pesan, pastikan pelaksana, waktu, dan cadangan sejak awal, minta customer merangkum dengan kata-katanya sendiri, dan persetujuan satu orang tidak mewakili semua pihak.
+
+Jawaban mahasiswa atas pertanyaan netral tentang pesan yang membantu atau menghambat rasa dipercaya dan dipedulikan ada pada U020 butir 5.
+
+## Tindak lanjut dan batas bukti
+
+**Tindak lanjut mahasiswa.** Menerapkan pola komunikasi hasil pembelajaran pada percakapan berikutnya, yaitu menggali kebutuhan, mempertimbangkan kondisi pelaksanaan, dan memastikan pemahaman sebelum mengakhiri pembicaraan (U020 butir 4). Waktu pelaksanaan, dukungan, dan indikator evaluasi untuk tindak lanjut ini tidak ditetapkan mahasiswa dalam sesi. Tindak lanjut ini masih rencana.
+
+**Tindak lanjut tokoh dalam simulasi (bukan pelaksanaan nyata).** Budi berbicara dengan Rina, percobaan dimulai Senin, 19 Oktober selama seminggu, evaluasi lima menit pada hari ketiga, dan ringkasan satu halaman dijanjikan mahasiswa untuk Budi. Seluruhnya berupa kesepakatan simulasi.
+
+**Batas bukti.** Sesi ini berbasis teks, sehingga prosodi dan bahasa tubuh tidak dinilai. Perilaku Budi adalah simulasi dan mengikuti profil fiktif serta protokol relasional, sehingga perubahan sikap Budi tidak membuktikan kemampuan komunikasi di dunia nyata. Rina tidak pernah hadir dan tanggapannya diceritakan oleh tokoh. Perubahan jangka panjang belum dibuktikan. Profil ISTJ bersifat fiktif dan bukan diagnosis.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
+
+**Status komponen untuk laporan ini.**
+
+- Sesi 3b, usulan AI menunggu moderasi dosen, 20 / 24 × 100 = 83,33.
+- Makalah pra-UTS, Sesi 1, Sesi 2a, Sesi 2b, dan Sesi 3a tidak tersedia dalam sesi ini dan tidak diperkirakan.
+- Nilai akhir UTS: **Belum dihitung**.

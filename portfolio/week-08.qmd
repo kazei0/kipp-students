@@ -19,10 +19,10 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Nama | Kezia Josephine Manik |
 | NIM | 18225001 |
 | Kelas | K-01 |
-| Periode/tanggal pelaksanaan | Sesi 1 pada 12 dan 13 Oktober 2026; Sesi 2a dan 2b pada 13 Oktober 2026; Sesi 3a pada 14 Oktober 2026 (tanggal sesi lain dicatat di laporan masing-masing) |
+| Periode/tanggal pelaksanaan | Sesi 1 pada 12 dan 13 Oktober 2026; Sesi 2a dan 2b pada 13 Oktober 2026; Sesi 3a dan 3b pada 14 Oktober 2026 |
 | Versi bank/paket aktif | Bank 2.0; paket 2.0 (PENUGASAN.md dalam ZIP) |
 | Modalitas | Teks; tidak ada transkripsi suara |
-| Status pengumpulan | Makalah pra-UTS, Sesi 1, Sesi 2a, Sesi 2b, dan Sesi 3a selesai dikerjakan |
+| Status pengumpulan | Makalah pra-UTS dan kelima sesi (1, 2a, 2b, 3a, 3b) selesai dikerjakan |
 
 ## Makalah dan lima laporan
 
@@ -33,4 +33,4 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | 2a | [hasil_2a_18225001.qmd](UTS/hasil_2a_18225001.qmd) | Budi (K2-02) | Selesai dijalankan | Tidak ada bagian yang kurang. Transkrip U001 sampai U019, konfirmasi pada U019. Nilai resmi menunggu dosen |
 | 2b | [hasil_2b_18225001.qmd](UTS/hasil_2b_18225001.qmd) | Dimas (K2-04) | Selesai dijalankan | Tidak ada bagian yang kurang. Transkrip U001 sampai U017, konfirmasi pada U017. Uji ulang berisi dua giliran. Nilai resmi menunggu dosen |
 | 3a | [hasil_3a_18225001.qmd](UTS/hasil_3a_18225001.qmd) | Ali (K3-01) | Selesai dijalankan | Tidak ada bagian yang kurang. Transkrip U001 sampai U022, konfirmasi pada U022. Uji ulang hipotetis berisi lima giliran. Nilai resmi menunggu dosen |
-| 3b | [hasil_3b_18225001.qmd](UTS/hasil_3b_18225001.qmd) | Budi (K3-02) | Belum dimulai | Menunggu sesi dijalankan |
+| 3b | [hasil_3b_18225001.qmd](UTS/hasil_3b_18225001.qmd) | Budi (K3-02) | Selesai dijalankan | Tidak ada bagian yang kurang. Transkrip U001 sampai U021, konfirmasi pada U021. Simulasi awal 10 giliran, uji ulang hipotetis lima giliran. Nilai resmi menunggu dosen |
