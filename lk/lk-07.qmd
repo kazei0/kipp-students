@@ -11,7 +11,7 @@ title: "Lembar Kerja Bab 07"
 Sebagai pencipta gagasan, pembuat program, atau pengembang teknologi, kita sangat mudah jatuh cinta pada solusi yang kita bangun. Kita berasumsi bahwa kecanggihan teknis dan panjangnya daftar fitur otomatis akan membuat orang lain tertarik. Namun, buku ajar kita mengingatkan sebuah kebenaran krusial:
 > **"Orang jarang tertarik pada kecanggihan solusi sebelum melihat hubungannya dengan persoalan yang sungguh mereka alami."** (Bab 7.1)
 
-Kesalahan komunikasi terbesar dalam tahap penumbuhan minat (*Interest*) adalah **Pembuangan Fitur (*Feature Dumping*)**—yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang telah diakui oleh sasaran komunikasi kita (Bab 7.12). 
+Kesalahan komunikasi terbesar dalam tahap penumbuhan minat (*Interest*) adalah **Pembuangan Fitur (*Feature Dumping*)**, yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang telah diakui oleh sasaran komunikasi kita (Bab 7.12). 
 
 Lembar kerja ini dirancang untuk membantu Anda melakukan **Detoks Fitur** (Bab 7.14): membuang fitur-fitur yang tidak relevan, menyederhanakan bahasa komunikasi, dan menerjemahkan kemampuan teknis menjadi **Nilai Rihat** yang dapat dipahami secara instan oleh peran penerima yang berbeda.
 
@@ -30,10 +30,10 @@ Sebelum memulai detoks, Anda harus mampu membedakan tiga lapisan pesan ini secar
 ### **Fase 1: Konteks Masalah Terkonfirmasi**
 Sebelum membedah solusi, tuliskan kembali **Pernyataan Masalah Pelanggan (*Customer Problem Statement*)** yang telah Anda konfirmasikan pada Bab 5. Solusi Anda harus "menempel" secara tepat pada masalah ini (Bab 7.6).
 
-*   **Siapa perannya?** (Contoh: Ibu-ibu pengelola kantin kampus)
-*   **Masalah konkret apa yang dialami?** (Contoh: Kewalahan mencatat pesanan sekaligus menjawab pertanyaan mahasiswa tentang status makanan saat jam sibuk)
-*   **Apa dampaknya?** (Contoh: Antrean menumpuk, kasir stres, mahasiswa terlambat masuk kelas karena ketidakpastian)
-*   **Kendala nyata apa yang harus dipertimbangkan?** (Contoh: Kasir tidak paham teknologi rumit, pemilik kantin sensitif terhadap biaya tambahan)
+*   **Siapa perannya?** Mahasiswa pengguna refill sebagai target utama, dan petugas pengisi atau teknisi gedung sebagai pelaksana.
+*   **Masalah konkret apa yang dialami?** Dari 9 pengecekan selama 3 hari pada satu unit refill di gedung kuliah, air kosong 5 kali, dan pukul 12.00 kosong pada ketiga harinya. Pengguna baru tahu unit kosong setelah sampai di depannya.
+*   **Apa dampaknya?** Mahasiswa kehilangan waktu istirahat untuk berjalan ke unit lain atau membeli air kemasan. Petugas hanya mengetahui masalah dari keluhan lisan, sehingga pola jam kosongnya tidak pernah terlihat.
+*   **Kendala nyata apa yang harus dipertimbangkan?** Mahasiswa enggan memasang aplikasi baru, petugas punya waktu terbatas, dan belum ada anggaran atau izin untuk memasang perangkat tambahan.
 
 ---
 
@@ -44,9 +44,10 @@ Tuliskan semua fitur yang ada pada rancangan solusi Anda, lalu bedah menggunakan
 |:--:|:---|:---|:---|:---|:---|
 | *Contoh* | *Estimasi waktu tunggu dinamis pada layar antrean.* | *Pengguna mengetahui kapan pesanan mereka akan selesai dimasak.* | * **Bagi Mahasiswa:** Kepastian waktu agar bisa makan tanpa terlambat masuk kuliah.<br>* **Bagi Kasir:** Mengurangi interupsi pertanyaan berulang dari antrean mahasiswa. | *Hasil uji coba pada 5 transaksi di jam sibuk.* | **PERTAHANKAN** (Sangat menempel pada masalah antrean dan interupsi kasir). |
 | *Contoh* | *Login akun menggunakan autentikasi multi-faktor media sosial.* | *Memudahkan pengguna masuk ke sistem dengan aman.* | *Tidak memberikan nilai langsung bagi kasir kantin maupun mahasiswa yang sedang terburu-buru.* | *Belum ada bukti relevansi bagi transaksi mikro kantin.* | **PANGKAS** (Beban bahasa yang tidak relevan bagi masalah utama). |
-| **1** | | | | | |
-| **2** | | | | | |
-| **3** | | | | | |
+| **1** | Stiker QR di unit refill yang membuka form satu pertanyaan (Ada air atau Kosong), dengan waktu laporan tercatat otomatis. | Pengguna melapor dan membaca status terakhir unit dalam beberapa detik tanpa memasang aplikasi. | * **Bagi Mahasiswa.** Tidak membuang jeda kuliah berjalan ke unit yang kosong.<br>* **Bagi Petugas.** Mengetahui unit yang bermasalah tanpa menunggu keluhan lisan. | Uji form dengan 3 sampai 5 mahasiswa dan perbandingan akurasi laporan dengan pengecekan saya sendiri. | **PERTAHANKAN** (Menempel langsung pada ketidakpastian status unit). |
+| **2** | Rekap jam kosong per hari dalam satu tabel sederhana. | Pola jam kosong yang berulang terlihat tanpa menghitung manual. | * **Bagi Petugas.** Dapat menggeser jam pengisian sebelum pukul 12.00.<br>* **Bagi Kepala Unit Sarana Prasarana.** Memiliki data sebelum diminta mengambil keputusan. | Rekap minimal 5 hari dan lebih dari satu unit. | **PERTAHANKAN** (Menjawab pertanyaan Minggu 6 tentang jadwal pengisian atau unit yang bermasalah). |
+| **3** | Notifikasi WhatsApp otomatis ke petugas setiap ada laporan kosong. | Petugas mengetahui laporan seketika. | Bagi petugas, berisiko menambah beban karena notifikasi bisa menumpuk pada jam ramai. | Petugas belum ditanya apakah mau menerima notifikasi. | **PANGKAS** (Ditunda sampai pola jam terbukti dan petugas menyetujuinya). |
+| **4** | Peta status seluruh titik refill kampus. | Semua titik terlihat sekaligus. | Tidak terhubung dengan masalah yang diakui target, karena pengamatan baru pada satu unit. | Belum ada bukti relevansi. | **PANGKAS** (Menambah beban bahasa tanpa menjawab masalah utama). |
 
 ---
 
@@ -71,27 +72,42 @@ Gunakan **5 Langkah Pitch Minat** berikut (Bab 7.7.2):
 > 
 > **Tulis jawaban Anda di sini:**
 > 
-> 
-> 
+> Mahasiswa pengguna refill di gedung kuliah mengalami unit refill yang kosong ketika mengisi botol pada jam ramai sekitar pukul 12.00, sehingga ia harus berjalan mencari unit lain atau membeli air kemasan di sela jeda kuliah yang singkat. Ia membutuhkan kepastian apakah sebuah unit berisi air sebelum berjalan ke sana, dengan mempertimbangkan bahwa ia tidak ingin memasang aplikasi baru dan petugas tidak punya waktu untuk mengecek semua unit.
 
 ### **Bagian 2: Matriks Detoks Fitur Anda**
 > *Gunakan tabel ini untuk memotong fitur-fitur yang hanya memuaskan ego pembuat tetapi tidak melayani kebutuhan pendengar.*
 
 | Nama Fitur | Manfaat Langsung | Nilai Relasional (Sebutkan Perannya) | Bukti yang Anda Miliki/Perlukan | Keputusan Anda (Pertahankan / Pangkas) |
 |:---|:---|:---|:---|:---|
-| **Fitur A:** | | | | |
-| **Fitur B:** | | | | |
-| **Fitur C:** | | | | |
+| **Fitur A:** Stiker QR di unit refill yang membuka form satu pertanyaan (Ada air atau Kosong), dengan waktu laporan tercatat otomatis. | Pengguna melapor dan membaca status terakhir unit dalam beberapa detik tanpa memasang aplikasi. | * **Bagi mahasiswa.** Tidak membuang jeda kuliah untuk berjalan ke unit yang kosong.<br>* **Bagi petugas.** Mengetahui unit yang bermasalah tanpa menunggu keluhan lisan. | Dimiliki, yaitu 9 pengecekan Minggu 6 (5 kosong, 3 di antaranya pukul 12.00). Diperlukan, yaitu uji form dengan 3 sampai 5 mahasiswa dan perbandingan akurasi laporan dengan pengecekan saya sendiri. | **PERTAHANKAN.** Menempel langsung pada ketidakpastian status unit. |
+| **Fitur B:** Rekap jam kosong per hari dalam satu tabel sederhana. | Pola jam kosong yang berulang terlihat tanpa menghitung manual. | * **Bagi petugas.** Dapat menggeser jam pengisian sebelum pukul 12.00.<br>* **Bagi kepala unit sarana prasarana.** Memiliki data sebelum diminta mengambil keputusan. | Dimiliki, yaitu pola 3 dari 3 hari kosong pada pukul 12.00 di satu unit. Diperlukan, yaitu rekap minimal 5 hari dan lebih dari satu unit. | **PERTAHANKAN.** Menjawab pertanyaan Minggu 6 tentang jadwal pengisian atau unit yang bermasalah. |
+| **Fitur C:** Notifikasi WhatsApp otomatis ke petugas setiap ada laporan kosong. | Petugas mengetahui laporan seketika. | Bagi petugas, berisiko menambah beban karena notifikasi bisa menumpuk pada jam ramai. | Belum ada. Petugas belum saya tanya apakah mau menerima notifikasi. | **PANGKAS.** Ditunda sampai pola jam terbukti dan petugas menyetujuinya. |
 
 *Catatan Etis: Menyembunyikan risiko atau keterbatasan solusi demi terlihat menarik adalah pelanggaran integritas profesional. Jika solusi Anda memiliki keterbatasan (misalnya: tidak berjalan lancar tanpa jaringan internet), sampaikan hal itu secara jujur. Kejujuran terhadap batas justru meningkatkan kredibilitas Anda (Bab 7.8, 9.8).*
+
+Batas solusi saya. Solusi ini tidak mengisi ulang air, hanya membuat status unit terlihat. Hasilnya hanya berguna bila cukup banyak orang melapor, dan pada minggu pertama datanya bisa belum akurat. Batas ini saya sampaikan sejak awal pitch, bukan setelah ditanya.
 
 ### **Bagian 3: Draf Pitch Minat 60 Detik**
 > *Tuliskan draf lisan Anda (maksimal 120 kata) berdasarkan 5 langkah Pitch Minat Bab 7:*
 > 
+> 1. **Hubungkan kembali dengan masalah.** "Waktu kita ngobrol soal refill, kamu bilang sering kehabisan air siang-siang. Dari 9 pengecekan saya, unit kosong 5 kali, 3 di antaranya pukul 12.00."
+> 2. **Perkenalkan kemungkinan solusi.** "Bagaimana kalau kita coba stiker QR di unit refill?"
+> 3. **Jelaskan mekanisme secara sederhana.** "Kamu pindai, pilih Ada air atau Kosong, selesai. Jam laporan tercatat sendiri dan laporan terakhir tampil di satu halaman tanpa pasang aplikasi."
+> 4. **Nyatakan manfaat dan nilai riil.** "Dengan begitu kamu tidak membuang jeda kuliah berjalan ke unit yang kosong, dan petugas bisa melihat jam kosong yang berulang tanpa mengecek semua unit."
+> 5. **Undang tanggapan dan nyatakan batas.** "Batasnya, ini hanya berguna kalau cukup banyak yang melapor. Maukah kamu mencoba melapor tiga hari di satu unit?"
 > 
-> 
-> 
-> 
+> **Jumlah kata.** 97 kata, di bawah batas 120 kata.
+
+#### Catatan Simulasi dan Umpan Balik Rekan
+
+**Simulasi 90 detik.** Saya menyampaikan pitch kepada rekan yang sama seperti pada Minggu 6, lalu menunjukkan prototipe form di ponsel. Rekan memindai QR dan mengisi Kosong, lalu melihat barisnya muncul di tabel. Ia menjawab, "Boleh sih dicoba, tapi kalau yang lapor cuma satu dua orang, aku bisa jalan ke unit yang katanya ada air padahal sudah kosong lagi." Observer lalu bertanya, "Bagian mana yang membuat kamu ragu?" dan rekan menjawab, "Bukan soal pindai QR-nya. Aku ragu laporannya sudah basi. Kalau tidak tahu jam berapa, aku tidak berani percaya."
+
+**Adaptasi.** Concern yang saya kira soal repot memindai ternyata soal keandalan laporan. Saya menambahkan penanda waktu laporan terakhir pada tampilan, dan laporan yang lebih dari 30 menit diberi tanda "mungkin sudah berubah". Saya juga mengubah janji dari "memberi kepastian" menjadi "memberi petunjuk terakhir yang dapat dipercaya".
+
+**Umpan balik rekan.**
+
+- "Saat kamu menyebut 5 dari 9 pengecekan, aku langsung ingat kehabisan air minggu lalu, jadi aku mau mendengar kelanjutannya."
+- "Saat kamu bilang solusinya hanya berguna kalau banyak yang melapor, aku jadi lebih percaya karena kamu tidak menjanjikan semuanya beres."
 
 ---
 
@@ -104,6 +120,17 @@ Setelah menyelesaikan lembar kerja ini, ujilah draf pitch Anda bersama rekan sej
 | **Kejelasan Mekanisme** | Menjejalkan daftar fitur teknis (terjadi *Feature Dumping*). | Cara kerja mulai dijelaskan tetapi masih didominasi jargon teknis. | Cara kerja dijelaskan secara ringkas dan mudah dibayangkan oleh pendengar awam. | Cara kerja sangat jernih, didukung analogi membumi atau prototipe yang siap dicoba. |
 | **Penerjemahan Nilai** | Manfaat/nilai dianggap sama saja bagi semua peran yang terlibat. | Mulai menyebutkan manfaat, tetapi belum membedakan nilai spesifik tiap peran. | Mampu menerjemahkan fitur menjadi nilai fungsional yang berbeda bagi tiap peran. | Nilai relasional disampaikan secara presisi dan bermakna bagi tanggung jawab spesifik sasaran. |
 | **Kejujuran & Batas** | Mengklaim solusi sempurna tanpa cela (janji berlebihan / *overpromise*). | Mengakui adanya batas kemampuan solusi tetapi hanya jika ditanya. | Menyatakan batas kemampuan dan risiko solusi secara terbuka dan realistis sejak awal. | Menunjukkan batas solusi secara ksatria serta menawarkan rencana mitigasi atau bukti pendukung. |
+
+**Hasil penilaian pitch saya**
+
+| Kriteria | Skor | Alasan |
+|:---|:---:|:---|
+| **Kecocokan (*Fit*)** | 3 | Solusi menempel spesifik pada pola jam kosong pukul 12.00 dan ketidakpastian status unit. Belum mencapai 4 karena kendala petugas belum saya konfirmasi langsung kepada petugas. |
+| **Kejelasan Mekanisme** | 4 | Cara kerja dijelaskan dalam dua langkah tanpa jargon, dan prototipe form bisa langsung dicoba rekan. |
+| **Penerjemahan Nilai** | 3 | Nilai dibedakan untuk mahasiswa, petugas, dan kepala unit di matriks. Belum mencapai 4 karena pitch utama baru diuji pada mahasiswa. |
+| **Kejujuran & Batas** | 4 | Batas solusi disebut sejak awal pitch dan disertai mitigasi berupa penanda waktu laporan serta uji coba tiga hari di satu unit. |
+
+**Total penilaian mandiri. 14/16.**
 
 ---
 *Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng.* (Bab 7.18)
