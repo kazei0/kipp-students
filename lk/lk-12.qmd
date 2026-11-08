@@ -11,20 +11,20 @@ Mata Kuliah: Komunikasi Interpersonal dan Publik: Membangun Relasi di Era AI
 
 ## PENGANTAR: ILUSI KESERAGAMAN VS. MODAL SOSIAL
 
-Dalam kehidupan komunitas, kita sering kali terjebak dalam ilusi bahwa untuk bekerja sama, semua orang harus memiliki keyakinan batin, nilai, atau pendapat yang sama. Ketika perbedaan tajam muncul, rapat warga atau komunitas sering kali berubah menjadi arena **Debat** (saling menyerang posisi untuk mencari pemenang) yang merusak **Modal Sosial**—yaitu jaringan kepercayaan, rasa hormat, dan norma timbal balik yang menjadi perekat utama komunitas.
+Dalam kehidupan komunitas, kita sering kali terjebak dalam ilusi bahwa untuk bekerja sama, semua orang harus memiliki keyakinan batin, nilai, atau pendapat yang sama. Ketika perbedaan tajam muncul, rapat warga atau komunitas sering kali berubah menjadi arena **Debat** (saling menyerang posisi untuk mencari pemenang) yang merusak **Modal Sosial**, yaitu jaringan kepercayaan, rasa hormat, dan norma timbal balik yang menjadi perekat utama komunitas.
 
-Lembar kerja ini dirancang untuk melatih peran Anda sebagai **Fasilitator** atau **Penggerak Komunitas** yang mampu memandu proses **Deliberasi**—sebuah proses komunikasi yang berpusat pada manusia untuk memahami perspektif batin yang berbeda, memindahkan fokus dari konflik posisi ke penyelarasan kepentingan, dan menyepakati tindakan bersama yang konkret serta adil.
+Lembar kerja ini dirancang untuk melatih peran Anda sebagai **Fasilitator** atau **Penggerak Komunitas** yang mampu memandu proses **Deliberasi**, yaitu sebuah proses komunikasi yang berpusat pada manusia untuk memahami perspektif batin yang berbeda, memindahkan fokus dari konflik posisi ke penyelarasan kepentingan, dan menyepakati tindakan bersama yang konkret serta adil.
 
 ---
 
 ## IDENTITAS KELOMPOK
-*   **Kasus/Isu Komunitas:** __________________________________________________
+*   **Kasus/Isu Komunitas:** Aturan pemakaian bersama unit refill air di gedung kuliah pada jam ramai (pukul 11.30 sampai 13.30), terutama pengisian dalam jumlah besar
 *   **Nama Anggota Kelompok (Peran):**
-    1.  ___________________________________ (Fasilitator)
-    2.  ___________________________________ (Peran Pemangku Kepentingan A: ______________)
-    3.  ___________________________________ (Peran Pemangku Kepentingan B: ______________)
-    4.  ___________________________________ (Peran Pemangku Kepentingan C: ______________)
-    5.  ___________________________________ (Peran Pemangku Kepentingan D: ______________)
+    1.  Kezia Josephine Manik (Fasilitator)
+    2.  Grasella (Peran Pemangku Kepentingan A: Mahasiswa pengguna harian)
+    3.  Rosianna (Peran Pemangku Kepentingan B: Petugas pengisi galon)
+    4.  Maura (Peran Pemangku Kepentingan C: Pengurus kegiatan mahasiswa)
+    5.  Pelangi (Peran Pemangku Kepentingan D: Pengelola gedung)
 
 ---
 
@@ -33,10 +33,10 @@ Sebelum memulai diskusi kelompok, petakan batin dan latar belakang masing-masing
 
 | Pemangku Kepentingan | Posisi Kaku (Tuntutan Eksplisit) | Fakta Objektif (Apa yang benar-benar terjadi/terlihat) | Interpretasi Subjektif (Apa narasi/asumsi batin mereka) | Nilai Hidup / Kebutuhan Dasar (Mengapa hal ini penting bagi mereka) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pihak A:**<br>*(Contoh: Warga Lansia)* | *"Taman harus ditutup total setelah jam 9 malam!"* | Taman menjadi tempat berkumpul anak muda hingga pukul 11 malam. | *"Anak muda zaman sekarang tidak punya sopan santun dan merusak ketertiban."* | Ketenangan istirahat, kesehatan fisik, rasa aman di hari tua. |
-| **Pihak B:**<br>*(Contoh: Remaja/Anak Muda)* | *"Jangan batasi jam taman, kami butuh ruang berkumpul!"* | Tidak ada ruang publik alternatif selain taman tersebut yang gratis. | *"Orang tua terlalu kaku dan selalu mencurigai aktivitas anak muda."* | Ruang ekspresi diri, koneksi sosial, kebebasan berekreasi. |
-| **Pihak C:**<br>*(Contoh: Pedagang Kecil)* | *"Kami bebas berjualan kapan saja di area dalam taman."* | Pendapatan harian dari pengunjung taman menyokong kebutuhan pokok keluarga. | *"Jika dilarang, mereka ingin mematikan mata pencaharian rakyat kecil."* | Kelangsungan hidup ekonomi keluarga, kemandirian finansial. |
-| **Pihak D:**<br>*(Contoh: Pengelola Taman)* | *"Kami tidak bertanggung jawab atas ketertiban malam hari."* | Anggaran pemeliharaan terbatas, tidak ada petugas keamanan malam. | *"Warga terlalu banyak menuntut tanpa mau berkontribusi menjaga taman."* | Efisiensi operasional, kepatuhan aturan, keterbatasan sumber daya. |
+| **Pihak A:**<br>*(Mahasiswa pengguna harian, Grasella)* | *"Batasi satu botol per orang pada jam makan siang!"* | Pada pengecekan fasilitator, unit kosong 5 dari 9 kali, dan pukul 12.00 kosong di ketiga harinya (satu unit, tiga hari). | *"Pasti ada yang mengisi banyak botol sekaligus sampai air habis."* | Akses yang adil dan kepastian air di jeda kuliah yang singkat. |
+| **Pihak B:**<br>*(Petugas pengisi galon, Rosianna)* | *"Kami mengisi sesuai jadwal tetap. Kalau mau lebih sering, tambah petugas."* | Pengisian mengikuti jadwal yang ditetapkan pihak lain, dan galon berat harus diangkat oleh petugas yang jumlahnya terbatas. | *"Setiap unit yang kosong akan dianggap kesalahan kami."* | Keselamatan kerja, beban yang terkendali, dan rasa dihargai atas pekerjaan berat. |
+| **Pihak C:**<br>*(Pengurus kegiatan mahasiswa, Maura)* | *"Jangan batasi jumlah botol, kegiatan kami butuh banyak air!"* | Menjelang acara, panitia mengisi beberapa botol sekaligus untuk peserta karena belum ada air yang disediakan khusus untuk kegiatan. | *"Mahasiswa lain menuduh kami menghabiskan air, padahal kami hanya menyiapkan kegiatan kampus."* | Kelancaran kegiatan organisasi dan hemat biaya membeli air kemasan. |
+| **Pihak D:**<br>*(Pengelola gedung, Pelangi)* | *"Kami tidak bertanggung jawab atas pola pemakaian, dan tidak ada anggaran untuk unit atau petugas tambahan."* | Anggaran pemeliharaan terbatas dan belum ada data pemakaian per jam. | *"Pengguna terlalu banyak menuntut tanpa mau ikut menjaga fasilitas."* | Tata kelola yang tertib dan penggunaan anggaran yang dapat dipertanggungjawabkan. |
 
 ---
 
@@ -52,8 +52,8 @@ Sebelum memulai diskusi kelompok, petakan batin dan latar belakang masing-masing
 ### **Draf Bingkai Masalah Bersama Kelompok Anda:**
 Sempurnakan kalimat masalah bersama yang akan didebatkan dalam sesi deliberasi kelompok Anda:
 > *"Bagaimana kita bisa..."*
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
+> memastikan air refill tersedia secara adil bagi semua pengguna pada jam ramai, sekaligus memberi ruang bagi kegiatan yang membutuhkan banyak air,
+> tanpa menambah beban petugas dan tanpa menyalahkan satu kelompok sebelum penyebab unit kosong diketahui?
 
 ---
 
@@ -67,40 +67,40 @@ Fasilitator memiliki tanggung jawab mutlak untuk menjaga keadilan proses komunik
     *   *“Saya mendengar bahwa yang Anda butuhkan sebenarnya adalah rasa aman terhadap pendapatan keluarga Anda, benarkah demikian?”*
 
 ### **Catatan Observasi Jalannya Deliberasi (Diisi oleh Fasilitator):**
-*   *Siapa pemangku kepentingan yang paling dominan di awal?* ___________________________________
-*   *Siapa pemangku kepentingan yang paling pasif/diam?* _______________________________________
+*   *Siapa pemangku kepentingan yang paling dominan di awal?* Pihak A (mahasiswa pengguna harian, Grasella)
+*   *Siapa pemangku kepentingan yang paling pasif/diam?* Pihak B (petugas pengisi galon, Rosianna)
 *   *Bagaimana cara Anda memunculkan suara yang sunyi tersebut?*
-    __________________________________________________________________________________________
-    __________________________________________________________________________________________
+    Saya mengubah diskusi menjadi putaran bergiliran dengan waktu dua menit untuk tiap pihak, lalu menyapa petugas secara langsung dengan pertanyaan apa yang paling ia khawatirkan jika opsi ini dijalankan.
+    Setelah ia menjawab, saya memparafrasa kalimatnya menjadi kebutuhan dasar, yaitu tidak disalahkan atas jadwal yang bukan ia yang menentukan, dan menanyakan apakah parafrasa itu tepat.
 
 ---
 
 ## FASE 4: MERANCANG KESEPAKATAN PILOT (PILOT AGREEMENT) UNTUK BELAJAR
-Ketika para pemangku kepentingan memiliki kekhawatiran dan prediksi risiko yang bertolak belakang, jangan paksa mereka menyetujui kebijakan permanen yang menakutkan. Rancanglah sebuah **Pilot Project**—sebuah kesepakatan jangka pendek yang terukur sebagai wadah untuk belajar bersama di lapangan.
+Ketika para pemangku kepentingan memiliki kekhawatiran dan prediksi risiko yang bertolak belakang, jangan paksa mereka menyetujui kebijakan permanen yang menakutkan. Rancanglah sebuah **Pilot Project**, yaitu sebuah kesepakatan jangka pendek yang terukur sebagai wadah untuk belajar bersama di lapangan.
 
 ### **Formulir Desain Kesepakatan Pilot Komunitas:**
 
 1.  **Nama Program Uji Coba (Pilot):**
-    __________________________________________________________________________________________
+    Pilot Jam Ramai Refill, yaitu penggeseran jadwal isi ulang sebelum pukul 12.00 dan pemesanan pengisian jumlah besar di luar pukul 11.30 sampai 13.30
 2.  **Durasi Eksperimen (Maksimal 2-4 minggu):**
-    *   Tanggal Mulai: _______________ s/d Tanggal Selesai: _______________
+    *   Tanggal Mulai: Senin, 23 November 2026 s/d Tanggal Selesai: Jumat, 4 Desember 2026
 3.  **Tindakan Nyata dan Pembagian Tanggung Jawab (Formula Presisi):**
     *   **Siapa** melakukan **Apa**, **Kapan**, dan apa **Definisi Selesai**-nya?
     
 | Peran/Pihak | Tindakan Nyata yang Disepakati | Tenggat Waktu | Definisi Selesai & Indikator Keberhasilan |
 | :--- | :--- | :--- | :--- |
-| **Pihak A:** | | | |
-| **Pihak B:** | | | |
-| **Pihak C:** | | | |
-| **Pihak D:** | | | |
+| **Pihak A:** Mahasiswa pengguna harian (Grasella) | Melapor status unit lewat QR setiap kali memakai unit, dan menyampaikan keluhan lewat form, bukan menegur pengguna lain secara langsung. | Senin, 23 November sampai Jumat, 4 Desember 2026 | Tabel memuat sedikitnya satu laporan pada 8 dari 10 hari kuliah, dan tidak ada teguran langsung yang dicatat di form. |
+| **Pihak B:** Petugas pengisi galon (Rosianna) | Mengisi ulang unit utama sebelum pukul 12.00 pada hari kuliah, bila jadwal dapat digeser, dan menyampaikan hambatannya pada review. | Senin, 23 November sampai Jumat, 4 Desember 2026 | Unit utama tercatat Ada air pada pengecekan pukul 12.00 di sedikitnya 7 dari 10 hari kuliah, atau petugas menyebut hambatannya pada review. |
+| **Pihak C:** Pengurus kegiatan mahasiswa (Maura) | Memesan pengisian lebih dari tiga botol lewat form minimal satu hari sebelumnya, dan mengisinya di luar pukul 11.30 sampai 13.30. | Mulai Senin, 23 November 2026 | Semua pengisian lebih dari tiga botol oleh kegiatan selama pilot tercatat di form pemesanan dan dilakukan di luar pukul 11.30 sampai 13.30. |
+| **Pihak D:** Pengelola gedung (Pelangi) | Menerbitkan izin tertulis pilot beserta form pemesanan, dan memasang satu pengumuman netral yang tidak menyebut kelompok mana pun. | Jumat, 20 November 2026, pukul 15.00 | Izin tertulis sudah diterima Kezia dan pengumuman terpasang sebelum Senin, 23 November 2026. |
 
 4.  **Perlindungan Risiko (Batas Toleransi Dampak Buruk):**
     *   *Apa risiko terbesar yang dikhawatirkan warga selama uji coba ini?*
-        ______________________________________________________________________________________
+        Kegiatan mahasiswa terhambat karena tidak bisa mengisi pada jam ramai, dan pengguna lain merasa dituduh sebagai penyebab unit kosong.
     *   *Apa tindakan darurat (tombol darurat) jika batas toleransi risiko tersebut terlewati di tengah jalan?*
-        ______________________________________________________________________________________
+        Bila satu kegiatan terhambat atau ada dua keluhan tertulis dari pihak berbeda, pilot dihentikan pada hari itu juga lewat satu pesan "berhenti" kepada fasilitator, dan aturan kembali seperti semula sampai review.
 5.  **Jadwal Evaluasi Bersama (Kapan semua pihak akan duduk kembali untuk meninjau data hasil uji coba?):**
-    *   Hari/Tanggal: _______________________ Waktu & Tempat: _______________________
+    *   Hari/Tanggal: Jumat, 4 Desember 2026 Waktu & Tempat: pukul 16.00, ruang diskusi di gedung kuliah
 
 ---
 
@@ -109,21 +109,21 @@ Keberhasilan pengelolaan komunitas diukur dari dua jalur secara seimbang. Isilah
 
 ### **1. JALUR TUGAS (Task Outcome): Skor Mandiri (1 - 5)**
 Apakah kesepakatan pilot yang dirancang realistis, terukur, adil, dan mampu mengatasi akar masalah bersama?
-*   [ ] **Skor: ___ / 5**
-*   *Justifikasi Bukti:* ________________________________________________________________________
+*   [x] **Skor: 4 / 5**
+*   *Justifikasi Bukti:* Empat tindakan memiliki satu penanggung jawab, tanggal, dan indikator yang dapat diperiksa, dan pilot menggeser jadwal serta memisahkan pengisian besar tanpa menyimpulkan siapa penyebabnya. Belum mencapai 5 karena penyebab unit kosong belum diketahui dan hasil pilot belum ada.
 
 ### **2. JALUR RELASI (Relationship Outcome): Skor Mandiri (1 - 5)**
 Apakah selama proses negosiasi, rasa hormat, kenyamanan emosional, kebebasan memilih, dan martabat batin masing-masing pihak tetap terjaga dengan utuh? Apakah mereka siap bekerja sama kembali di masa depan?
-*   [ ] **Skor: ___ / 5**
-*   *Justifikasi Bukti:* ________________________________________________________________________
+*   [x] **Skor: 4 / 5**
+*   *Justifikasi Bukti:* Tidak ada pihak yang ditunjuk sebagai penyebab, petugas yang pasif mendapat giliran bicara, dan keberatan pengurus kegiatan tentang pemesanan sehari sebelumnya dicatat sebagai dissent. Belum mencapai 5 karena pada awal sesi Pihak A mendominasi dan baru berimbang setelah putaran bergiliran.
 
 ---
 
 ### **Pernyataan Penggunaan AI secara Bertanggung Jawab (AI Transparency Statement)**
 *Petunjuk: Jika Anda menggunakan bantuan AI (seperti chatbot) dalam menyusun kalimat reframing, menganalisis peran, atau menyusun draf kesepakatan ini, deklarasikan secara jujur di bawah ini.*
 
-*   *Apakah kelompok Anda menggunakan AI dalam persiapan lembar kerja ini?* **[Ya / Tidak]**
+*   *Apakah kelompok Anda menggunakan AI dalam persiapan lembar kerja ini?* **[Ya]**
 *   *Jika Ya, apa peran AI dalam membantu kelompok Anda? (Contoh: Menyarankan alternatif kalimat reframing kolaboratif)*
-    __________________________________________________________________________________________
+    AI menyarankan alternatif kalimat reframing dan daftar awal opsi, serta memeriksa apakah ringkasan kesepakatan menghilangkan dissent. Transkrip percakapan dengan nama asli tidak saya unggah.
 *   *Bagian mana dari saran AI yang akhirnya Anda tolak atau sunting karena tidak sesuai dengan konteks kemanusiaan riil kelompok Anda?*
-    __________________________________________________________________________________________
+    Saya menolak saran menjadikan batas satu botol per orang sebagai opsi unggulan, karena sulit ditegakkan dan menempatkan kegiatan mahasiswa sebagai pihak yang bersalah padahal penyebab unit kosong belum diketahui. Saya juga menyunting bingkai masalah agar tidak menyebut kelompok mana pun.
