@@ -1,9 +1,9 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
+status: "Siap dinilai"
+self_score: "18/20"
+assessor_score: "Belum dinilai"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
 ---
@@ -18,8 +18,52 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 - Options dan trade-off yang dibahas.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Desire–action gap
 
-{{< include ../includes/evidence-template.md >}}
+Pada Minggu 9, target menyatakan ingin tahu unit terdekat yang masih ada air dan bersedia mengikuti pilot, tetapi belum ada yang bertindak. Percakapan penemuan pada 4 November 2026 menunjukkan barrier berikut.
+
+| Barrier | Person dengan authority | Respons |
+| :--- | :--- | :--- |
+| Izin menempel stiker QR di unit refill | Pengelola gedung atau kepala sarana prasarana | Harus menyetujui sebelum QR dipasang |
+| Kesediaan melapor selama pilot | Target (rekan sekelas) | Dapat memutuskan sendiri seberapa sering ia melapor |
+| Pengecekan tiga titik pada pukul 10.00, 12.00, dan 14.00 | Saya | Dapat mengerjakan di sela jadwal kuliah |
+| Waktu petugas untuk membaca rekap | Petugas pengisi atau teknisi gedung | Belum dilibatkan, jadi di luar scope pilot |
+
+Saya sempat mengira rekan saya dapat "menyetujui" penempelan stiker, padahal ia pengguna, bukan pemilik unit. Authority atas pemasangan ada pada pengelola gedung, sehingga stiker ditunda dan pilot memakai QR yang dikirim lewat pesan.
+
+## Options dan trade-off
+
+1. **Pilot 3 hari, 1 unit utama dan 2 titik pembanding, QR lewat pesan.** Evidence terbatas, tetapi risiko dan beban rendah dan tidak butuh izin.
+2. **Pilot 2 minggu, stiker di 3 unit.** Evidence lebih kuat, tetapi butuh izin pengelola gedung dan lebih banyak pelapor.
+3. **Pengecekan manual tanpa QR.** Cepat, tetapi tidak menguji mekanisme pelaporan.
+
+Target memilih opsi 1 dengan dua syarat, yaitu tidak ada nama, NIM, atau email di form dan ia boleh berhenti kapan saja.
+
+## Agreement eksplisit
+
+> **Scope.** Satu unit refill di gedung kuliah dan dua titik pembanding, Selasa 10 sampai Kamis 12 November 2026, pada pukul 10.00, 12.00, dan 14.00.  
+> **Owner.** Saya membuat form, QR, dan tabel serta mengecek tiga titik refill. Rekan saya mengirim satu laporan uji dan melapor status unit utama setiap kali ia memakainya.  
+> **Deadline.** Form dan QR siap Sabtu 7 November pukul 20.00, uji coba rekan Minggu 8 November pukul 12.00, dan review Jumat 13 November pukul 16.00.  
+> **Evidence.** 27 catatan pengecekan saya, laporan rekan, dan catatan "tidak memakai unit" pada hari ia tidak memakai unit.  
+> **Stop rule.** Pilot dihentikan bila rekan saya mengirim kata "berhenti", bila ada nama, NIM, atau email yang tersimpan di form, atau bila pengelola gedung meminta QR dihentikan.  
+> **Review.** Jumat 13 November 2026 pukul 16.00, dengan threshold yang sudah disepakati pada Minggu 9 (laporan cocok dengan pengecekan saya minimal 7 dari 9).
+
+## Action evidence dan adaptation
+
+Pada uji coba form, rekan saya mengirim satu laporan dan menyampaikan bahwa pilihan Kosong membingungkan bila kerannya macet padahal air ada. Saya menambah pilihan Rusak pada form, sehingga laporan bisa membedakan unit yang airnya habis dari unit yang bermasalah. Perubahan ini sejalan dengan pertanyaan dari Minggu 6, yaitu apakah masalahnya jadwal pengisian atau unit yang bermasalah.
+
+Bukti action yang saya simpan adalah tangkapan layar form sebelum dan sesudah penambahan pilihan Rusak, tangkapan layar pengaturan yang mematikan pengumpulan nama, NIM, dan email, serta tabel status dengan kolom jam laporan. Checkpoint pada 5 November juga menemukan bahwa tabel awal belum menampilkan jam laporan, dan itu diperbaiki sebelum tenggat.
+
+AI dipakai untuk menyusun draf agreement dan memeriksa kata yang masih kabur. Izin pemasangan stiker tetap menjadi wewenang pengelola gedung, bukan AI maupun rekan saya.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+| :--- | :---: | :--- |
+| Person & Character | 3 | Authority dan responsibility tiap person dibedakan, dan kekeliruan soal siapa yang berwenang atas stiker dikoreksi |
+| Objective & State | 4 | Desire–action gap dipetakan menjadi empat barrier konkret dengan person yang berwenang |
+| Repertoire, Language & AI | 3 | Tiga opsi dan trade-off dijelaskan proporsional, dan kata kabur diperiksa dengan bantuan AI |
+| Response & Adaptation | 4 | Catatan rekan tentang pilihan Kosong mengubah form dengan menambah pilihan Rusak |
+| Agreement, Action & Relationship | 4 | Scope, owner, deadline, evidence, stop rule, dan review lengkap, dengan hak rekan untuk berhenti dan tidak melapor |
+
+**Total: 18/20, Lanjut.**
