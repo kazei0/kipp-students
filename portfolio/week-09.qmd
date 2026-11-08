@@ -1,9 +1,9 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
+status: "Siap dinilai"
+self_score: "18/20"
+assessor_score: "Belum dinilai"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
 ---
@@ -18,8 +18,47 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Current dan desired state
 
-{{< include ../includes/evidence-template.md >}}
+| Elemen | Rumusan target, bukan asumsi saya |
+| :--- | :--- |
+| Current state | Target sering sampai di unit refill yang kosong, lalu berpindah ke unit lain tanpa tahu apakah di sana ada air. Pada 9 pengecekan saya, unit kosong 5 kali |
+| Desired state | Target tahu unit terdekat yang masih ada air sebelum berjalan, sehingga cukup berjalan sekali |
+| Value | Jeda kuliah yang singkat tidak habis untuk mondar-mandir, dan target mendapat kepastian arah, bukan kepastian air selalu ada |
+| Acceptable risk | Pilot tiga hari pada satu unit tanpa biaya dan tanpa aplikasi, dapat dihentikan target kapan saja, dan laporan dianggap petunjuk, bukan jaminan |
+| Evidence threshold | Laporan pilot cocok dengan pengecekan saya pada pukul 10.00, 12.00, dan 14.00 di sebagian besar pengecekan (saya tetapkan minimal 7 dari 9), dan target merasa tidak berjalan dua kali pada hari pilot |
+
+Desired state di atas bukan rumusan awal saya. Draf awal saya adalah "target tahu status unit sebelum berjalan", dan rumusan akhir muncul dari jawaban target pada percakapan di bawah.
+
+## Feature–benefit–value–outcome chain
+
+`QR ke form status` → target melapor dan membaca status terakhir beserta waktunya → target tahu unit mana yang berisi sebelum berjalan → target berjalan sekali ke unit yang tepat → jeda kuliah tidak habis di jalan.
+
+Saya tidak menyatakan chain itu pasti. Setiap panah adalah hypothesis yang perlu diuji, dan panah yang paling lemah adalah dari melapor ke laporan yang cukup banyak dan baru, karena bergantung pada kemauan orang lain untuk melapor.
+
+## Percakapan dan response
+
+> **Saya:** "Jika pilot ini berhasil, keadaan apa yang ingin Kamu lihat?"  
+> **Target:** "Bukan sekadar tahu unitnya kosong atau tidak. Aku mau tahu unit terdekat mana yang masih ada air, biar nggak jalan dua kali."  
+> **Saya:** "Berarti rancangan saya yang hanya menampilkan satu unit belum cukup, walaupun cara melapornya sudah mudah?"  
+> **Target:** "Iya, begitu."
+
+Saya mengubah solution. Halaman status sekarang memuat juga dua titik pembanding yang disebut target pada Minggu 6, dengan laporan dari pengecekan saya sendiri pada pukul 10.00, 12.00, dan 14.00 selama pilot. Sumber tiap laporan ditandai jelas, yaitu "dilapor pengguna" atau "dicek penulis". Peta seluruh kampus tetap saya pangkas. Desired state berubah dari "kepastian status satu unit" menjadi "tahu unit terdekat yang berisi".
+
+## Risk dan evidence
+
+Risiko utama adalah laporan yang sedikit atau sudah basi. Safeguard yang saya pakai adalah waktu laporan yang tampil jelas, tanda "mungkin sudah berubah" untuk laporan lebih dari 30 menit, dan keputusan berjalan atau tidak yang tetap di tangan pengguna. Target menyetujui pilot tiga hari pada satu unit dengan dua titik pembanding, bukan pemasangan permanen. Izin pemasangan stiker belum saya minta dan baru saya ajukan ke pengelola gedung bila hasil pilot mencapai threshold.
+
+AI dipakai untuk menguji lompatan logika pada chain dan menyiapkan tiga skenario keberatan. Saya tidak memasukkan klaim persentase pengurangan perjalanan sia-sia karena belum ada hasil pilot.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+| :--- | :---: | :--- |
+| Person & Character | 4 | Desired state memakai bahasa dan value target sendiri, dan menggantikan asumsi awal saya |
+| Objective & State | 4 | Current/desired state, acceptable risk, dan evidence threshold dinyatakan eksplisit dan terukur |
+| Repertoire, Language & AI | 3 | Chain disajikan sebagai hypothesis, satu alur didemonstrasikan, tetapi belum memakai analogi |
+| Response & Adaptation | 4 | Jawaban target tentang unit alternatif mengubah isi halaman status dan desired state |
+| Agreement, Action & Relationship | 3 | Pilot tiga hari disepakati tanpa memaksa, tetapi belum ada keputusan pemasangan permanen |
+
+**Total: 18/20, Lanjut.**
