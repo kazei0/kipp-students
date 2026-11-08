@@ -4,27 +4,27 @@ title: "Lembar Kerja Bab 11"
 
 # Lembar Kerja Praktis: Peta Pemangku Kepentingan & Deliberasi Banyak Pihak
 *Mata Kuliah: Komunikasi Interpersonal dan Publik: Membangun Relasi di Era AI*
-*Topik: Bab 11 — Negosiasi Banyak Pihak: Mencari Kesepakatan yang Dapat Diterima (Kuliah 11)*
+*Topik: Bab 11 – Negosiasi Banyak Pihak: Mencari Kesepakatan yang Dapat Diterima (Kuliah 11)*
 
 ---
 
 ## 👥 Identitas Simulasi & Kelompok
-* **Nama Projek/Skenario Kasus:** [Contoh: Modernisasi Sistem Layanan Kantin Kampus]
-* **Nama Kelompok / Kelas:** ________________________ / __________
+* **Nama Projek/Skenario Kasus:** Perluasan pilot pelaporan status unit refill air di gedung kuliah (izin stiker QR dan aturan pemakaian data laporan)
+* **Nama Kelompok / Kelas:** Kelompok Refill Air / K-01
 * **Anggota Kelompok & Peran yang Dimainkan:**
-  1. ________________________ (Peran: Fasilitator / Moderator Meja Bundar)
-  2. ________________________ (Peran: Pemangku Kepentingan A - ________________________)
-  3. ________________________ (Peran: Pemangku Kepentingan B - ________________________)
-  4. ________________________ (Peran: Pemangku Kepentingan C - ________________________)
-  5. ________________________ (Peran: Pemangku Kepentingan D - ________________________)
-  6. ________________________ (Peran: Pemangku Kepentingan E - ________________________)
+  1. Kezia Josephine Manik (Peran: Fasilitator / Moderator Meja Bundar)
+  2. Grasella (Peran: Pemangku Kepentingan A - Mahasiswa pengguna refill)
+  3. Rosianna (Peran: Pemangku Kepentingan B - Petugas pengisi galon gedung kuliah)
+  4. Maura (Peran: Pemangku Kepentingan C - Teknisi pemeliharaan unit refill)
+  5. Pelangi (Peran: Pemangku Kepentingan D - Kepala sarana prasarana / pengelola gedung)
+  6. Winda (Peran: Pemangku Kepentingan E - Pedagang air kemasan di kantin gedung)
 
 ---
 
 ## 🎯 Esensi Pembelajaran Bab 11
 Di dunia kerja nyata, keputusan besar tidak pernah terjadi dalam ruang hampa satu-lawan-satu. Anda akan berhadapan dengan **jaring pemangku kepentingan (stakeholders)** yang memiliki posisi, batasan wewenang, kendala, dan nilai batin yang saling bertabrakan. 
 
-Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliberasi**—sebuah proses komunikasi kolaboratif untuk mencari tindakan bersama secara jujur, bertanggung jawab, dan bermartabat, alih-alih melakukan debat kusir demi mencari siapa yang menang atau kalah.
+Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliberasi**, yaitu sebuah proses komunikasi kolaboratif untuk mencari tindakan bersama secara jujur, bertanggung jawab, dan bermartabat, alih-alih melakukan debat kusir demi mencari siapa yang menang atau kalah.
 
 ---
 
@@ -35,11 +35,11 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 
 | Pemangku Kepentingan | 🛑 POSISI (Tuntutan Kaku/Solusi Sepihak yang Disuarakan) | 🔑 KEPENTINGAN (Kebutuhan Batin, Rasa Aman, atau Harapan Nyata) | ⚠️ KENDALA & BATASAN (Wewenang, Anggaran, Waktu, Aturan) | 💎 NILAI (Mengapa masa depan ini berharga bagi perannya?) | 📈 Keadaan TAIDA Awal (T / A / I / D / A)* |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **A: Pengguna** *(Contoh: Mahasiswa)* | "Semua pemesanan harus digital, cepat, dan ada diskon promo lewat aplikasi." | Kecepatan antrean pada jam makan siang; kepastian mendapatkan porsi makanan. | Uang saku harian terbatas; kuota internet tidak stabil di area kantin bawah. | Kepastian waktu agar tidak terlambat masuk kuliah berikutnya. | **Interest (I)** *(Sangat tertarik solusi digital tapi belum berkomitmen)* |
-| **B: Pelaksana** *(Contoh: Pemilik Warung)* | "Tetap pakai sistem tunai biasa. Jangan pakai sistem baru yang bikin pusing." | Beban kerja harian tetap terkendali; tidak kehilangan pelanggan karena gaptek. | Harus memasak sekaligus melayani kasir; modal harian harus cair tunai hari itu juga. | Ketenangan kerja dan kelangsungan pendapatan harian warung. | **Attention (A)** *(Sadar antrean adalah masalah, tapi skeptis pada solusi digital)* |
-| **C: Tim Teknis** *(Contoh: Developer Sistem)* | "Aplikasi harus rilis penuh minggu depan dengan database terpusat." | Sistem berjalan andal, tanpa bug, dan arsitektur data aman terkendali. | Waktu pengembangan sangat mepet; keterbatasan server lokal kampus. | Reputasi profesional dan keandalan sistem yang mereka rancang. | **Desire (D)** *(Sangat ingin sistem segera dipakai penuh)* |
-| **D: Pengelola** *(Contoh: Manajemen Kampus)* | "Sistem baru wajib memotong biaya sewa kantin 5% sebagai retribusi." | Laporan keuangan kantin transparan dan akuntabel; ketertiban area kampus terjaga. | Terikat aturan birokrasi kampus; harus menjaga stabilitas sosial kantin. | Transparansi tata kelola dan reputasi kampus yang modern. | **Attention (A)** *(Sadar perlunya efisiensi, tapi hati-hati pada gejolak sosial)* |
-| **E: Pihak Terdampak** *(Contoh: Kasir Manual)* | "Batalkan sistem otomatisasi pemesanan." | Keamanan pekerjaan; rasa dihargai oleh lingkungan tempat bekerja selama bertahun-tahun. | Kurang memiliki keahlian teknis komputerisasi; usia produktif terbatas. | Jaminan mata pencaharian untuk menghidupi keluarga. | **Target (T)** *(Defensif; merasa terancam dan tidak dilibatkan sejak awal)* |
+| **A: Pengguna** *(Mahasiswa pengguna refill)* | "Pasang QR di semua unit mulai minggu depan, dan status harus terlihat langsung." | Tahu unit terdekat yang berisi air sebelum berjalan, sehingga tidak berjalan dua kali di jeda kuliah. | Jeda kuliah singkat; tidak mau memasang aplikasi, mengisi data pribadi, atau melapor setiap hari. | Jeda kuliah cukup untuk makan atau ke kelas berikutnya tanpa mondar-mandir mencari air. | **Desire (D)** *(Sangat ingin tahu unit yang berisi, tetapi belum mau berkomitmen melapor rutin)* |
+| **B: Pelaksana** *(Petugas pengisi galon)* | "Tidak perlu ada QR atau rekap. Kalau kosong, kami isi ulang kalau ditelepon." | Tidak disalahkan atas unit yang kosong dan tidak menambah pekerjaan di jam ramai. | Jadwal isi ulang tetap dan ditetapkan pihak lain; tenaga terbatas; tidak memegang ponsel kerja; galon berat. | Rasa dihargai atas pekerjaan berat dan beban kerja yang tetap terkendali. | **Attention (A)** *(Sadar ada keluhan, tetapi belum melihat pola jam dan defensif soal dipantau)* |
+| **C: Tim Teknis** *(Teknisi pemeliharaan unit refill)* | "Unit yang rusak harus dilaporkan lewat kanal resmi kami, bukan lewat form mahasiswa." | Laporan kerusakan lengkap dan akurat supaya perbaikan sekali jalan, tanpa banjir laporan yang tidak jelas. | Hanya menerima laporan lewat kanal resmi; tenaga terbatas; perbaikan menunggu suku cadang. | Keandalan unit dan reputasi pemeliharaan yang rapi. | **Target (T)** *(Belum tahu ada pilot dan belum pernah menerima laporan dari mahasiswa)* |
+| **D: Pengelola** *(Kepala sarana prasarana / pengelola gedung)* | "Tidak boleh ada stiker atau QR baru di fasilitas gedung tanpa izin tertulis." | Fasilitas tetap rapi dan aman, data mahasiswa tidak bocor, dan keluhan layanan berkurang tanpa menambah tanggung jawab baru. | Terikat aturan penggunaan fasilitas kampus; tidak punya anggaran untuk sistem baru; ada prioritas lain. | Reputasi layanan gedung dan tata kelola yang tertib. | **Target (T)** *(Belum melihat data pengecekan dan belum diajak bicara)* |
+| **E: Pihak Terdampak** *(Pedagang air kemasan di kantin gedung)* | "Jangan promosikan refill sebagai pengganti air kemasan." | Penjualan harian tidak turun dan tidak merasa dijadikan lawan oleh program ini. | Pendapatan bergantung pada penjualan botol saat unit refill kosong; tidak punya wewenang atas unit. | Penghasilan harian dan hubungan baik dengan mahasiswa. | **Target (T)** *(Defensif dan merasa tidak dilibatkan sejak awal)* |
 
 *\*Keterangan Keadaan TAIDA Awal:*
 * **Target (T):** Belum tahu atau menolak berkomunikasi.
@@ -50,7 +50,7 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 
 ---
 
-## 📌 BAGIAN 2: Proses Deliberasi — Menggali Kepentingan Tersembunyi (The Hidden Agenda)
+## 📌 BAGIAN 2: Proses Deliberasi – Menggali Kepentingan Tersembunyi (The Hidden Agenda)
 *Petunjuk: Fasilitator memimpin diskusi meja bundar selama 10 menit pertama. Fasilitator dilarang langsung menawarkan solusi kompromi. Fokus utama adalah menggunakan teknik mendengarkan tiga tingkat (Kata, Makna, Pribadi) untuk membedakan Posisi dari Kepentingan yang sebenarnya.*
 
 ### **Daftar Pertanyaan Penyelidikan Fasilitator (Saran Repertoar):**
@@ -59,10 +59,10 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 3. *"Adakah kekhawatiran mengenai risiko, biaya, atau usaha ekstra yang belum sempat Anda suarakan kepada kami?"*
 
 ### **Catatan Temuan Kepentingan Tersembunyi (Diisi oleh Fasilitator):**
-* **Temuan pada Pemilik Warung:** Keberatan mereka bukan pada digitalisasinya, melainkan ketakutan jika uang hasil penjualan ditahan sistem selama berminggu-minggu, padahal mereka butuh modal tunai setiap pagi untuk membeli bahan masakan segar di pasar.
-* **Temuan pada Kasir Manual:** Ketakutan batin terdalam mereka adalah di-PHK (kehilangan pekerjaan) akibat digantikan oleh mesin otomatis, bukan karena mereka menolak teknologi.
-* **Temuan lainnya:** __________________________________________________________________________________________
-  __________________________________________________________________________________________
+* **Temuan pada Petugas Pengisi Galon:** Keberatan mereka bukan pada QR atau form, melainkan ketakutan bahwa rekap jam kosong dibaca sebagai bukti mereka lalai. Padahal jadwal isi ulang tidak mereka tentukan, dan mereka merasa akan menjadi pihak yang disalahkan.
+* **Temuan pada Pedagang Air Kemasan:** Ketakutan terdalam mereka adalah penjualan botol turun saat refill diandalkan, bukan penolakan terhadap refill itu sendiri.
+* **Temuan lainnya:** Pengelola gedung tidak menolak QR, tetapi ingin jelas siapa yang bertanggung jawab bila data bocor atau stiker merusak dinding, dan izinnya harus tertulis.
+  Teknisi hanya ingin laporan kerusakan dipisahkan dari laporan unit kosong dan masuk lewat satu kanal, bukan satu per satu.
 
 ---
 
@@ -70,15 +70,15 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 *Petunjuk: Di tahap ini, seluruh anggota kelompok dilarang keras mengkritik, memotong, atau menilai kelayakan ide yang masuk. Tuliskan sebanyak mungkin alternatif solusi kreatif yang mampu mempertemukan kepentingan-kepentingan yang tampaknya bertolak belakang di atas.*
 
 ### **Kotak Pasir Ide (Ideation Sandbox)**
-* **Ide Alternatif 1 (Menjembatani Pemilik Warung & Mahasiswa):** 
-  Sistem pembayaran digital dikonfigurasi agar melakukan transfer otomatis (*auto-settlement*) langsung ke rekening pemilik warung setiap pukul 17.00 WIB, sehingga mereka tetap memiliki modal tunai untuk pasar esok pagi.
-* **Ide Alternatif 2 (Menjembatani Kasir Manual & Otomatisasi):**
-  Kasir manual tidak diberhentikan, melainkan dialihfungsikan menjadi *Duta Layanan Kantin* yang bertugas memandu mahasiswa senior atau tamu yang belum terbiasa menggunakan aplikasi mandiri, sekaligus mengelola titik bantuan fisik (*helpdesk*).
-* **Ide Alternatif 3 (Menjembatani Developer & Keterbatasan Server):**
-  Rilis sistem dilakukan secara bertahap (*phased roll-out*). Minggu pertama diuji coba hanya pada 2 warung makan terbesar, sembari tim teknis menstabilkan server sebelum diterapkan ke seluruh kantin kampus.
+* **Ide Alternatif 1 (Menjembatani Petugas Pengisi & Mahasiswa):** 
+  Rekap jam kosong disusun hanya per unit dan per jam, tanpa nama petugas, lalu dibaca bersama kepala sarana prasarana untuk menilai jadwal isi ulang, bukan kinerja orang.
+* **Ide Alternatif 2 (Menjembatani Teknisi & Pelapor):**
+  Pilihan Rusak pada form tidak diteruskan satu per satu, melainkan dirangkum dalam satu pesan mingguan yang dikirim lewat kanal resmi teknisi.
+* **Ide Alternatif 3 (Menjembatani Pengelola & Pengguna):**
+  Pilot dilakukan bertahap. Tahap 1 memakai QR yang dikirim lewat pesan tanpa menempel apa pun selama tiga hari. Tahap 2 memasang stiker kecil di tiga unit selama dua minggu, hanya bila Tahap 1 mencapai threshold dan pengelola memberi izin tertulis.
 * **Ide Alternatif 4 (Tulis Ide Orisinal Kelompok Anda):**
-  __________________________________________________________________________________________
-  __________________________________________________________________________________________
+  Stiker QR memuat teks netral "Laporkan status unit ini" tanpa membandingkan refill dengan air kemasan, dan pedagang air kemasan diberi tahu lebih dulu sebelum stiker dibuat.
+  Tabel status yang terbuka bagi mahasiswa hanya menampilkan status terakhir dan jam laporan, sedangkan rekap jam kosong per hari hanya dibaca petugas dan pengelola.
 
 ---
 
@@ -89,11 +89,12 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 
 | SIAPA (Penanggung Jawab Utama) | MELAKUKAN APA (Tindakan Spesifik & Jelas) | KAPAN (Tenggat Waktu Konkret) | PRASYARAT & SYARAT (Sumber daya/kondisi yang harus ada) | UKURAN SELESAI (Kapan tugas ini dinyatakan 100% tuntas?) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pihak A (Mahasiswa)** | Melakukan kampanye sosialisasi penggunaan aplikasi mandiri di kalangan mahasiswa. | Minggu ke-12 s.d. Minggu ke-13 | Disediakan materi infografis siap sebar oleh tim teknis. | 80% mahasiswa aktif mengetahui tata cara memesan lewat aplikasi. |
-| **Pihak B (Pemilik Warung)** | Memasang QR-Code pembayaran di meja saji dan mengikuti pelatihan operasional 1 jam. | Hari Jumat, Minggu ke-12 | Didampingi oleh asisten mahasiswa saat transaksi pertama. | Berhasil melayani 5 transaksi digital berturut-turut tanpa kendala. |
-| **Pihak C (Tim Teknis)** | Mengonfigurasi modul transfer harian otomatis (*auto-disbursement*) pukul 17.00 WIB. | Hari Rabu, Minggu ke-12 | Rekening bank seluruh pemilik warung telah terverifikasi. | Transfer uji coba senilai Rp10.000 sukses mendarat di rekening semua warung. |
-| **Pihak D (Manajemen)** | Menerbitkan surat keputusan pengalihan peran kasir manual menjadi Duta Layanan Kantin. | Hari Senin, Minggu ke-12 | Draf peran baru telah disetujui oleh perwakilan staf kantin. | Dokumen keputusan ditandatangani oleh Rektorat/Dekanat. |
-| **Pihak E (Staf/Kasir)** | Mengikuti pelatihan kepanduan sistem dan mengelola meja bantuan fisik (*helpdesk*). | Hari Sabtu, Minggu ke-12 | Disediakan modul panduan bergambar yang sederhana oleh tim teknis. | Kasir siap bertugas di pos bantuan fisik sejak hari pertama peluncuran. |
+| **Fasilitator (Kezia)** | Menyusun rekap Tahap 1 per unit dan per jam tanpa nama siapa pun, lalu mengirimkannya kepada petugas, pengelola, dan teknisi. | Kamis, 12 November 2026, pukul 20.00 | 27 catatan pengecekan dan laporan rekan dari Tahap 1. | Rekap tidak memuat nama, dan ketiga penerima sudah menerimanya. |
+| **Pihak A (Mahasiswa)** | Melaporkan status unit utama lewat QR setiap kali memakainya selama Tahap 2, dan menyampaikan kendala melapor pada review. | Senin, 23 November sampai Jumat, 4 Desember 2026 (review pukul 16.00) | Izin tertulis pengelola dan QR final. | Tabel memuat sedikitnya satu laporan pada 8 dari 10 hari kuliah. |
+| **Pihak B (Petugas Pengisi)** | Membaca rekap Tahap 1 dan menyatakan jam isi ulang mana yang dapat digeser sebelum pukul 12.00. | Jumat, 13 November 2026, pukul 16.00 | Rekap dari Kezia sudah diterima dan tidak memuat nama. | Petugas menyebut sedikitnya satu jam isi ulang yang dapat digeser, atau menyatakan tidak dapat digeser beserta alasannya. |
+| **Pihak C (Teknisi)** | Menetapkan satu kanal resmi untuk laporan kerusakan dan menyerahkan namanya kepada Kezia. | Jumat, 20 November 2026 | Daftar laporan Rusak dari Tahap 1. | Nama kanal resmi tercatat di form sebagai teks, tanpa nama pribadi teknisi. |
+| **Pihak D (Pengelola)** | Menerbitkan izin tertulis penempelan stiker QR di tiga unit selama dua minggu, dengan hak mencabut izin kapan saja. | Jumat, 20 November 2026, pukul 15.00 | Tahap 1 mencapai threshold (laporan cocok dengan pengecekan minimal 7 dari 9) dan draf stiker sudah diterima. | Izin tertulis yang menyebut tiga unit, tanggal mulai dan akhir, serta hak mencabut izin sudah diterima Kezia. |
+| **Pihak E (Pedagang Air Kemasan)** | Membaca draf teks stiker netral dan menyatakan setuju atau mengusulkan satu perubahan teks. | Rabu, 18 November 2026 | Draf stiker dari Kezia. | Jawaban setuju atau satu usulan perubahan teks sudah tercatat. |
 
 ---
 
@@ -101,16 +102,16 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 *Petunjuk: Negosiasi yang bertanggung jawab dan ksatria diukur melalui dua jalur yang seimbang. Setiap anggota kelompok memberikan penilaian mandiri (Skala 1 - 5) setelah simulasi berakhir.*
 
 ### **1. JALUR TUGAS (Apakah target tindakan tercapai secara efektif?)**
-*   **Skor Kelompok (1 s.d. 5):** _____ / 5
+*   **Skor Kelompok (1 s.d. 5):** 4 / 5
 *   *Bukti Nyata:* Apakah kesepakatan yang tertulis di Bagian 4 benar-benar operasional, realistis, dan menyelesaikan masalah nyata di lapangan secara objektif? Jelaskan buktinya:
-    __________________________________________________________________________________________
-    __________________________________________________________________________________________
+    Setiap butir di Bagian 4 memiliki satu penanggung jawab, tanggal, prasyarat, dan ukuran selesai yang dapat diperiksa. Tahap 2 dibuat bersyarat pada hasil Tahap 1 dan izin tertulis, sehingga tidak ada janji yang bergantung pada hal yang belum ada.
+    Belum mencapai 5 karena kelayakan Tahap 2 bergantung pada hasil Tahap 1 yang belum ada, dan satu ketidaksepakatan petugas tentang tampilan rekap masih dicatat sebagai dissent.
 
 ### **2. JALUR RELASI (Apakah rasa hormat, martabat batin, dan kerja sama terpelihara?)**
-*   **Skor Kelompok (1 s.d. 5):** _____ / 5
+*   **Skor Kelompok (1 s.d. 5):** 4 / 5
 *   *Bukti Nyata:* Apakah ada pihak yang merasa terancam, terpaksa, atau dibungkam suaranya selama perundingan? Bagaimana fasilitator memastikan pihak yang paling sunyi tetap memiliki ruang aman untuk menyuarakan pendapat? Jelaskan buktinya:
-    __________________________________________________________________________________________
-    __________________________________________________________________________________________
+    Petugas sempat defensif pada menit-menit awal, dan pedagang air kemasan nyaris tidak bersuara. Saya menyapa pedagang langsung dengan pertanyaan terbuka, memberi giliran bicara, dan mencatat kekhawatirannya sebagai dissent, bukan menghapusnya demi kesepakatan.
+    Belum mencapai 5 karena pada menit keenam saya sempat menawarkan solusi sebelum kepentingan petugas selesai digali.
 
 ---
 
@@ -119,9 +120,10 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 > *"Komunikasi profesional yang bertanggung jawab adalah komunikasi lingkar tertutup yang menghargai kebebasan memilih orang lain tanpa manipulasi. Refleksikan bagaimana Anda membaca kejutan di lapangan, menangkap makna nonverbal dari pihak-pihak yang defensif, serta bagaimana Anda mengelola ego kelompok agar tidak terjebak dalam perangkap debat kusir."*
 >
 > **Tuliskan refleksi Anda di bawah ini:**
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
+> Kejutan terbesar datang dari petugas pengisi. Saya mengira keberatannya soal QR, ternyata ia takut rekap jam kosong dibaca sebagai bukti ia lalai, padahal jadwal isi ulang bukan ia yang menentukan. Petunjuk awalnya nonverbal. Ia menyilangkan tangan dan menjawab singkat setiap kali kata rekap disebut, tetapi tampak santai saat saya menyebut form. Saya menangkapnya dengan mendengarkan tiga tingkat. Pada tingkat kata, ia menolak rekap. Pada tingkat makna, ia menolak dijadikan penanggung jawab jadwal. Pada tingkat pribadi, ia ingin dihargai atas pekerjaan berat yang tidak terlihat. Pertanyaan yang paling berguna adalah menanyakan apa yang paling ia khawatirkan jika rekap dibaca orang lain.
+>
+> Pedagang air kemasan nyaris tidak bersuara dan baru berbicara ketika saya menyapanya langsung dengan pertanyaan terbuka. Jawabannya menunjukkan ketakutan kehilangan penjualan, bukan penolakan terhadap refill. Saya tidak bisa menyelesaikan kekhawatiran itu karena belum ada data, jadi saya mencatatnya sebagai dissent. Perwakilan mahasiswa justru paling cepat berbicara dan sempat mengarahkan diskusi ke tuntutan stiker di semua unit. Saya membagi giliran bicara dan memparafrasa setiap pernyataan sebelum berpindah pihak, sehingga tuntutan itu tidak menutup suara yang lebih pelan.
+>
+> Ego kelompok muncul pada diri saya sendiri. Pada menit keenam saya sudah menawarkan rekap tanpa nama, padahal kepentingan petugas belum selesai digali. Observer mencatatnya, saya mengakuinya, lalu kembali bertanya. Pengalaman itu mengajarkan bahwa gagasan yang baik pun merugikan bila ditawarkan sebelum pihak lain merasa didengar. Saya juga hampir membuat semua pihak menyetujui satu paket. Memisahkan keputusan yang sudah disepakati dari yang belum membuat suasana lebih tenang dan menghindarkan kami dari debat siapa yang menang.
+>
+> Ke depan, saya akan menahan solusi sampai setiap pihak membenarkan bahwa kepentingannya sudah saya rangkum dengan tepat, dan menyiapkan pertanyaan khusus sejak awal untuk pihak yang paling sunyi.
